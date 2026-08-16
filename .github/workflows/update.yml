@@ -1,0 +1,41 @@
+name: セール告知の自動更新
+
+on:
+  schedule:
+    # 6時間ごと。セールの告知は朝10時や正午に出ることが多いので、
+    # JSTの朝・昼・夕・深夜に当たる時刻を選んでいる（cronはUTC）。
+    - cron: "0 0,6,12,18 * * *"
+  workflow_dispatch: {}
+
+concurrency:
+  group: travel-deal-update
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: セール告知を集める
+        run: python3 collect.py
+
+      - name: 中身が変わっていればコミット
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/deals.json
+          if git diff --staged --quiet; then
+            echo "新しい告知はありませんでした。コミットしません。"
+          else
+            git commit -m "セール告知の自動更新 $(TZ=Asia/Tokyo date '+%Y-%m-%d %H:%M')"
+            git push
+          fi
