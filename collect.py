@@ -411,7 +411,15 @@ CHIP_NOISE = re.compile(r"こちら|掲載申請|お申し込み|募集|楽天�
                         r"抽選で|初めて利用|会員登録|アプリ|ログイン|使い方")
 
 
-def collect_official(sources: dict) -> tuple[list[dict], int, int]:
+def collect_official(sources: dict, previous: dict, today: dt.date) -> tuple[list[dict], int, int]:
+    """公式ページから開催中のセール名を読む。
+
+    一休.com と Yahoo!トラベル は GitHub Actions のIPからだと 403 を返す
+    （自宅から素のHTTPで叩けば通る）。取れなかった回に空で上書きすると
+    「セールが消えた」ように見えるので、前回読めた内容をそのまま残して
+    「いつ時点のものか」を添える。
+    """
+    prev_items = {r["name"]: r for r in previous.get("running", [])}
     running: list[dict] = []
     ok = fail = 0
     for site in sources["official"]:
@@ -428,10 +436,18 @@ def collect_official(sources: dict) -> tuple[list[dict], int, int]:
             time.sleep(FETCH_INTERVAL)
             if not html:
                 fail += 1
-                entry["mode"] = "link"
-                entry["why"] = "今回は取得できなかった"
+                old = prev_items.get(site["name"], {})
+                if old.get("items"):
+                    # 前回読めた内容を残す。いつ時点かはサイト側で出す。
+                    entry["items"] = old["items"]
+                    entry["seen"] = old.get("seen") or today.isoformat()
+                    entry["stale"] = True
+                else:
+                    entry["mode"] = "link"
+                    entry["why"] = "今回は取得できなかった"
             else:
                 ok += 1
+                entry["seen"] = today.isoformat()
                 pattern = re.compile(site["link_pattern"])
                 seen: set[str] = set()
                 for m in re.finditer(r'<a\b[^>]*href="([^"]+)"[^>]*>(.*?)</a>', html, re.S | re.I):
@@ -453,6 +469,12 @@ def collect_official(sources: dict) -> tuple[list[dict], int, int]:
                         "size": extract_size(label),
                     })
                 entry["items"] = entry["items"][:8]
+                if not entry["items"]:
+                    old = prev_items.get(site["name"], {})
+                    if old.get("items"):
+                        entry["items"] = old["items"]
+                        entry["seen"] = old.get("seen")
+                        entry["stale"] = True
         running.append(entry)
     return running, ok, fail
 
@@ -503,7 +525,15 @@ def main() -> int:
     deals = build_deals(raw, sources["home"], today, sources.get("block_sources", []))
     print(f"  セール告知として残ったもの {len(deals)} 件")
 
-    running, off_ok, off_fail = collect_official(sources)
+    previous = {}
+    if os.path.exists(OUTPUT_PATH):
+        try:
+            with open(OUTPUT_PATH, encoding="utf-8") as fh:
+                previous = json.load(fh)
+        except (OSError, ValueError):
+            previous = {}
+
+    running, off_ok, off_fail = collect_official(sources, previous, today)
     print(f"  公式ページ 自動取得 {off_ok} 件 / 取れず {off_fail} 件")
 
     calendar = build_calendar(sources, today)
