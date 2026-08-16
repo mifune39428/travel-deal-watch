@@ -205,6 +205,59 @@ def home_match(title: str, home: dict) -> bool:
 NATIONWIDE = re.compile(r"全国|国内線|全路線|全国\d+|日本全国|国内対象|国内ツアー|国内宿泊")
 
 
+# ---------------------------------------------------------------- サムネイル
+
+OG_IMAGE = re.compile(
+    r'<meta[^>]+(?:property|name)="(?:og:image|twitter:image)(?::src)?"[^>]+content="([^"]+)"'
+    r'|<meta[^>]+content="([^"]+)"[^>]+(?:property|name)="(?:og:image|twitter:image)(?::src)?"',
+    re.I)
+
+# 1回の実行で新しく取りに行く記事数の上限。全部見ると相手先にも自分にも負担なので、
+# 取れたものはJSONに残して次回以降は使い回す。
+IMAGE_BUDGET = 25
+
+
+def fetch_image(url: str) -> str | None:
+    """記事ページの og:image を1つだけ拾う。Googleニュースの短縮URLは元記事に
+    戻せない仕様（base64にもリダイレクトにもURLが入っていない）ので最初から諦める。"""
+    if "news.google.com" in url:
+        return None
+    html = fetch(url)
+    if not html:
+        return None
+    m = OG_IMAGE.search(html)
+    if not m:
+        return None
+    src = htmllib.unescape(m.group(1) or m.group(2) or "").strip()
+    if not src.startswith("http"):
+        src = urllib.parse.urljoin(url, src)
+    # 中身のないプレースホルダやアイコンは弾く。
+    if re.search(r"(logo|icon|favicon|noimage|default)", src, re.I):
+        return None
+    return src
+
+
+def attach_images(deals: list[dict], previous: dict) -> int:
+    """前回ぶんを引き継ぎつつ、画像がまだ無いものを上限つきで取りに行く。"""
+    known = {d["url"]: d.get("image") for d in previous.get("deals", []) if d.get("image")}
+    # 「見に行ったが無かった」も覚えておく（毎回同じページを叩かないため）。
+    tried = set(previous.get("image_tried", []))
+    budget = IMAGE_BUDGET
+    for deal in deals:
+        if deal["url"] in known:
+            deal["image"] = known[deal["url"]]
+            continue
+        if deal["url"] in tried or "news.google.com" in deal["url"] or budget <= 0:
+            continue
+        budget -= 1
+        tried.add(deal["url"])
+        image = fetch_image(deal["url"])
+        time.sleep(FETCH_INTERVAL)
+        if image:
+            deal["image"] = image
+    return len(tried)
+
+
 # ---------------------------------------------------------------- RSS
 
 def parse_rss(xml: str, source: str, site: str) -> list[dict]:
@@ -522,6 +575,14 @@ def main() -> int:
     raw, news_ok, news_fail = collect_news(sources, today)
     print(f"  記事 {len(raw)} 本（取得成功 {news_ok} / 失敗 {news_fail}）")
 
+    previous = {}
+    if os.path.exists(OUTPUT_PATH):
+        try:
+            with open(OUTPUT_PATH, encoding="utf-8") as fh:
+                previous = json.load(fh)
+        except (OSError, ValueError):
+            previous = {}
+
     deals = build_deals(raw, sources["home"], today, sources.get("block_sources", []))
     print(f"  セール告知として残ったもの {len(deals)} 件")
 
@@ -532,6 +593,9 @@ def main() -> int:
                 previous = json.load(fh)
         except (OSError, ValueError):
             previous = {}
+
+    tried = attach_images(deals, previous)
+    print(f"  サムネイルつき {sum(1 for d in deals if d.get('image'))} 件")
 
     running, off_ok, off_fail = collect_official(sources, previous, today)
     print(f"  公式ページ 自動取得 {off_ok} 件 / 取れず {off_fail} 件")
@@ -554,7 +618,10 @@ def main() -> int:
         "deals": deals,
         "running": running,
         "calendar": calendar,
+        "image_tried": sorted({d["url"] for d in deals if "news.google.com" not in d["url"]}
+                              & (set(previous.get("image_tried", [])) | {d["url"] for d in deals})),
         "stats": {"articles": len(raw), "deals": len(deals),
+                  "images": sum(1 for d in deals if d.get("image")),
                   "fetched": news_ok + off_ok, "failed": failed},
     }
 
