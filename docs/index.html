@@ -146,7 +146,8 @@ function renderRunning(){
   const auto = DATA.running.filter(r => r.mode === "auto" && r.items.length);
   document.getElementById("running").innerHTML = auto.length ? auto.map(r => `
     <div class="card">
-      <span class="ttl">${r.name}<span class="tag plain" style="margin-left:8px">${r.kind}</span></span>
+      <span class="ttl">${r.name}<span class="tag plain" style="margin-left:8px">${r.kind}</span>${
+        r.stale ? `<span class="tag plain" style="margin-left:6px">${jp(r.seen)}時点</span>` : ""}</span>
       <div class="chips">${r.items.map(i =>
         `<a href="${i.url}" target="_blank" rel="noopener">${i.label}${i.size ? " " + i.size : ""}</a>`).join("")}</div>
     </div>`).join("")
