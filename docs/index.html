@@ -33,6 +33,22 @@
   .card{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:13px 14px;margin-bottom:9px}
   .card a{color:inherit;text-decoration:none}
   .card a:hover .ttl{text-decoration:underline}
+  .row{display:flex;gap:12px;align-items:flex-start}
+  .thumb{flex:0 0 88px;width:88px;height:88px;border-radius:10px;overflow:hidden;
+    background:var(--accent-soft);position:relative}
+  .thumb img{width:100%;height:100%;object-fit:cover;display:block}
+  .tile{width:100%;height:100%;display:flex;flex-direction:column;align-items:center;
+    justify-content:center;gap:2px;color:#fff;text-align:center;padding:4px}
+  .tile .ico{font-size:1.6rem;line-height:1.1}
+  .tile .amt{font-size:.72rem;font-weight:700;letter-spacing:-.02em;text-shadow:0 1px 2px rgba(0,0,0,.25)}
+  .tile .who{font-size:.62rem;opacity:.85}
+  .row .body{min-width:0;flex:1}
+  @media (max-width:430px){
+    .thumb{flex-basis:66px;width:66px;height:66px}
+    .tile .ico{font-size:1.25rem}
+    .tile .amt{font-size:.64rem}
+    .tile .who{display:none}
+  }
   .ttl{font-weight:600;font-size:.95rem;display:block}
   .meta{margin-top:6px;font-size:.76rem;color:var(--sub);display:flex;flex-wrap:wrap;gap:6px 10px;align-items:center}
   .tag{display:inline-block;font-size:.71rem;padding:1px 7px;border-radius:999px;
@@ -111,6 +127,45 @@ function daysLeft(iso){
   return Math.round((end - today) / 86400000);
 }
 
+// サービスごとの色。写真が無いぶんはこの色でタイルを作る。
+const BRAND = {
+  "楽天トラベル":"#bf0000", "じゃらん":"#f08300", "一休.com":"#1f2f4d", "Yahoo!トラベル":"#6b21a8",
+  "JTB":"#c8102e", "日本旅行":"#e60012", "るるぶトラベル":"#0093d0",
+  "ANA":"#13448f", "JAL":"#c8102e", "JR東日本":"#0a7d3e", "ふるさと納税":"#2f7d32"
+};
+const ICON = { "宿":"🏨", "航空券":"✈️", "鉄道・バス":"🚅", "ツアー":"🧳" };
+
+// タイルは幅が狭いので金額を万表記に縮める（「最大1万2000円」→「最大1.2万円」）。
+// 見出し横のタグは元の表記のまま出す。
+function shortAmount(size){
+  const m = size.match(/^(最大)?\s*(?:(\d+)万(\d*)|([\d,]+))円$/);
+  if(!m) return size;
+  const head = m[1] || "";
+  const value = m[2] ? Number(m[2]) * 10000 + Number(m[3] || 0) : Number(m[4].replace(/,/g, ""));
+  if(!value) return size;
+  if(value < 10000) return head + value.toLocaleString() + "円";
+  const man = value / 10000;
+  return head + (Number.isInteger(man) ? man : man.toFixed(1)) + "万円";
+}
+
+function tile(d){
+  const base = BRAND[d.service] || (d.kind === "航空券" ? "#0f766e" : d.kind === "鉄道・バス" ? "#3f6212" : "#155e63");
+  return `<div class="tile" style="background:linear-gradient(150deg,${base},${base}bb)">
+      <span class="ico">${ICON[d.kind] || "🧳"}</span>
+      ${d.size ? `<span class="amt">${shortAmount(d.size)}</span>` : ""}
+      ${d.service ? `<span class="who">${d.service}</span>` : ""}
+    </div>`;
+}
+
+function thumb(d){
+  if(!d.image) return `<div class="thumb">${tile(d)}</div>`;
+  // 画像が消えていた場合はタイルに差し替える（リンク切れの箱を出さない）。
+  return `<div class="thumb"><img src="${d.image}" alt="" loading="lazy" decoding="async"
+      referrerpolicy="no-referrer"
+      onerror="this.parentNode.innerHTML=this.dataset.fallback"
+      data-fallback='${tile(d).replace(/'/g, "&#39;")}'></div>`;
+}
+
 function dealCard(d){
   const tags = [];
   if(d.size) tags.push(`<span class="tag size">${d.size}</span>`);
@@ -127,10 +182,14 @@ function dealCard(d){
 
   const also = d.also && d.also.length ? `ほか${d.also.length}媒体` : "";
   return `<div class="card"><a href="${d.url}" target="_blank" rel="noopener">
-      <span class="ttl">${d.title}</span>
-      <div class="meta">${tags.join("")}${period}
-        <span>${d.published || ""}${d.source ? "・" + d.source : ""}${also ? "・" + also : ""}</span>
-      </div></a></div>`;
+    <div class="row">${thumb(d)}
+      <div class="body">
+        <span class="ttl">${d.title}</span>
+        <div class="meta">${tags.join("")}${period}
+          <span>${d.published || ""}${d.source ? "・" + d.source : ""}${also ? "・" + also : ""}</span>
+        </div>
+      </div>
+    </div></a></div>`;
 }
 
 function renderDeals(){
