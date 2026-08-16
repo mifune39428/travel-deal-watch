@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>旅トク｜秋田発・国内の宿セールまとめ</title>
+<meta name="description" content="国内の宿・航空券・新幹線のセール告知を6時間ごとに集めて並べています。秋田・東北で使えるものには印を付けています。">
+<meta name="theme-color" content="#0f766e">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🧳</text></svg>">
+<style>
+  :root{
+    --bg:#f6f7f5; --card:#fff; --ink:#1b2320; --sub:#5f6b66; --line:#e2e6e3;
+    --accent:#0f766e; --accent-soft:#e6f2f0; --hot:#b4442c; --hot-soft:#fbeae5;
+    --home:#8a5a00; --home-soft:#fdf1dc;
+  }
+  @media (prefers-color-scheme: dark){
+    :root{
+      --bg:#121614; --card:#1a201e; --ink:#e8ece9; --sub:#9aa8a2; --line:#2b3431;
+      --accent:#4fd1c5; --accent-soft:#16302d; --hot:#ff9b7a; --hot-soft:#3a2118;
+      --home:#f0c674; --home-soft:#33280f;
+    }
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--ink);
+    font-family:-apple-system,BlinkMacSystemFont,"Hiragino Sans","Noto Sans JP",sans-serif;
+    line-height:1.7;-webkit-text-size-adjust:100%}
+  .wrap{max-width:760px;margin:0 auto;padding:20px 16px 72px}
+  header h1{font-size:1.45rem;margin:0 0 4px;letter-spacing:.01em}
+  header p{margin:0;color:var(--sub);font-size:.86rem}
+  .updated{margin-top:10px;font-size:.78rem;color:var(--sub)}
+  h2{font-size:1.02rem;margin:34px 0 10px;padding-left:10px;border-left:3px solid var(--accent)}
+  h2 small{font-weight:400;color:var(--sub);font-size:.76rem;margin-left:8px}
+  .card{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:13px 14px;margin-bottom:9px}
+  .card a{color:inherit;text-decoration:none}
+  .card a:hover .ttl{text-decoration:underline}
+  .ttl{font-weight:600;font-size:.95rem;display:block}
+  .meta{margin-top:6px;font-size:.76rem;color:var(--sub);display:flex;flex-wrap:wrap;gap:6px 10px;align-items:center}
+  .tag{display:inline-block;font-size:.71rem;padding:1px 7px;border-radius:999px;
+    background:var(--accent-soft);color:var(--accent);font-weight:600;white-space:nowrap}
+  .tag.size{background:var(--hot-soft);color:var(--hot)}
+  .tag.home{background:var(--home-soft);color:var(--home)}
+  .tag.plain{background:transparent;color:var(--sub);border:1px solid var(--line);font-weight:400}
+  .filters{display:flex;flex-wrap:wrap;gap:7px;margin:12px 0 14px}
+  .filters button{font:inherit;font-size:.82rem;padding:5px 13px;border-radius:999px;cursor:pointer;
+    border:1px solid var(--line);background:var(--card);color:var(--sub)}
+  .filters button[aria-pressed="true"]{background:var(--accent);border-color:var(--accent);color:#fff;font-weight:600}
+  .cal{display:grid;gap:9px}
+  .cal .card{display:flex;justify-content:space-between;gap:12px;align-items:flex-start}
+  .cal .when{font-size:.8rem;color:var(--accent);font-weight:700;white-space:nowrap;text-align:right}
+  .cal .when em{display:block;font-style:normal;font-weight:400;color:var(--sub);font-size:.74rem}
+  .running .card{padding:11px 14px}
+  .chips{display:flex;flex-wrap:wrap;gap:6px;margin-top:8px}
+  .chips a{font-size:.8rem;padding:4px 10px;border-radius:8px;background:var(--accent-soft);
+    color:var(--accent);text-decoration:none;font-weight:600}
+  .manual{font-size:.82rem;color:var(--sub)}
+  .manual a{color:var(--accent);font-weight:600;text-decoration:none}
+  .note{font-size:.78rem;color:var(--sub);background:var(--card);border:1px dashed var(--line);
+    border-radius:10px;padding:11px 13px;margin-top:10px}
+  footer{margin-top:40px;font-size:.76rem;color:var(--sub);border-top:1px solid var(--line);padding-top:14px}
+  .empty{color:var(--sub);font-size:.86rem;padding:14px 2px}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>🧳 旅トク</h1>
+    <p>国内の宿・航空券・新幹線のセール告知を集めています。<b id="homeLabel">秋田</b>・東北で使えるものには印が付きます。</p>
+    <div class="updated">最終更新 <span id="updated">—</span>／6時間ごとに自動で見に行きます</div>
+  </header>
+
+  <h2>いま開催中<small>公式ページから直接読んだもの</small></h2>
+  <div id="running" class="running"></div>
+
+  <h2>今月の狙い目<small>毎月かならず来るもの</small></h2>
+  <div id="calendar" class="cal"></div>
+
+  <h2>新着のセール告知<small><span id="count">0</span>件</small></h2>
+  <div class="filters" id="filters">
+    <button data-kind="すべて" aria-pressed="true">すべて</button>
+    <button data-kind="宿" aria-pressed="false">宿</button>
+    <button data-kind="航空券" aria-pressed="false">航空券</button>
+    <button data-kind="鉄道・バス" aria-pressed="false">鉄道・バス</button>
+    <button data-kind="ツアー" aria-pressed="false">ツアー</button>
+    <button data-home="1" aria-pressed="false">秋田・東北だけ</button>
+  </div>
+  <div id="deals"></div>
+
+  <h2>自動で読めない社<small>ここは自分で開いて見る</small></h2>
+  <div id="manual" class="manual"></div>
+
+  <footer>
+    セール名・期間・割引率は各社の告知の見出しから機械的に取り出しています。
+    実際の条件は必ずリンク先で確かめてください。<br>
+    出所：TRAICY／airstair／sky-budget／Googleニュース検索、および各社の公式ページ。
+  </footer>
+</div>
+
+<script>
+const KIND_ORDER = ["宿","航空券","鉄道・バス","ツアー"];
+let DATA = null, kindFilter = "すべて", homeOnly = false;
+
+function jp(iso){
+  if(!iso) return "";
+  const [y,m,d] = iso.split("-").map(Number);
+  return `${m}月${d}日`;
+}
+function daysLeft(iso){
+  if(!iso) return null;
+  const today = new Date(); today.setHours(0,0,0,0);
+  const end = new Date(iso + "T00:00:00");
+  return Math.round((end - today) / 86400000);
+}
+
+function dealCard(d){
+  const tags = [];
+  if(d.size) tags.push(`<span class="tag size">${d.size}</span>`);
+  if(d.home) tags.push(`<span class="tag home">秋田・東北</span>`);
+  if(d.nationwide) tags.push(`<span class="tag">全国</span>`);
+  if(d.service) tags.push(`<span class="tag plain">${d.service}</span>`);
+
+  const left = daysLeft(d.ends);
+  let period = "";
+  if(d.ends) period = left !== null && left <= 7 && left >= 0
+      ? `<span class="tag size">${jp(d.ends)}まで（あと${left}日）</span>`
+      : `<span class="tag plain">${jp(d.ends)}まで</span>`;
+  else if(d.starts) period = `<span class="tag plain">${jp(d.starts)}から</span>`;
+
+  const also = d.also && d.also.length ? `ほか${d.also.length}媒体` : "";
+  return `<div class="card"><a href="${d.url}" target="_blank" rel="noopener">
+      <span class="ttl">${d.title}</span>
+      <div class="meta">${tags.join("")}${period}
+        <span>${d.published || ""}${d.source ? "・" + d.source : ""}${also ? "・" + also : ""}</span>
+      </div></a></div>`;
+}
+
+function renderDeals(){
+  const list = DATA.deals.filter(d =>
+    (kindFilter === "すべて" || d.kind === kindFilter) && (!homeOnly || d.home));
+  document.getElementById("count").textContent = list.length;
+  document.getElementById("deals").innerHTML = list.length
+    ? list.map(dealCard).join("")
+    : `<div class="empty">この条件に当てはまる告知は、いまありません。</div>`;
+}
+
+function renderRunning(){
+  const auto = DATA.running.filter(r => r.mode === "auto" && r.items.length);
+  document.getElementById("running").innerHTML = auto.length ? auto.map(r => `
+    <div class="card">
+      <span class="ttl">${r.name}<span class="tag plain" style="margin-left:8px">${r.kind}</span></span>
+      <div class="chips">${r.items.map(i =>
+        `<a href="${i.url}" target="_blank" rel="noopener">${i.label}${i.size ? " " + i.size : ""}</a>`).join("")}</div>
+    </div>`).join("")
+    : `<div class="empty">今回は開催中のセール名を読み取れませんでした。下の新着告知を見てください。</div>`;
+}
+
+function renderCalendar(){
+  const today = new Date().toISOString().slice(0,10);
+  document.getElementById("calendar").innerHTML = DATA.calendar.map(c => {
+    let when;
+    if(c.next){
+      const left = daysLeft(c.next);
+      when = `<div class="when">${jp(c.next)}<em>${left === 0 ? "今日" : left > 0 ? "あと" + left + "日" : ""}</em></div>`;
+    }else{
+      when = `<div class="when" style="color:var(--sub)">${c.hint || ""}</div>`;
+    }
+    const days = c.dates && c.dates.length
+      ? `<div class="meta"><span class="tag plain">今月 ${c.dates.map(d => jp(d)).join("・")}</span></div>` : "";
+    return `<div class="card">
+      <div><a href="${c.url}" target="_blank" rel="noopener"><span class="ttl">${c.name}</span></a>
+        <div class="meta"><span>${c.note}</span></div>${days}</div>
+      ${when}</div>`;
+  }).join("");
+}
+
+function renderManual(){
+  const manual = DATA.running.filter(r => r.mode === "link" || !r.items.length);
+  document.getElementById("manual").innerHTML = manual.map(r =>
+    `<div class="card"><a href="${r.url}" target="_blank" rel="noopener"><span class="ttl">${r.name}</span></a>
+      <div class="meta"><span class="tag plain">${r.kind}</span><span>${r.why || ""}</span></div></div>`).join("");
+}
+
+document.getElementById("filters").addEventListener("click", e => {
+  const btn = e.target.closest("button");
+  if(!btn) return;
+  if(btn.dataset.home){
+    homeOnly = !homeOnly;
+    btn.setAttribute("aria-pressed", String(homeOnly));
+  }else{
+    kindFilter = btn.dataset.kind;
+    document.querySelectorAll("#filters button[data-kind]").forEach(b =>
+      b.setAttribute("aria-pressed", String(b === btn)));
+  }
+  renderDeals();
+});
+
+fetch("deals.json?t=" + Date.now())
+  .then(r => r.json())
+  .then(data => {
+    DATA = data;
+    document.getElementById("updated").textContent = data.updated;
+    if(data.home && data.home.label) document.getElementById("homeLabel").textContent = data.home.label;
+    renderRunning(); renderCalendar(); renderDeals(); renderManual();
+  })
+  .catch(() => {
+    document.getElementById("deals").innerHTML =
+      `<div class="empty">データを読み込めませんでした。時間をおいて開き直してください。</div>`;
+  });
+</script>
+</body>
+</html>

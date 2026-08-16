@@ -1,0 +1,188 @@
+{
+  "_meta": "秋田発・国内の宿を主役にした「セール告知」の集め先。実測で取得できることを確認した先だけを載せている（2026-08-16）。",
+  "feeds": [
+    {
+      "name": "TRAICY",
+      "url": "https://www.traicy.com/feed",
+      "site": "https://www.traicy.com/"
+    },
+    {
+      "name": "airstair",
+      "url": "https://airstair.jp/feed/",
+      "site": "https://airstair.jp/"
+    },
+    {
+      "name": "sky-budget",
+      "url": "https://sky-budget.com/feed/",
+      "site": "https://sky-budget.com/"
+    }
+  ],
+  "_news_note": "Googleニュース検索は1クエリ1キーワードで投げる。OR を入れると結果が壊れるため（minimalist_news_site で確認済み）。",
+  "news_queries": [
+    "楽天トラベル セール",
+    "楽天トラベル クーポン",
+    "じゃらん クーポン",
+    "じゃらん セール",
+    "一休 タイムセール",
+    "Yahoo!トラベル セール",
+    "JTB セール",
+    "日本旅行 セール",
+    "ANA タイムセール",
+    "JAL タイムセール",
+    "国内線 セール 航空券",
+    "ふるさと納税 宿泊券",
+    "秋田 宿泊 割引",
+    "東北 宿泊 クーポン",
+    "JR東日本 トクだ値"
+  ],
+  "_official_note": "mode=auto は素のHTTPで開催中のセール名が取れる社。mode=link は料金・セール名がJS描画やWAFで取れない社（じゃらん・JAL・ANA）。sim_plan_watch と同じで、取れない社は黙って落とさずリンクだけ出す。",
+  "official": [
+    {
+      "name": "楽天トラベル",
+      "kind": "宿",
+      "mode": "auto",
+      "url": "https://travel.rakuten.co.jp/coupon/",
+      "link_pattern": "/(special|camp|coupon/special)/"
+    },
+    {
+      "name": "一休.com",
+      "kind": "宿",
+      "mode": "auto",
+      "url": "https://www.ikyu.com/campaign/",
+      "link_pattern": "/(special)/"
+    },
+    {
+      "name": "Yahoo!トラベル",
+      "kind": "宿",
+      "mode": "auto",
+      "url": "https://travel.yahoo.co.jp/campaign/",
+      "link_pattern": "/(feature)/"
+    },
+    {
+      "name": "じゃらん",
+      "kind": "宿",
+      "mode": "link",
+      "url": "https://www.jalan.net/theme/",
+      "why": "特集バナーが JavaScript 描画で、HTMLにはセール名が入らない"
+    },
+    {
+      "name": "JTB",
+      "kind": "宿",
+      "mode": "link",
+      "url": "https://www.jtb.co.jp/kokunai-hotel/",
+      "why": "セール名の位置が回ごとに変わるため手で見るほうが早い"
+    },
+    {
+      "name": "るるぶトラベル",
+      "kind": "宿",
+      "mode": "link",
+      "url": "https://www.rurubu.travel/",
+      "why": "同上"
+    },
+    {
+      "name": "ANA",
+      "kind": "航空券",
+      "mode": "link",
+      "url": "https://www.ana.co.jp/ja/jp/",
+      "why": "キャンペーン一覧の固定URLが無く、404になる"
+    },
+    {
+      "name": "JAL",
+      "kind": "航空券",
+      "mode": "link",
+      "url": "https://www.jal.co.jp/jp/ja/dom/",
+      "why": "素のHTTPは403（WAF）。ブラウザでしか開けない"
+    },
+    {
+      "name": "JR東日本 えきねっと",
+      "kind": "鉄道",
+      "mode": "link",
+      "url": "https://www.eki-net.com/top/tokudane/",
+      "why": "ログイン前提の画面が多い"
+    }
+  ],
+  "_calendar_note": "毎月かならず来る定番だけ。日付まで確実に決まっているものは day を持ち、時期の目安しか無いものは hint を持つ（決め打ちで嘘の日付を出さないため）。",
+  "calendar": [
+    {
+      "name": "楽天トラベル 5と0のつく日",
+      "kind": "宿",
+      "days": [
+        5,
+        10,
+        15,
+        20,
+        25,
+        30
+      ],
+      "note": "毎月5・10・15・20・25・30日にクーポン配布。要エントリー。",
+      "url": "https://travel.rakuten.co.jp/camp/50luxday/"
+    },
+    {
+      "name": "楽天トラベル クーポン祭",
+      "kind": "宿",
+      "hint": "月末〜月初にかけて",
+      "note": "月末のスペシャルクーポンWEEKと合わせて配布されることが多い。",
+      "url": "https://travel.rakuten.co.jp/coupon/special/matsuri/"
+    },
+    {
+      "name": "じゃらん お得な10日間",
+      "kind": "宿",
+      "hint": "毎月20日ごろから10日間",
+      "note": "クーポンの事前配布が月の上旬にある。配布日に取り逃すと使えない。",
+      "url": "https://www.jalan.net/theme/"
+    },
+    {
+      "name": "一休.com 一休の日セール",
+      "kind": "宿",
+      "hint": "不定期（月1回前後）",
+      "note": "対象宿が最大20%OFF。開催はニュース欄で確認する。",
+      "url": "https://www.ikyu.com/campaign/"
+    },
+    {
+      "name": "Yahoo!トラベル 超得セール",
+      "kind": "宿",
+      "hint": "常設＋強化週あり",
+      "note": "PayPayポイント上乗せの週を狙う。",
+      "url": "https://travel.yahoo.co.jp/campaign/"
+    },
+    {
+      "name": "ANA・JAL 国内線タイムセール",
+      "kind": "航空券",
+      "hint": "年に数回、搭乗2〜6か月前に告知",
+      "note": "秋田＝羽田・伊丹・新千歳・中部が対象になることが多い。告知はニュース欄に出る。",
+      "url": "https://www.ana.co.jp/ja/jp/"
+    }
+  ],
+  "_home_note": "秋田空港の定期路線。ここ発着の話が出たら「秋田で使える」印を付ける。",
+  "home": {
+    "label": "秋田",
+    "airport": "秋田空港",
+    "routes": [
+      "羽田",
+      "東京",
+      "伊丹",
+      "大阪",
+      "新千歳",
+      "札幌",
+      "中部",
+      "名古屋",
+      "那覇",
+      "沖縄"
+    ],
+    "areas": [
+      "秋田",
+      "東北",
+      "青森",
+      "岩手",
+      "山形",
+      "宮城",
+      "福島",
+      "仙台"
+    ]
+  },
+  "_block_note": "まとめ記事の切れ端や転載スパムを流す媒体。見出しが壊れていて役に立たない。",
+  "block_sources": [
+    "Mshale",
+    "Yahoo!ニュース"
+  ]
+}
