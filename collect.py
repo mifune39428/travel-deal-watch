@@ -28,6 +28,7 @@ import urllib.request
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 SOURCES_PATH = os.path.join(BASE_DIR, "sources.json")
 OUTPUT_PATH = os.path.join(BASE_DIR, "docs", "deals.json")
+PLACES_PATH = os.path.join(BASE_DIR, "docs", "places.json")
 
 USER_AGENT = (
     "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 "
@@ -562,6 +563,39 @@ def build_calendar(sources: dict, today: dt.date) -> list[dict]:
     return rows
 
 
+# ---------------------------------------------------------------- 行き先の検索キー
+
+def fill_place_queries() -> int:
+    """行き先さがしの各地に、じゃらんの検索キーワードを入れておく。
+
+    **じゃらんの宿検索は keyword を Shift_JIS で渡さないと文字化けする**
+    （UTF-8で渡すと「驫?螻ｱ貂ｩ豕?」になり0件になる）。ブラウザ側でShift_JISに
+    するには変換表がまるごと要るので、ここで作って places.json に持たせる。
+    楽天は UTF-8 のままでいいので、サイト側で組み立てる。
+    """
+    if not os.path.exists(PLACES_PATH):
+        return 0
+    with open(PLACES_PATH, encoding="utf-8") as fh:
+        data = json.load(fh)
+    filled = 0
+    for place in data.get("places", []):
+        # 「乳頭温泉郷」のように長い名前でも、括弧や中黒より前だけで引くほうが当たる。
+        keyword = re.split(r"[・(（]", place["name"])[0]
+        try:
+            encoded = urllib.parse.quote(keyword.encode("shift_jis"))
+        except UnicodeEncodeError:
+            continue
+        if place.get("jalan_q") != encoded or place.get("query") != keyword:
+            place["query"] = keyword
+            place["jalan_q"] = encoded
+            filled += 1
+    if filled:
+        with open(PLACES_PATH, "w", encoding="utf-8") as fh:
+            json.dump(data, fh, ensure_ascii=False, indent=1)
+            fh.write("\n")
+    return filled
+
+
 # ---------------------------------------------------------------- 書き出し
 
 def main() -> int:
@@ -601,6 +635,10 @@ def main() -> int:
     print(f"  公式ページ 自動取得 {off_ok} 件 / 取れず {off_fail} 件")
 
     calendar = build_calendar(sources, today)
+
+    filled = fill_place_queries()
+    if filled:
+        print(f"  行き先の検索キーワードを {filled} 件そろえました")
 
     # 半分以上が取れなかった回は書き込まない。一時的な通信失敗で
     # 「セールが全部消えた」ように見えるのを防ぐ（apple_price_watch と同じ蓋）。

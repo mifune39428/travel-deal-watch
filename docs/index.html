@@ -72,6 +72,46 @@
   .manual a{color:var(--accent);font-weight:600;text-decoration:none}
   .note{font-size:.78rem;color:var(--sub);background:var(--card);border:1px dashed var(--line);
     border-radius:10px;padding:11px 13px;margin-top:10px}
+  .adv{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:14px}
+  .adv input[type=search]{width:100%;font:inherit;font-size:.92rem;padding:9px 12px;border-radius:10px;
+    border:1px solid var(--line);background:var(--bg);color:var(--ink)}
+  .adv h3{font-size:.84rem;margin:16px 0 7px;color:var(--sub);font-weight:600}
+  .hits{display:flex;flex-direction:column;gap:6px;margin-top:8px}
+  .hit{display:flex;align-items:center;gap:8px;justify-content:space-between;
+    border:1px solid var(--line);border-radius:9px;padding:7px 10px;font-size:.86rem}
+  .hit .where{min-width:0}
+  .hit .where em{font-style:normal;color:var(--sub);font-size:.75rem;margin-left:6px}
+  .hit .acts{display:flex;gap:5px;flex:0 0 auto}
+  .hit button{font:inherit;font-size:.76rem;padding:3px 9px;border-radius:7px;cursor:pointer;
+    border:1px solid var(--line);background:var(--bg);color:var(--sub);white-space:nowrap}
+  .hit button.went:hover{border-color:var(--accent);color:var(--accent)}
+  .hit button.want:hover{border-color:var(--home);color:var(--home)}
+  .picked{display:flex;flex-wrap:wrap;gap:6px}
+  .picked span{font-size:.78rem;padding:3px 9px;border-radius:999px;cursor:pointer;
+    background:var(--accent-soft);color:var(--accent);border:1px solid transparent}
+  .picked span.want{background:var(--home-soft);color:var(--home)}
+  .picked span:hover{border-color:currentColor;text-decoration:line-through}
+  .picked .none{background:transparent;color:var(--sub);cursor:default;font-size:.8rem}
+  .sug{border:1px solid var(--line);border-radius:11px;padding:11px 13px;margin-bottom:8px;background:var(--bg)}
+  .sug .name{font-weight:700;font-size:.95rem}
+  .sug .name em{font-style:normal;font-weight:400;color:var(--sub);font-size:.78rem;margin-left:7px}
+  .sug .why{margin-top:6px;display:flex;flex-wrap:wrap;gap:5px}
+  .sug .why span{font-size:.73rem;padding:1px 8px;border-radius:999px;background:var(--accent-soft);color:var(--accent)}
+  .sug .why span.sale{background:var(--hot-soft);color:var(--hot);font-weight:700}
+  .sug .go{margin-top:8px;display:flex;flex-wrap:wrap;gap:6px}
+  .sug .go a{font-size:.78rem;padding:3px 10px;border-radius:8px;text-decoration:none;
+    border:1px solid var(--line);color:var(--sub)}
+  .sug .go a.hot{border-color:var(--hot);color:var(--hot);font-weight:600}
+  .toggles{display:flex;flex-wrap:wrap;gap:7px;margin-top:10px}
+  .toggles button{font:inherit;font-size:.79rem;padding:4px 12px;border-radius:999px;cursor:pointer;
+    border:1px solid var(--line);background:var(--bg);color:var(--sub)}
+  .toggles button[aria-pressed="true"]{background:var(--accent);border-color:var(--accent);color:#fff;font-weight:600}
+  .sync{margin-top:14px;font-size:.78rem;color:var(--sub)}
+  .sync textarea{width:100%;height:70px;font:inherit;font-size:.72rem;margin-top:6px;padding:8px;
+    border-radius:8px;border:1px solid var(--line);background:var(--bg);color:var(--ink)}
+  .sync .row2{display:flex;gap:6px;margin-top:6px}
+  .sync button{font:inherit;font-size:.78rem;padding:4px 12px;border-radius:8px;cursor:pointer;
+    border:1px solid var(--line);background:var(--card);color:var(--sub)}
   footer{margin-top:40px;font-size:.76rem;color:var(--sub);border-top:1px solid var(--line);padding-top:14px}
   .empty{color:var(--sub);font-size:.86rem;padding:14px 2px}
 </style>
@@ -89,6 +129,35 @@
 
   <h2>今月の狙い目<small>毎月かならず来るもの</small></h2>
   <div id="calendar" class="cal"></div>
+
+  <h2>🧭 行き先さがし<small>行った場所・行きたい場所から、まだ行っていないところを出す</small></h2>
+  <div class="adv">
+    <input type="search" id="placeSearch" placeholder="地名・県名・「温泉」「離島」などで探す（例：銀山、鹿児島、雪）" autocomplete="off">
+    <div class="hits" id="hits"></div>
+
+    <h3>行ったところ<small></small></h3>
+    <div class="picked" id="wentList"></div>
+    <h3>行きたいところ</h3>
+    <div class="picked" id="wantList"></div>
+
+    <div class="toggles" id="advToggles">
+      <button data-far="near" aria-pressed="true">近場を優先</button>
+      <button data-far="any" aria-pressed="false">遠出もあり</button>
+    </div>
+
+    <h3>この条件だと、こんなところ</h3>
+    <div id="suggest"></div>
+
+    <div class="sync">
+      別の端末へ移すとき用。記録はこのブラウザにだけ保存されます。
+      <textarea id="syncBox" placeholder="ここに書き出し／別の端末の中身を貼って読み込み"></textarea>
+      <div class="row2">
+        <button id="syncOut">書き出す</button>
+        <button id="syncIn">貼ったものを読み込む</button>
+        <button id="syncClear">記録を全部消す</button>
+      </div>
+    </div>
+  </div>
 
   <h2>新着のセール告知<small><span id="count">0</span>件</small></h2>
   <div class="filters" id="filters">
@@ -239,6 +308,200 @@ function renderManual(){
       <div class="meta"><span class="tag plain">${r.kind}</span><span>${r.why || ""}</span></div></div>`).join("");
 }
 
+/* ============================ 行き先さがし ============================ */
+const STORE = "tabitoku.places.v1";
+let PLACES = [], went = [], want = [], farMode = "near";
+
+function loadStore(){
+  try{
+    const raw = JSON.parse(localStorage.getItem(STORE) || "{}");
+    went = Array.isArray(raw.went) ? raw.went : [];
+    want = Array.isArray(raw.want) ? raw.want : [];
+    farMode = raw.farMode === "any" ? "any" : "near";
+  }catch(e){ went = []; want = []; }
+}
+function saveStore(){
+  localStorage.setItem(STORE, JSON.stringify({went, want, farMode}));
+}
+const byId = id => PLACES.find(p => p.id === id);
+const prefShort = pref => pref.replace(/[都道府県]$/, "");
+
+// その土地のセールが今出ているか。
+// 地名そのものが見出しに出ていれば「いまセール中」、県名どまりなら「◯◯のセールあり」。
+// 県名だけで同じ扱いにすると、山形の宿のセール1本で山形県の全温泉地が
+// 「セール中」になってしまう。
+function salesFor(place){
+  if(!DATA) return {strong: [], weak: []};
+  const head = place.name.split(/[・(（]/)[0];
+  const pref = prefShort(place.pref);
+  const strong = [], weak = [];
+  DATA.deals.forEach(d => {
+    if(head.length >= 2 && d.title.includes(head)) strong.push(d);
+    else if(pref.length >= 2 && d.title.includes(pref) && d.kind === "宿") weak.push(d);
+  });
+  return {strong: strong.slice(0, 3), weak: weak.slice(0, 2)};
+}
+
+function searchPlaces(query){
+  const q = query.trim();
+  if(!q) return [];
+  return PLACES.filter(p =>
+    p.name.includes(q) || p.pref.includes(q) || p.region.includes(q) || p.tags.some(t => t.includes(q))
+  ).slice(0, 8);
+}
+
+function renderHits(){
+  const q = document.getElementById("placeSearch").value;
+  const hits = searchPlaces(q);
+  document.getElementById("hits").innerHTML = hits.map(p => {
+    const state = went.includes(p.id) ? "行った" : want.includes(p.id) ? "行きたい" : "";
+    return `<div class="hit"><div class="where">${p.name}<em>${p.pref}・${p.tags.slice(0,3).join("／")}${
+      state ? "・登録済み（" + state + "）" : ""}</em></div>
+      <div class="acts">
+        <button class="went" data-add="went" data-id="${p.id}">✓ 行った</button>
+        <button class="want" data-add="want" data-id="${p.id}">☆ 行きたい</button>
+      </div></div>`;
+  }).join("");
+}
+
+function chips(ids, cls){
+  if(!ids.length) return `<span class="none">まだありません</span>`;
+  return ids.map(id => {
+    const p = byId(id);
+    return p ? `<span class="${cls}" data-remove="${cls}" data-id="${id}" title="押すと消えます">${p.name}</span>` : "";
+  }).join("");
+}
+
+function renderPicked(){
+  document.getElementById("wentList").innerHTML = chips(went, "went");
+  document.getElementById("wantList").innerHTML = chips(want, "want");
+}
+
+function suggest(){
+  const month = new Date().getMonth() + 1;
+  const nextMonth = month === 12 ? 1 : month + 1;
+  const wantPlaces = want.map(byId).filter(Boolean);
+  const wentPlaces = went.map(byId).filter(Boolean);
+  const wentPrefs = new Set(wentPlaces.map(p => p.pref));
+  const wantRegions = {};
+  wantPlaces.forEach(p => { wantRegions[p.region] = (wantRegions[p.region] || 0) + 1; });
+
+  const rows = PLACES
+    .filter(p => !went.includes(p.id) && !want.includes(p.id))
+    .map(p => {
+      let score = 0; const why = [];
+
+      // 行きたい場所とタグがどれだけ重なるか
+      let best = null, bestRatio = 0;
+      wantPlaces.forEach(w => {
+        const shared = p.tags.filter(t => w.tags.includes(t));
+        const ratio = shared.length / Math.min(p.tags.length, w.tags.length);
+        if(ratio > bestRatio){ bestRatio = ratio; best = {w, shared}; }
+      });
+      if(best && bestRatio >= 0.4){
+        score += Math.round(bestRatio * 35);
+        why.push(`${best.w.name}と同じ${best.shared.slice(0,2).join("・")}`);
+      }
+
+      if(!wentPrefs.has(p.pref)){ score += 12; why.push("まだ行っていない県"); }
+      if(wantRegions[p.region]){ score += 8; }
+
+      if(p.best.includes(month)){ score += 18; why.push("今月が見ごろ"); }
+      else if(p.best.includes(nextMonth)){ score += 8; why.push("来月が見ごろ"); }
+
+      if(farMode === "near"){
+        score += p.access === "日帰り" ? 18 : p.access === "1泊" ? 12 : 0;
+      }else{
+        score += p.access === "遠征" ? 8 : p.access === "1泊" ? 6 : 4;
+      }
+      why.push(p.access === "日帰り" ? "秋田から日帰り圏" : p.access === "1泊" ? "秋田から1泊圏" : "遠出（" + p.via + "）");
+
+      const sales = salesFor(p);
+      if(sales.strong.length) score += 25;
+      else if(sales.weak.length) score += 10;
+
+      return {place: p, score, why, sales};
+    })
+    .sort((a, b) => b.score - a.score)
+    .slice(0, 6);
+
+  const hint = want.length === 0
+    ? `<div class="empty">行きたいところを2〜3か所入れると、似た雰囲気の場所を探せます。いまは季節と距離だけで出しています。</div>`
+    : "";
+
+  document.getElementById("suggest").innerHTML = hint + rows.map(r => {
+    const p = r.place;
+    const saleTags = r.sales.strong.length
+      ? `<span class="sale">いまセール中</span>`
+      : r.sales.weak.length ? `<span class="sale">${prefShort(p.pref)}のセールあり</span>` : "";
+    // 楽天はUTF-8のキーワード検索。じゃらんは keyword を Shift_JIS で渡す決まりなので、
+    // places.json に入れておいた変換済みの文字列を使う。
+    const q = p.query || p.name;
+    const links = [
+      `<a href="https://kw.travel.rakuten.co.jp/keyword/Search.do?charset=utf-8&f_query=${
+        encodeURIComponent(q)}" target="_blank" rel="noopener">楽天で宿を探す</a>`
+    ];
+    if(p.jalan_q) links.push(
+      `<a href="https://www.jalan.net/uw/uwp2011/uww2011init.do?keyword=${p.jalan_q}" target="_blank" rel="noopener">じゃらんで探す</a>`);
+    [...r.sales.strong, ...r.sales.weak].forEach(d => links.push(
+      `<a class="hot" href="${d.url}" target="_blank" rel="noopener">${d.size ? d.size + "の" : ""}セール告知</a>`));
+    return `<div class="sug">
+      <div class="name">${p.name}<em>${p.pref}・${p.tags.slice(0,3).join("／")}</em></div>
+      <div class="why">${saleTags}${r.why.map(w => `<span>${w}</span>`).join("")}</div>
+      <div class="go">${links.join("")}</div>
+    </div>`;
+  }).join("");
+}
+
+function renderAdvisor(){ renderHits(); renderPicked(); suggest(); }
+
+document.getElementById("placeSearch").addEventListener("input", renderHits);
+
+document.getElementById("hits").addEventListener("click", e => {
+  const btn = e.target.closest("button[data-add]");
+  if(!btn) return;
+  const {add, id} = btn.dataset;
+  went = went.filter(x => x !== id);
+  want = want.filter(x => x !== id);
+  (add === "went" ? went : want).unshift(id);
+  saveStore(); renderAdvisor();
+});
+
+document.querySelectorAll("#wentList, #wantList").forEach(el =>
+  el.addEventListener("click", e => {
+    const chip = e.target.closest("span[data-remove]");
+    if(!chip) return;
+    went = went.filter(x => x !== chip.dataset.id);
+    want = want.filter(x => x !== chip.dataset.id);
+    saveStore(); renderAdvisor();
+  }));
+
+document.getElementById("advToggles").addEventListener("click", e => {
+  const btn = e.target.closest("button[data-far]");
+  if(!btn) return;
+  farMode = btn.dataset.far;
+  document.querySelectorAll("#advToggles button").forEach(b =>
+    b.setAttribute("aria-pressed", String(b === btn)));
+  saveStore(); suggest();
+});
+
+document.getElementById("syncOut").addEventListener("click", () => {
+  document.getElementById("syncBox").value = JSON.stringify({went, want, farMode});
+});
+document.getElementById("syncIn").addEventListener("click", () => {
+  try{
+    const raw = JSON.parse(document.getElementById("syncBox").value);
+    went = Array.isArray(raw.went) ? raw.went : went;
+    want = Array.isArray(raw.want) ? raw.want : want;
+    saveStore(); renderAdvisor();
+  }catch(e){ alert("読み込めませんでした。書き出した中身をそのまま貼ってください。"); }
+});
+document.getElementById("syncClear").addEventListener("click", () => {
+  if(!confirm("行った・行きたいの記録を全部消します。よろしいですか？")) return;
+  went = []; want = []; saveStore(); renderAdvisor();
+});
+
+/* ============================ セール一覧 ============================ */
 document.getElementById("filters").addEventListener("click", e => {
   const btn = e.target.closest("button");
   if(!btn) return;
@@ -253,10 +516,18 @@ document.getElementById("filters").addEventListener("click", e => {
   renderDeals();
 });
 
-fetch("deals.json?t=" + Date.now())
-  .then(r => r.json())
-  .then(data => {
+loadStore();
+document.querySelectorAll("#advToggles button").forEach(b =>
+  b.setAttribute("aria-pressed", String(b.dataset.far === farMode)));
+
+Promise.all([
+  fetch("deals.json?t=" + Date.now()).then(r => r.json()),
+  fetch("places.json").then(r => r.json())
+])
+  .then(([data, placeData]) => {
     DATA = data;
+    PLACES = placeData.places;
+    renderAdvisor();
     document.getElementById("updated").textContent = data.updated;
     if(data.home && data.home.label) document.getElementById("homeLabel").textContent = data.home.label;
     renderRunning(); renderCalendar(); renderDeals(); renderManual();
