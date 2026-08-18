@@ -65,8 +65,8 @@
  "deals": [
   {
    "also": [
-    "千葉テレビ放送",
-    "ライブドアニュース"
+    "chiba-tv.com",
+    "news.livedoor.com"
    ],
    "ends": null,
    "home": false,
@@ -114,7 +114,7 @@
   },
   {
    "also": [
-    "千葉テレビ放送"
+    "chiba-tv.com"
    ],
    "ends": null,
    "home": true,
@@ -135,34 +135,50 @@
    ],
    "ends": null,
    "home": false,
-   "image": "https://www.traicy.com/wp-content/uploads/2026/08/rakutentravel.jpg",
-   "kind": "宿",
-   "nationwide": false,
-   "published": "2026-08-16",
-   "score": 72,
-   "service": "楽天トラベル",
-   "size": "最大30%OFF",
-   "source": "TRAICY",
-   "starts": null,
-   "title": "楽天トラベル、「最高級宿スペシャルオファー」 最大30％オフ",
-   "url": "https://www.traicy.com/posts/20260816379286/"
-  },
-  {
-   "also": [
-    "TRAICY（トライシー）"
-   ],
-   "ends": null,
-   "home": false,
    "kind": "宿",
    "nationwide": false,
    "published": "2026-08-16",
    "score": 72,
    "service": "楽天トラベル",
    "size": "最大8,000円",
-   "source": "千葉テレビ放送",
+   "source": "chiba-tv.com",
    "starts": null,
    "title": "楽天トラベル、「JR楽パック赤い風船 秋冬旅行予約開始キャンペーン」を開催中 最大8,000円クーポンなど",
    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9zQUIzaDFCamFMS3JqdXY1YUtNd1JoOVB0ZnluOHRlMTlqTUY3X2pQYVA0Q1RuTnhnTFNsTGRiV0dDRnU1ZjBPRTM3c3NVRVJuUHFaOHVaN21jS2tJazdv?oc=5"
+  },
+  {
+   "also": [
+    "TRAICY（トライシー）",
+    "chiba-tv.com"
+   ],
+   "ends": null,
+   "home": false,
+   "kind": "宿",
+   "nationwide": false,
+   "published": "2026-08-18",
+   "score": 72,
+   "service": "じゃらん",
+   "size": "最大2万円",
+   "source": "TRAICY",
+   "starts": null,
+   "title": "じゃらんnet、「じゃらんクーポンフェス」開催 最大2万円クーポン配布",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1uM0l3TFpRbXpOc0I4TEVVQV90eE83VHVsblRuaXREV045cm1xd2MxeHRMb3Q5U2NEZ3lOcXR0Mmh4cTNBSmJjZ1FSekFTd2Jqc1YwVWE2aw?oc=5"
+  },
+  {
+   "also": [],
+   "ends": null,
+   "home": true,
+   "image": "https://airstair.jp/images/2022/12/shutterstock_1174413808.webp",
+   "kind": "宿",
+   "nationwide": false,
+   "published": "2026-08-18",
+   "score": 72,
+   "service": "",
+   "size": "",
+   "source": "airstair",
+   "starts": "2026-11-01",
+   "title": "秋田県「得旅キャンペーン」第2弾は2026年10月1日クーポン配布開始 宿泊は2026年11月1日から",
+   "url": "https://airstair.jp/akita-campaign/"
   },
   {
    "also": [
@@ -184,8 +200,8 @@
   },
   {
    "also": [
-    "千葉テレビ放送",
-    "ライブドアニュース"
+    "chiba-tv.com",
+    "news.livedoor.com"
    ],
    "ends": "2026-08-19",
    "home": false,
@@ -214,6 +230,21 @@
    "starts": null,
    "title": "じゃらんnet、「じゃらんのお得な10日間」開催 最大36％お得に",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE82eDFQQnl6bUtNQmkwR3MwWG1hMS1Lc0c2VnRvUUZLa1I5LWkyWS0yWmlLSURITUUwQ0VsVk4tVVlldnpWaGxyc0o2WDlTX3A2UjhVU1JDYw?oc=5"
+  },
+  {
+   "also": [],
+   "ends": null,
+   "home": false,
+   "kind": "宿",
+   "nationwide": false,
+   "published": "2026-08-16",
+   "score": 67,
+   "service": "楽天トラベル",
+   "size": "最大30%OFF",
+   "source": "TRAICY（トライシー）",
+   "starts": null,
+   "title": "楽天トラベル、「最高級宿スペシャルオファー」 最大30％オフ",
+   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBCSkktRm5uMTRuNTUwR1VoWGlJMkRZTW5BYjJWcDR0a2d2MU5lVnVxSVlFODdrZVJ3TW50WE9RZW90OHpCN2Q0?oc=5"
   },
   {
    "also": [],
@@ -342,23 +373,6 @@
   },
   {
    "also": [
-    "TRAICY（トライシー）"
-   ],
-   "ends": null,
-   "home": false,
-   "kind": "宿",
-   "nationwide": false,
-   "published": "2026-08-05",
-   "score": 57,
-   "service": "じゃらん",
-   "size": "最大2万円",
-   "source": "千葉テレビ放送",
-   "starts": null,
-   "title": "じゃらんnet、「じゃらんクーポンフェス」開催 最大2万円クーポン配布",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBfZFJHb2xqa1JoSmNsTnhxLV9ua2Q0NDZHelItZXppbVRwQVAwODU2WFJGdWRnaldkRWdjVkQtdjZFd2dNQWNULTZLdDJhY3hfQkt4UXJvbmRoNWtoUVpz?oc=5"
-  },
-  {
-   "also": [
     "airstair.jp"
    ],
    "ends": "2026-09-03",
@@ -377,8 +391,8 @@
   },
   {
    "also": [
-    "千葉テレビ放送",
-    "ライブドアニュース"
+    "chiba-tv.com",
+    "news.livedoor.com"
    ],
    "ends": "2026-08-19",
    "home": false,
@@ -413,7 +427,7 @@
   },
   {
    "also": [
-    "千葉テレビ放送"
+    "chiba-tv.com"
    ],
    "ends": null,
    "home": false,
@@ -497,30 +511,29 @@
    "home": false,
    "kind": "宿",
    "nationwide": false,
+   "published": "2026-08-04",
+   "score": 52,
+   "service": "楽天トラベル",
+   "size": "最大36,000円",
+   "source": "TRAICY（トライシー）",
+   "starts": null,
+   "title": "楽天トラベル、「楽パック20周年スペシャルオファー」を開催 最大36,000円割引",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE56NVMtQ1N0aHgya1Rhd2F6SkYzcnJEei1nalNuNmdsQm9oZlpHYzRtMjlaNjRvRGc0U2M5VlFGcDc3ZmhNY2ZHU1pqU3JySGp3S2czOWJ4cw?oc=5"
+  },
+  {
+   "also": [],
+   "ends": null,
+   "home": false,
+   "kind": "宿",
+   "nationwide": false,
    "published": "2026-08-05",
    "score": 52,
    "service": "楽天トラベル",
    "size": "最大4%OFF",
-   "source": "千葉テレビ放送",
+   "source": "chiba-tv.com",
    "starts": null,
    "title": "楽天トラベル、ボーナスプログラムを即時割引に変更 最大4％、クーポン併用も",
    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1rS3JRd1diaVRsY1lkNjRDVTZ4cnlfQlRTVGE2QzhrSEcwT2hXblhHWjVGQVU2clFJUFZqMTZSSmtoc2I3WXQtdTVWbEdJTmNRckNfcG0weC1oMi02V0lR?oc=5"
-  },
-  {
-   "also": [],
-   "ends": "2026-09-02",
-   "home": false,
-   "image": "https://airstair.jp/images/2023/08/rakuten-coupon-matsuri.webp",
-   "kind": "宿",
-   "nationwide": false,
-   "published": "2026-08-08",
-   "score": 52,
-   "service": "楽天トラベル",
-   "size": "",
-   "source": "airstair",
-   "starts": null,
-   "title": "【2026年8月】楽天トラベル「クーポン祭」9月2日まで開催中 毎月のリズムと配布クーポン",
-   "url": "https://airstair.jp/rakuten-coupon/"
   },
   {
    "also": [],
@@ -539,7 +552,7 @@
   },
   {
    "also": [
-    "千葉テレビ放送"
+    "chiba-tv.com"
    ],
    "ends": null,
    "home": false,
@@ -574,22 +587,6 @@
    "also": [],
    "ends": null,
    "home": false,
-   "image": "https://www.traicy.com/wp-content/uploads/2026/08/orion_akitabi.jpg",
-   "kind": "ツアー",
-   "nationwide": false,
-   "published": "2026-08-16",
-   "score": 48,
-   "service": "",
-   "size": "",
-   "source": "TRAICY",
-   "starts": null,
-   "title": "オリオンツアー、「秋旅セール」を開催中 9〜11月出発分が対象",
-   "url": "https://www.traicy.com/posts/20260816379274/"
-  },
-  {
-   "also": [],
-   "ends": null,
-   "home": false,
    "image": "https://airstair.jp/images/2024/10/shutterstock_2496620331.webp",
    "kind": "航空券",
    "nationwide": false,
@@ -601,22 +598,6 @@
    "starts": null,
    "title": "【2026年8月】航空券セール・キャンペーン最新まとめ 開催中のセールと次回はいつか",
    "url": "https://airstair.jp/airticket-sale/"
-  },
-  {
-   "also": [],
-   "ends": null,
-   "home": false,
-   "image": "https://sky-budget.com/wp-content/uploads/2026/08/main-5-scaled.jpg",
-   "kind": "航空券",
-   "nationwide": false,
-   "published": "2026-08-17",
-   "score": 48,
-   "service": "",
-   "size": "",
-   "source": "sky-budget",
-   "starts": null,
-   "title": "香港エクスプレス、アーティストKANAKA起用の新キャンペーン「#セルフラブ」を始動 21日からは特別運賃セールも開催",
-   "url": "https://sky-budget.com/2026/08/17/hkexpress-sale-27/"
   },
   {
    "also": [],
@@ -729,7 +710,7 @@
   },
   {
    "also": [
-    "ライブドアニュース"
+    "news.livedoor.com"
    ],
    "ends": null,
    "home": false,
@@ -876,7 +857,7 @@
   {
    "also": [
     "sky-budget.com",
-    "aviationwire.jp",
+    "Aviation Wire",
     "トラベル Watch"
    ],
    "ends": null,
@@ -1014,7 +995,7 @@
   },
   {
    "also": [
-    "千葉テレビ放送"
+    "chiba-tv.com"
    ],
    "ends": null,
    "home": false,
@@ -1039,7 +1020,7 @@
    "score": 42,
    "service": "楽天トラベル",
    "size": "",
-   "source": "ryoko-net.co.jp",
+   "source": "株式会社旅行新聞新社",
    "starts": null,
    "title": "楽天トラベル、最大3万6000円を割引 楽パック20周年記念でクーポン配布",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBEd3JKSkNCd3liX2NhMGhjUExKOE1nMW1Qb2dKUlZFVTJ1bTdMNHVOaGNKQ3BnSlJ2NnJqUlJ4ZEVWOE1tYWRVQ0FRTVB4dw?oc=5"
@@ -1076,7 +1057,7 @@
   },
   {
    "also": [
-    "千葉テレビ放送"
+    "chiba-tv.com"
    ],
    "ends": null,
    "home": false,
@@ -1256,21 +1237,6 @@
    "home": false,
    "kind": "宿",
    "nationwide": false,
-   "published": "2026-07-21",
-   "score": 37,
-   "service": "楽天トラベル",
-   "size": "最大30%OFF",
-   "source": "トラベル Watch",
-   "starts": null,
-   "title": "TAOYA/大江戸温泉物語/ドーミーインほか、人気ホテルが最大30％オフ。楽天トラベル「スペシャルクーポンWEEK」",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5uTkFGbjN0LTBQaS1jMzlGeXE5d2RZYzFHR21hX3JvT2otZGRHMWpyY2R1T1FrY1FQWVBaWW5OVGFMZHRWNDVpVk1FOTFMcEo2ZmhCRUlwU0EtVS1iM1RwSmE1aGpQUjZB?oc=5"
-  },
-  {
-   "also": [],
-   "ends": null,
-   "home": false,
-   "kind": "宿",
-   "nationwide": false,
    "published": "2026-07-31",
    "score": 37,
    "service": "楽天トラベル",
@@ -1357,7 +1323,7 @@
   },
   {
    "also": [
-    "千葉テレビ放送"
+    "chiba-tv.com"
    ],
    "ends": null,
    "home": false,
@@ -1404,7 +1370,7 @@
   },
   {
    "also": [
-    "タビリス"
+    "chiba-tv.com"
    ],
    "ends": null,
    "home": false,
@@ -1414,14 +1380,14 @@
    "score": 33,
    "service": "ANA",
    "size": "",
-   "source": "千葉テレビ放送",
+   "source": "タビリス",
    "starts": null,
    "title": "ANA、国内線でタイムセール。6月29日開催、羽田～福岡11,880円～",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBaSFRTeW85eFdJRmgxX01sVEVkN2dMN1gyQjhkeHB3djlFS2JMQU1IRnp6X2U5UlBJc25ncHVOZUEyck1SM1JOSlJITnN2ejdObzFsUFNYYVVTS0IwN2Jn?oc=5"
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBKWDhDUWM5blYtTjlHS2NhNlVaTDREWUQ0c3h6OEY1a2xmOER2SGJEV01iZDZyNzJZd19xX3pHUkhfbzZSUWFGaFpzOWxBVUhNWElHTDVtTjQ?oc=5"
   },
   {
    "also": [
-    "千葉テレビ放送"
+    "chiba-tv.com"
    ],
    "ends": null,
    "home": false,
@@ -1450,21 +1416,6 @@
    "starts": null,
    "title": "【キャンペーン】ANAが公式サイト限定「国内線航空券タイムセール」を実施",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8xci1kbnQ0cjcxamNxWE9ZS3N2U0ptcHBDWkh5TnRjbDVqeDVaQjNXY2RWZVlIbEx3MldleFpORlRfeGtNVnVobURDandyb0hMR080b1VGOXpXTzdmNnZGUmlfVmF6Z05sMkZ6VzEyUQ?oc=5"
-  },
-  {
-   "also": [],
-   "ends": null,
-   "home": false,
-   "kind": "航空券",
-   "nationwide": true,
-   "published": "2026-07-24",
-   "score": 33,
-   "service": "",
-   "size": "",
-   "source": "FlyTeam",
-   "starts": null,
-   "title": "ANA国内線タイムセール開催中！8月〜2027年1月搭乗分 羽田〜那覇11,440円から",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5LTFdZaUR1SG96YVc3Qk5XM0ZzOHRHNG5ScTRJMDAzZDlzTmUwbnhzTHRnYjRBM3pfYWYxaWhSRTQxR2lkMTVYSXRWOVU1SEU?oc=5"
   },
   {
    "also": [],
@@ -1566,7 +1517,7 @@
    "score": 32,
    "service": "",
    "size": "",
-   "source": "秋田魁新報電子版",
+   "source": "sakigake.jp",
    "starts": null,
    "title": "秋田県内宿泊、ネット予約で最大１万２千円割引 県の「得旅」キャンペーン開始",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5STVVzd09ucktfNjREaFM4NGRfYk5fWlBYYUxNemtteHNtcVZmZ2xBM0Y3NWVYWDhxaUFrOXVsYldJdWNNcFRmNFVqd0NJdEZGcmRmMWlCNDNHVXM5VDY3SUVR?oc=5"
@@ -1581,7 +1532,7 @@
    "score": 32,
    "service": "",
    "size": "",
-   "source": "東北楽天ゴールデンイーグルス",
+   "source": "rakuteneagles.jp",
    "starts": null,
    "title": "※情報更新※スポーツ観戦宿泊キャンペーン「仙台プロスポ割」がスタート!",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE01cWdwQnBfNklfOUphZHBBenc0d0dJSWFlb09ycnBSc1FHMm45SVZSSThPZl9weEJ5N3VqZ1VZS2w4eFo5eEw1UXh6SVpxSUdIdnluak5pQWcxRUFQZ2dKejdMQkJ5SnVVaXc?oc=5"
@@ -1621,7 +1572,7 @@
   },
   {
    "also": [
-    "千葉テレビ放送"
+    "chiba-tv.com"
    ],
    "ends": null,
    "home": false,
@@ -1646,15 +1597,13 @@
    "score": 32,
    "service": "",
    "size": "",
-   "source": "日本経済新聞",
+   "source": "nikkei.com",
    "starts": null,
    "title": "円安・燃油高、地方への国内旅行に脚光 宮崎や秋田は宿泊割引で誘客",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB6cFUyc2FIMXVrOHkxczhHM2FMVGd1RzlXQ09nUUg5YnBaLXZEVUZCWG5rYy1zdGdfY0x5V3NEb1dDSmZKOVZWN2lTUXVTaE11S3BPLXBpY01LSzRsQ1l2allKa241WGpXYlVMdQ?oc=5"
   },
   {
    "also": [
-    "PR TIMES",
-    "ニコニコニュース",
     "Mantan Web"
    ],
    "ends": null,
@@ -1760,7 +1709,7 @@
    "score": 28,
    "service": "ANA",
    "size": "",
-   "source": "aviationwire.jp",
+   "source": "Aviation Wire",
    "starts": null,
    "title": "ANA、国内線タイムセール5/17まで 伊丹9570円から",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Jc0VOaFlSQmlzR3FCS3VJWllrcm03UDVhcm1ZeGNpOTN6RHdlcEJ6OU1sSjl3bU56UWRDaWdKYzdkcjN3SlhXRWFmdUxBMFZ4U0pGblF3?oc=5"
@@ -1775,7 +1724,7 @@
    "score": 28,
    "service": "JAL",
    "size": "",
-   "source": "aviationwire.jp",
+   "source": "Aviation Wire",
    "starts": null,
    "title": "JAL、国内線タイムセール5/15限定 伊丹9130円から",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1fNlJqcDFLUklHemZfNFZqcjFodmJWTEI2MjhnWm15RXZpZ1d0bmpPZURPOUVFQlIyM3dfU1ZGM0dzZm9Ea3VFakpzV0JsLUFITjZLajZR?oc=5"
@@ -1865,7 +1814,7 @@
    "score": 28,
    "service": "JAL",
    "size": "",
-   "source": "aviationwire.jp",
+   "source": "Aviation Wire",
    "starts": null,
    "title": "JAL、会員対象の国内線セール7/14限定 一般は翌日",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9zYjdPSktnclFDYWR3TVh3RnlleXhzY0FDb1BHR0VhRXkyODZKaF9fNDJCUmI5QWYybGxFT0RLQVlqVzNRdzlQQWVTME01Wm90ek5VLVRn?oc=5"
@@ -2101,6 +2050,21 @@
    "home": false,
    "kind": "宿",
    "nationwide": false,
+   "published": "2026-05-26",
+   "score": 27,
+   "service": "楽天トラベル",
+   "size": "最大1万2000円",
+   "source": "トラベル Watch",
+   "starts": null,
+   "title": "石見銀山・出雲・萩への旅行が最大1万2000円引き。楽天トラベルで「ぐるっと島根、ふらっと萩へ」クーポン配布",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAzVTRHcDEyVXQ3YXdSWnE2eGNscFk1WVFCVTJDSUI4ZGxpUFZwODRoR0RyZlNWdUliWVdJRk4wSGV6YS1NWjR1WnlLQmNnTGlUeE9tWHNvV21iZ3hfLWoyejU1aTFTZGFS?oc=5"
+  },
+  {
+   "also": [],
+   "ends": null,
+   "home": false,
+   "kind": "宿",
+   "nationwide": false,
    "published": "2026-05-31",
    "score": 27,
    "service": "楽天トラベル",
@@ -2124,21 +2088,6 @@
    "starts": null,
    "title": "夏の連休もお得な「じゃらんスペシャルウィーク」。ホテル・温泉宿の半額プラン、最大1.5万円引きクーポン登場",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9JbHZvWHd0S0JEUkZOWVB5VExZNHVob1BkbG4xX0NKMktrdk1udWZPQ1JJaW43aTJ0bWlQNDRUN1Z1ZFRJekY2Z0cwWnBxTDh0WGY2T2FPRWxYNVRTMmgzd01CVkNVaHZo?oc=5"
-  },
-  {
-   "also": [],
-   "ends": null,
-   "home": false,
-   "kind": "宿",
-   "nationwide": false,
-   "published": "2026-06-01",
-   "score": 27,
-   "service": "楽天トラベル",
-   "size": "最大1万円",
-   "source": "トラベル Watch",
-   "starts": null,
-   "title": "香川県・こんぴら温泉の宿泊料金が最大1万円引き。JTB/るるぶ/楽天トラベルでクーポン配布",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5yNm9XdG1iMVk5dFpFRnVWcXZJcTRVNlBGZlNneGVQUVUtb2NhcHhpSDF5NkdiMzR3M2hZLWQ0dHpGUTRuYUhBYUM5RXd5bHZ2aS1Rb0lkOWw3dXpnZk5wYVUtdVpsUXpv?oc=5"
   },
   {
    "also": [],
@@ -2341,6 +2290,21 @@
    "home": false,
    "kind": "航空券",
    "nationwide": true,
+   "published": "2026-04-23",
+   "score": 23,
+   "service": "",
+   "size": "",
+   "source": "デジカメ Watch",
+   "starts": null,
+   "title": "キャンペーン：ジェットスター「スーパースターセール」が明日から 国内線が2,990円から",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE50bEtmWUVISEVnWm82enFrSGs3M1YySlFuSDNWb2xBRHFQM1Y2RnVQY0FLMlZCc1dTRXlqcnVyWGZ2MFQzaXJNNGxTTFN2V0h2M29ndTAyWG5lUnFFbGxQY3M5dDFFUGx5cWhLMTdRbw?oc=5"
+  },
+  {
+   "also": [],
+   "ends": null,
+   "home": false,
+   "kind": "航空券",
+   "nationwide": true,
    "published": "2026-05-13",
    "score": 23,
    "service": "",
@@ -2366,8 +2330,23 @@
    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE41VnpRZFU5ODBZWjlLOVVTOUNGU0VVSmY1Y1Y4ZjJPU05TYVdwM2U4MTUxOGFOMDRvaEJneDU2Zm1IWFo2ZW1RTXdR?oc=5"
   },
   {
+   "also": [],
+   "ends": null,
+   "home": false,
+   "kind": "航空券",
+   "nationwide": true,
+   "published": "2026-05-15",
+   "score": 23,
+   "service": "",
+   "size": "",
+   "source": "ほんみや宮崎",
+   "starts": null,
+   "title": "JAL国内線「5月15日今日だけ限定」タイムセール開催へ！｜ほんみや宮崎",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE83MWdLZEJmNGVyVjJ2d0J4MTREdlBCTHJnZ0llWWJxZWc0Ri0yb1pJZ1JNV190alg5NXRzd1dxdTJoNzBsams4RVZrMzRiXzBTWTdMR01VTXQ4TjhzZmloSTQtdk5IQ3lRWUdUdmxsZmF0aVZzaEF0X01Yd0k?oc=5"
+  },
+  {
    "also": [
-    "千葉テレビ放送"
+    "chiba-tv.com"
    ],
    "ends": null,
    "home": false,
@@ -2381,6 +2360,21 @@
    "starts": null,
    "title": "JALパック、「JAL海外ダイナミックパッケージ期間限定タイムセール」を実施中 最大40,000円割引",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBrcklZUUpPeXc0Q2NGRFB5SVVxS0tWSjhRdVM5dG0xRU1DQ1NreDRLSkh6ajFucjNXc05lSVJqRXNWWHdQVEhZU0RaMkRkSFZLenBoTHpacw?oc=5"
+  },
+  {
+   "also": [],
+   "ends": null,
+   "home": false,
+   "kind": "航空券",
+   "nationwide": true,
+   "published": "2026-06-29",
+   "score": 23,
+   "service": "",
+   "size": "",
+   "source": "FlyTeam",
+   "starts": null,
+   "title": "ANA国内線タイムセール開催中！8〜10月搭乗分 羽田〜那覇11,880円から",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE55d0ZrWW1QRGFHY2k5bV94QURzMExROU9nUUxqUFV2VnJVZnNHUGlncWhHQTllSldVV0J6TUp1ZjI5d2c4UjNOT0FzRk9aUDQ?oc=5"
   },
   {
    "also": [],
@@ -2491,7 +2485,7 @@
   },
   {
    "also": [
-    "千葉テレビ放送"
+    "chiba-tv.com"
    ],
    "ends": null,
    "home": false,
@@ -2892,6 +2886,21 @@
    "home": false,
    "kind": "宿",
    "nationwide": false,
+   "published": "2026-06-18",
+   "score": 17,
+   "service": "JTB",
+   "size": "",
+   "source": "マイベスト",
+   "starts": null,
+   "title": "【2026年6月】JTBのクーポン・キャンペーン情報まとめ！安い日・お得な日はいつ？",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1nUzdlQnpsOHdIdkd3RUtOZDVQZFJwUElyemlMaVVZTTlyUzBzWmRQc2NZQnJfamRTVC1CMzlHMnpxcndmZGJ5SQ?oc=5"
+  },
+  {
+   "also": [],
+   "ends": null,
+   "home": false,
+   "kind": "宿",
+   "nationwide": false,
    "published": "2026-06-30",
    "score": 17,
    "service": "じゃらん",
@@ -3023,7 +3032,7 @@
   },
   {
    "also": [
-    "47NEWS"
+    "47news.jp"
    ],
    "ends": null,
    "home": false,
@@ -3033,7 +3042,7 @@
    "score": 13,
    "service": "",
    "size": "",
-   "source": "ryukyushimpo.jp",
+   "source": "琉球新報デジタル",
    "starts": null,
    "title": "那覇ー羽田が1万1800円から ANAがタイムセール 17日まで",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBwc0VzNzBOXzVpMnU2blBxbDNNeGEyT3U2cUxJdVpxcjJfQmtteWEwbFhrT01wUHZhR3dSVVBXUHZCTHczbWZGWlpxRGFkSWlvUngtcFl1U1FnNlpQanlYdUxR?oc=5"
@@ -3055,7 +3064,7 @@
   },
   {
    "also": [
-    "千葉テレビ放送"
+    "chiba-tv.com"
    ],
    "ends": null,
    "home": false,
@@ -3125,7 +3134,7 @@
    "score": 12,
    "service": "",
    "size": "",
-   "source": "北海道日本ハムファイターズ",
+   "source": "fighters.co.jp",
    "starts": null,
    "title": "サッポロクラシックやFビレッジ宿泊割引クーポンなどが当たる！セイコーマートでチェックインチャレンジを開催！",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Zc21leXB5TTd1Q2Y2cDlJd19rbDViZzgyb2FURGlEWGR6NW8tT19ndGprM1k5MnA3ODFwdi1vM29ERU1aVHJzZWtuMVB2LUt4NFAwMmhhNFB1Y3Z5ZDFVZHhPYmpBa0E?oc=5"
@@ -3155,25 +3164,10 @@
    "score": 12,
    "service": "",
    "size": "",
-   "source": "秋田魁新報電子版",
+   "source": "sakigake.jp",
    "starts": null,
    "title": "「得旅キャンペーン」クーポンを追加発行 ７月末までの宿泊が対象",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBXWG1ObnB1bVp4STVLSXBCc1I5a3NtSDRDWHhxbGZ6Y3d5d3NocDZMR0dPalNUeHl0MXZDNjRKaWR0ZGNXQXNCMmFLVkFvTjRtM001ZmZ1cjlKcHVydlpNOU5R?oc=5"
-  },
-  {
-   "also": [],
-   "ends": null,
-   "home": false,
-   "kind": "宿",
-   "nationwide": false,
-   "published": "2026-07-07",
-   "score": 12,
-   "service": "",
-   "size": "",
-   "source": "RNB 南海放送",
-   "starts": null,
-   "title": "韓国旅行におすすめの旅行会社・予約サイト7選！【2026年最新】格安ホテル・航空券を予約するなら？",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1yVzFsb1J6OF84ZktFTFZ3RnlSdmtGUlU3T2lLajNDRUpOVFA3R1hCdGFjS216aEdUYVNrS1d3VmY2M2FzMUNIYkhNVldKQkFFVmVia2Z3?oc=5"
   },
   {
    "also": [],
@@ -3230,7 +3224,7 @@
    "score": 8,
    "service": "",
    "size": "",
-   "source": "ryukyushimpo.jp",
+   "source": "琉球新報デジタル",
    "starts": null,
    "title": "那覇ー羽田が1万1880円から ANAがタイムセール 5日まで",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE03ZkxiY1RJM3BRLW9pWFc2OVJERjFRSHJ1NV9Cb19hdWFSU01MYzFoTDBDWmtKdFNibXRid0o2SFdwMHd5aHptYjhsWXBYcDBGUy1Pa3FkLVF0TFhwVnp5UXZR?oc=5"
@@ -3310,6 +3304,7 @@
  "image_tried": [
   "https://airstair.jp/2525-smile/",
   "https://airstair.jp/airticket-sale/",
+  "https://airstair.jp/akita-campaign/",
   "https://airstair.jp/best-time/",
   "https://airstair.jp/end-of-month-sale/",
   "https://airstair.jp/fall-winter-sale/",
@@ -3328,13 +3323,9 @@
   "https://airstair.jp/otoku_10days/",
   "https://airstair.jp/rakuten-20250331/",
   "https://airstair.jp/rakuten-50luxday/",
-  "https://airstair.jp/rakuten-coupon/",
   "https://airstair.jp/rakuten-rentcar-coupon/",
   "https://airstair.jp/rakuten-summersale/",
-  "https://airstair.jp/shibata-campaign/",
-  "https://sky-budget.com/2026/08/17/hkexpress-sale-27/",
-  "https://www.traicy.com/posts/20260816379274/",
-  "https://www.traicy.com/posts/20260816379286/"
+  "https://airstair.jp/shibata-campaign/"
  ],
  "running": [
   {
@@ -3439,11 +3430,11 @@
   }
  ],
  "stats": {
-  "articles": 1411,
+  "articles": 1416,
   "deals": 207,
   "failed": 2,
   "fetched": 19,
-  "images": 24
+  "images": 21
  },
- "updated": "2026-08-18 09:57"
+ "updated": "2026-08-18 15:35"
 }
