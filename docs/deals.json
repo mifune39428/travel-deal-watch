@@ -340,6 +340,25 @@
    "url": "https://www.traicy.com/posts/20260819378669/"
   },
   {
+   "also": [
+    "TRAICY（トライシー）",
+    "千葉テレビ放送"
+   ],
+   "ends": null,
+   "home": false,
+   "image": "https://www.traicy.com/wp-content/uploads/2026/08/jal_rakuten.jpg",
+   "kind": "宿",
+   "nationwide": false,
+   "published": "2026-08-20",
+   "score": 62,
+   "service": "楽天トラベル",
+   "size": "",
+   "source": "TRAICY",
+   "starts": null,
+   "title": "楽天トラベル、「JAL楽パック」で3日間限定セール開催",
+   "url": "https://www.traicy.com/posts/20260820379618/"
+  },
+  {
    "also": [],
    "ends": null,
    "home": false,
@@ -387,6 +406,24 @@
    "starts": null,
    "title": "じゃらんクーポンフェスは2026年9月3日まで 次回いつ？配布日と攻略法 [PR]",
    "url": "https://airstair.jp/jalan-fes/"
+  },
+  {
+   "also": [
+    "airstair.jp"
+   ],
+   "ends": null,
+   "home": false,
+   "image": "https://airstair.jp/images/2026/08/himi-campaign-hero-2026.webp",
+   "kind": "宿",
+   "nationwide": false,
+   "published": "2026-08-09",
+   "score": 57,
+   "service": "楽天トラベル",
+   "size": "最大1万円",
+   "source": "airstair",
+   "starts": "2026-08-17",
+   "title": "富山県氷見市「氷見旅行割キャンペーン」2026年8月17日開始 楽天トラベル限定で宿泊最大1万円割引",
+   "url": "https://airstair.jp/himi-campaign/"
   },
   {
    "also": [],
@@ -470,37 +507,6 @@
    "also": [],
    "ends": null,
    "home": false,
-   "image": "https://airstair.jp/images/2026/08/himi-campaign-hero-2026.webp",
-   "kind": "宿",
-   "nationwide": false,
-   "published": "2026-08-09",
-   "score": 52,
-   "service": "楽天トラベル",
-   "size": "最大1万円",
-   "source": "airstair",
-   "starts": "2026-08-17",
-   "title": "富山県氷見市「氷見旅行割キャンペーン」2026年8月17日開始 楽天トラベル限定で宿泊最大1万円割引",
-   "url": "https://airstair.jp/himi-campaign/"
-  },
-  {
-   "also": [],
-   "ends": null,
-   "home": false,
-   "kind": "宿",
-   "nationwide": false,
-   "published": "2026-08-11",
-   "score": 52,
-   "service": "じゃらん",
-   "size": "最大36%OFF",
-   "source": "TRAICY（トライシー）",
-   "starts": null,
-   "title": "じゃらんnet、「じゃらんのお得な10日間」開催 最大36％お得に",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE82eDFQQnl6bUtNQmkwR3MwWG1hMS1Lc0c2VnRvUUZLa1I5LWkyWS0yWmlLSURITUUwQ0VsVk4tVVlldnpWaGxyc0o2WDlTX3A2UjhVU1JDYw?oc=5"
-  },
-  {
-   "also": [],
-   "ends": null,
-   "home": false,
    "image": "https://airstair.jp/images/2022/06/shutterstock_2173533665.webp",
    "kind": "宿",
    "nationwide": false,
@@ -541,7 +547,7 @@
    "score": 51,
    "service": "JR東日本",
    "size": "半額級",
-   "source": "CNET Japan",
+   "source": "japan.cnet.com",
    "starts": null,
    "title": "新幹線や特急が半額の「トクだ値スペシャル28」、10月・12月の平日乗車限定で発売",
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBKc2lpck5PdEtRWE5VcnZhcF82enB2MmE4U1pGZVFTQl9MbGR5bHZhOW1LVjJiRDVmckJiU2VITDF3X1dHTDdDQzhMVGthcE5TRUE?oc=5"
@@ -647,14 +653,14 @@
    "home": true,
    "kind": "宿",
    "nationwide": false,
-   "published": "2026-05-26",
+   "published": "2026-05-01",
    "score": 47,
    "service": "じゃらん",
    "size": "最大1万2000円",
    "source": "トラベル Watch",
    "starts": null,
-   "title": "秋田県、最大1万2000円引き「得旅キャンペーン」追加決定。じゃらん/楽天/一休で宿泊予約受付",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAtVjBNaHMzSTFRdnJPMlBtY05pakV2TE13Q2t2RG9HbzlPNnJRR3RPaW55SHpiOFhDRUwyaFZEWU5UT05xY0Q5WGUxWm1DWnVjaHhESk5zUTRVRTI0RlNkSWxYRVpyUF9O?oc=5"
+   "title": "秋田県、最大1万2000円引き「得旅キャンペーン」第1弾はGW明けスタート。じゃらん・楽天など4社で予約受付",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1aRXlkMy1LUVFIa3d4UkE5d1lCaU03dUc1NXVLT2l1VnVhc1BwOS04NzFhTXNoUnB2b2wyWFk2TXltQ2Y4MTNkUnFMMW5MM3BXNEZmd1lFYUtzSzc3b29EUDBkRXotYU9Y?oc=5"
   },
   {
    "also": [],
@@ -670,23 +676,6 @@
    "starts": "2026-06-01",
    "title": "楽天トラベル、旅行支援クーポンに岩手・宮崎・香川こんぴら町が6月1日から追加 最大15,000円割引も",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5GekxvNXB5ODU2QVZhdW52bFZlRjNXaWdqcjJCMFZfS2VFSXJEQ2hNNWN2Sm1JSE14Tjl4T0s5aUEtZ1dDQWJIdnd6WGVZbjhLdkJOdUkxbw?oc=5"
-  },
-  {
-   "also": [
-    "ライブドアニュース"
-   ],
-   "ends": null,
-   "home": false,
-   "kind": "宿",
-   "nationwide": false,
-   "published": "2026-08-07",
-   "score": 47,
-   "service": "JTB",
-   "size": "",
-   "source": "るるぶWeb",
-   "starts": null,
-   "title": "【2026年8月最新】JTBのクーポンコード一覧！｜初回・2回目以降の割引情報＆使い方をまとめて紹介",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1FME1hOG5xd3pOZmkyUUk3dU5ZNkRUa1NwTi01MzdfM1o4cmh1aUkyLXgyWmZ0WlBFNXBkT282R09GYWtSOW5JUWlNU1BqeUhh?oc=5"
   },
   {
    "also": [
@@ -809,7 +798,7 @@
    "score": 46,
    "service": "JR東日本",
    "size": "50%OFF",
-   "source": "ASCII.jp",
+   "source": "ascii.jp",
    "starts": null,
    "title": "えきねっと改定で何が変わる？ 新幹線50％OFFの新割引と終了するサービスまとめ (1/2)",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBBdGdHNTJfenFiMVdheU9hWHZ2U2UtckkwQ043MC05RTRveVI1VGdmeFVLOS1JNlJZNHVEYV9QamRpd2FFdHBfN1hkMDhZNmw3dk9XTg?oc=5"
@@ -828,25 +817,6 @@
    "starts": null,
    "title": "ANAが国内線航空券セール。羽田～大阪9000円台、大阪～仙台9000円台など",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBwTEVjWGhwTzFmZlBsNW9LQ1FjYU4wMkRRT1VFLVN0azBKYS1DX3BYRzJMN3Y1Z1llMmZsMDBuM21kb3BZZF9TdlNkMU90OVRpWE9SNzVXWDlkWE9UbHlkNFFzLTNHMFFy?oc=5"
-  },
-  {
-   "also": [
-    "sky-budget.com",
-    "Aviation Wire",
-    "トラベル Watch"
-   ],
-   "ends": null,
-   "home": false,
-   "kind": "航空券",
-   "nationwide": true,
-   "published": "2026-07-23",
-   "score": 43,
-   "service": "ANA",
-   "size": "",
-   "source": "TRAICY（トライシー）",
-   "starts": null,
-   "title": "ANA、国内線タイムセールまもなく開始 8月〜2027年1月搭乗分",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBCUVg1MmlOd3ZVSzdTWDFQMUlsSkdJVVdUb3hleDRwWV9JQmtpMm1IRTdvWThGNVh5MVl0NFdnX0tUc0NHZFdnTVNFRjNPQlBTOTdfX3Fjcw?oc=5"
   },
   {
    "also": [],
@@ -918,7 +888,7 @@
    "score": 42,
    "service": "",
    "size": "最大12,000円",
-   "source": "OVO [オーヴォ]",
+   "source": "ovo.kyodo.co.jp",
    "starts": null,
    "title": "【宿泊料金が最大12,000円割引】これはもう行くしかない！まだ知らない秋田を発見「得旅キャンペーン」がスタート",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBreWNSY0NKc0dJMUM5RU9pTmJKaDJYUjZxcWNzNXlTTElMX1pDSTI1QkFlWGxrb0U1eTVLQW80TWJzbnZFT1Y2OWpGd1FHVW5tTDB6Qm5aaWNUdTJTemhkN3VlRnl0UQ?oc=5"
@@ -1016,6 +986,21 @@
    "starts": null,
    "title": "ヤフートラベル、ヤフーパック「サマ割 超得セール」を開催中 航空券＋ホテルがお得",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBHZG9FNU1HS0hvWXh3Qnl0QTVmV0wwdnRiMllqMURYLXIzOEdUSkJGNDhjTzczTzNwR1JGVV9meVYzZmRmN3NIeGZzczZTLUdTWER4bU1EVQ?oc=5"
+  },
+  {
+   "also": [],
+   "ends": null,
+   "home": false,
+   "kind": "宿",
+   "nationwide": false,
+   "published": "2026-08-07",
+   "score": 42,
+   "service": "JTB",
+   "size": "",
+   "source": "るるぶWeb",
+   "starts": null,
+   "title": "【2026年8月最新】JTBのクーポンコード一覧！｜初回・2回目以降の割引情報＆使い方をまとめて紹介",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1FME1hOG5xd3pOZmkyUUk3dU5ZNkRUa1NwTi01MzdfM1o4cmh1aUkyLXgyWmZ0WlBFNXBkT282R09GYWtSOW5JUWlNU1BqeUhh?oc=5"
   },
   {
    "also": [],
@@ -1129,6 +1114,21 @@
    "starts": null,
    "title": "「えきねっと」で発売するWEB限定割引商品の発売・見直し等について",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBtQlBhTTY0bkRGNVhkN0VoZW9MVURfdE5rRFIyWmQ2QllucEp0bFF4VXF3TXpRLVlFdkhKQWpTdHQxVURwbG0xMkhmalViRU12aFJMY21yb2gzZGhsVy1mYUdWRVZyNlNEc1E?oc=5"
+  },
+  {
+   "also": [],
+   "ends": null,
+   "home": false,
+   "kind": "航空券",
+   "nationwide": true,
+   "published": "2026-07-23",
+   "score": 38,
+   "service": "ANA",
+   "size": "",
+   "source": "sky-budget.com",
+   "starts": "2026-07-24",
+   "title": "ANA、国内線を対象としたタイムセールを7月24日から開催 2026年8月～1月搭乗分",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1JQVNwWklLN2lBT25zOURLckhGWDl0dkx2TmlJbWdmemxoNTRza3B2Z29RZVZuMDR4Nk85OEVWZmxHOVdOUnJKLTJWMk5xQkM5bU9VZ0N1UUpEZy1ta3F1TA?oc=5"
   },
   {
    "also": [],
@@ -1288,6 +1288,21 @@
    "home": false,
    "kind": "鉄道・バス",
    "nationwide": false,
+   "published": "2026-08-07",
+   "score": 36,
+   "service": "JR東日本",
+   "size": "",
+   "source": "Infoseek",
+   "starts": null,
+   "title": "「さすがにこれは…」「地味に辛い」 新幹線に安く乗れる「えきねっと商品」一部終了に落胆の声 在来線特急も対象",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9PU3ZpbDRlNEVpaDFpUXcwdlAxaUhVckZDQkhCTXhaOVEwQVpnUGJtRHE4S3ZuSzBvdnVlQUNSM2tRaUNhbGFLRlF2YUhMVzlfT2V0NXdtVlM2Y2RuQjhNelBtdFpKUdIBa0FVX3lxTE1TLVdSUktUSkVBUk93RWVYQXZXRkFIX052MEdkNWdKYVpSMV8zaGhUTldPWUdLeFAyWlI3Nm5lVklhN2cyTmdHVUR1RVluOUw4ay02MnZGd2phTHRjY0VDVEllSlFDNnk3Qm5N?oc=5"
+  },
+  {
+   "also": [],
+   "ends": null,
+   "home": false,
+   "kind": "鉄道・バス",
+   "nationwide": false,
    "published": "2026-08-08",
    "score": 36,
    "service": "JR東日本",
@@ -1360,6 +1375,24 @@
    "starts": null,
    "title": "ANA、国内線でタイムセール。6月29日開催、羽田～福岡11,880円～",
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBKWDhDUWM5blYtTjlHS2NhNlVaTDREWUQ0c3h6OEY1a2xmOER2SGJEV01iZDZyNzJZd19xX3pHUkhfbzZSUWFGaFpzOWxBVUhNWElHTDVtTjQ?oc=5"
+  },
+  {
+   "also": [
+    "TRAICY（トライシー）",
+    "sky-budget.com"
+   ],
+   "ends": null,
+   "home": false,
+   "kind": "航空券",
+   "nationwide": true,
+   "published": "2026-06-29",
+   "score": 33,
+   "service": "ANA",
+   "size": "",
+   "source": "Aviation Wire",
+   "starts": null,
+   "title": "ANA、国内線タイムセール7/5まで 8-10月搭乗分",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBveE0zS1QwRVZ1a251enY5Y0dNVWVVTUVlYXhFMHFSTUNqYzdIMWV6RmNlRzc3Z0N4Z1prX29mT0hYcFR4T1JWVTBpX01LenVXdDR5WVNn?oc=5"
   },
   {
    "also": [
@@ -1530,7 +1563,7 @@
   },
   {
    "also": [
-    "news.mynavi.jp",
+    "マイナビニュース",
     "AMP[アンプ]"
    ],
    "ends": null,
@@ -1579,21 +1612,6 @@
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBWdTN4RUhqRDE0VUdGT0d1OFJZUGZ2OXMxSktnUFdPXzE0N3ZoSXVBQTFWem1qZ25FQW5RYWVCOUlDX24xN1p5ODZKNVpWVU9WdkFCNERRSkhqckpEUkRodFU2UVg?oc=5"
   },
   {
-   "also": [],
-   "ends": null,
-   "home": false,
-   "kind": "宿",
-   "nationwide": false,
-   "published": "2026-08-04",
-   "score": 32,
-   "service": "",
-   "size": "最大3万5000円",
-   "source": "ほんみや宮崎",
-   "starts": null,
-   "title": "【本日開始】ANA航空券＋宿泊が最大3万5000円引き！宮崎からの旅行にも使えるタイムセール｜ほんみや宮崎",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNVBldHZRRkZLTDhOcEtjemh3MFBkLWx1cG56ZEhMWlY0bWhocjRyR3NGS3l6MlRKWUtGUTZfNmlHdGdndEQwM3d5ZDhCR1hud1NhY2Z6bnNBeW9JODJ6c3FqVEthVGZ0dVRsdGhGMWJZNkVUUlBTNWNyMUpObWN3RHBRLUFwWWlOTjR2SzdBRUpyWEk?oc=5"
-  },
-  {
    "also": [
     "Infoseek"
    ],
@@ -1611,8 +1629,22 @@
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5CUUlTRGdfTDhoRVRMX01WbEtRdERod3h1UkpQdVVrWkZNLW13RFFrMHpfenFHcW1jOVJpajFBRXlCQTc3dERVOGh1QVhOVER4d2xiWmxDSENBQk84VS1pTWpZVFNBZw?oc=5"
   },
   {
+   "also": [],
+   "ends": null,
+   "home": false,
+   "kind": "航空券",
+   "nationwide": true,
+   "published": "2026-04-23",
+   "score": 28,
+   "service": "ANA",
+   "size": "",
+   "source": "sky-budget.com",
+   "starts": null,
+   "title": "ANA、国内線を対象とした片道5,000円台からのタイムセールを4月24日0時から開催 2026年5月～8月搭乗分",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBqdXpnZGxhN3lmckVXeFNzV3hTVXVDaW40TEx4UUQzUDJRQUw1enNSNGY3MndCSWt6ZUs2OGFoV0JiSFdYWjZVdzhWSWlwTmxMMWUzYWVQQmkzNE9IODVyYg?oc=5"
+  },
+  {
    "also": [
-    "ｄメニューニュース",
     "Excite エキサイト"
    ],
    "ends": null,
@@ -1638,10 +1670,10 @@
    "score": 28,
    "service": "ANA",
    "size": "",
-   "source": "FlyTeam",
+   "source": "トラベル Watch",
    "starts": null,
-   "title": "夏休みも対象！ANA「国内線タイムセール」開催中 羽田〜那覇11,880円から",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE55NmtQZXFGRXFQZU53R1RUdWQ5NW10QjlVLTVEYXBvS3FqZXNrMzFKbHpWcmdOaTg1ektMMEIydDlDVDdENG9EYnJrWXR2bHc?oc=5"
+   "title": "ANA、国内線航空券タイムセールはじまる。夏休み対象、座席指定制限など新運賃の変更点を解説",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE85U0V0b3BrV0l3Y0g0eGctV3YydnBMb0NvRnlYSlhLZHJucnZEemdpZ1ZSMjJsUFFtTHBsdF95Snprc0ZRdk9fTkxUN3ZrWFkxYk5hSVk2cGJyaUJHS08zRDRlek9CdGRm?oc=5"
   },
   {
    "also": [],
@@ -1653,10 +1685,10 @@
    "score": 28,
    "service": "ANA",
    "size": "",
-   "source": "トラベル Watch",
+   "source": "FlyTeam",
    "starts": null,
-   "title": "ANA、国内線航空券タイムセールはじまる。夏休み対象、座席指定制限など新運賃の変更点を解説",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE85U0V0b3BrV0l3Y0g0eGctV3YydnBMb0NvRnlYSlhLZHJucnZEemdpZ1ZSMjJsUFFtTHBsdF95Snprc0ZRdk9fTkxUN3ZrWFkxYk5hSVk2cGJyaUJHS08zRDRlek9CdGRm?oc=5"
+   "title": "夏休みも対象！ANA「国内線タイムセール」開催中 羽田〜那覇11,880円から",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE55NmtQZXFGRXFQZU53R1RUdWQ5NW10QjlVLTVEYXBvS3FqZXNrMzFKbHpWcmdOaTg1ektMMEIydDlDVDdENG9EYnJrWXR2bHc?oc=5"
   },
   {
    "also": [],
@@ -1681,12 +1713,12 @@
    "nationwide": true,
    "published": "2026-05-13",
    "score": 28,
-   "service": "ANA",
+   "service": "JAL",
    "size": "",
    "source": "Aviation Wire",
    "starts": null,
-   "title": "ANA、国内線タイムセール5/17まで 伊丹9570円から",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Jc0VOaFlSQmlzR3FCS3VJWllrcm03UDVhcm1ZeGNpOTN6RHdlcEJ6OU1sSjl3bU56UWRDaWdKYzdkcjN3SlhXRWFmdUxBMFZ4U0pGblF3?oc=5"
+   "title": "JAL、国内線タイムセール5/15限定 伊丹9130円から",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1fNlJqcDFLUklHemZfNFZqcjFodmJWTEI2MjhnWm15RXZpZ1d0bmpPZURPOUVFQlIyM3dfU1ZGM0dzZm9Ea3VFakpzV0JsLUFITjZLajZR?oc=5"
   },
   {
    "also": [],
@@ -1696,12 +1728,12 @@
    "nationwide": true,
    "published": "2026-05-13",
    "score": 28,
-   "service": "JAL",
+   "service": "ANA",
    "size": "",
    "source": "Aviation Wire",
    "starts": null,
-   "title": "JAL、国内線タイムセール5/15限定 伊丹9130円から",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1fNlJqcDFLUklHemZfNFZqcjFodmJWTEI2MjhnWm15RXZpZ1d0bmpPZURPOUVFQlIyM3dfU1ZGM0dzZm9Ea3VFakpzV0JsLUFITjZLajZR?oc=5"
+   "title": "ANA、国内線タイムセール5/17まで 伊丹9570円から",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Jc0VOaFlSQmlzR3FCS3VJWllrcm03UDVhcm1ZeGNpOTN6RHdlcEJ6OU1sSjl3bU56UWRDaWdKYzdkcjN3SlhXRWFmdUxBMFZ4U0pGblF3?oc=5"
   },
   {
    "also": [],
@@ -1717,6 +1749,21 @@
    "starts": "2026-05-26",
    "title": "JAL、国内ツアー「ダイナミックパッケージ」の期間限定タイムセールを5月26日より開催",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQTdhWlBRV0E4VklFTXAzdkZNRUk0OU5wbmFvSDdzRnBzbjNfckxHcjFWTU5vbjFzTTJpRDlRUnJkN21XZFRoY3NuNUhFVHZ2c2tiM0hqVk9OejF1Y3RwSlN3TE1XeTgwTjFQT08tR19Gai03UHZGRTF4Tk1ycHRaQUxvVHFIZVRzM3FfMDdpalI4dDIwZHhiQUttWVpHX3h4V0VKbDBaSVgtUQ?oc=5"
+  },
+  {
+   "also": [],
+   "ends": null,
+   "home": false,
+   "kind": "航空券",
+   "nationwide": true,
+   "published": "2026-06-28",
+   "score": 28,
+   "service": "ANA",
+   "size": "",
+   "source": "トラベル Watch",
+   "starts": null,
+   "title": "ANA、国内線タイムセールまもなく開始。夏休みの羽田～那覇1万1880円ほか、事前座席指定は不可",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1wVGg2U1E3c0RBWHVKeDZ5WnFpUnllcC1pWTZYQ0tjVGZHNjhWT1luUGt2aXNha3VCczNjaER6Q3NtNTgxVktTSFhEeERwa2IzQl9CMkpKWHNMMEFFSnplX3hRcVpxdUVs?oc=5"
   },
   {
    "also": [],
@@ -1953,7 +2000,7 @@
    "score": 27,
    "service": "楽天トラベル",
    "size": "最大1万2000円",
-   "source": "観光経済新聞",
+   "source": "kankokeizai.com",
    "starts": null,
    "title": "楽天トラベル、自治体発行の旅行支援クーポンを12自治体で展開 最大1万2000円オフも",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB4d01JNFFfSFNBSHZucGFnZGRhZHJGSnktWERFNi1seG1WM2pZVnVFX2xnYkxZclNLblp1WE05Ul9qRVpiQlhKV2h1SXYzSjFoWElHdQ?oc=5"
@@ -2092,6 +2139,21 @@
    "starts": null,
    "title": "楽天トラベル、ハウステンボスのホテルやチケットの割引クーポン配布 宿泊は最大6％オフ",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE55Ri04c0RmUDFMc2JwcTFKcGJNbkV4SWdfTlEyWGN4OWhPVlprREZwZmo1YndJNTJTRFd1UU83czBQQ2lFQ2UtLV9OM2VSMlkyclIxOVZmUQ?oc=5"
+  },
+  {
+   "also": [],
+   "ends": null,
+   "home": false,
+   "kind": "宿",
+   "nationwide": false,
+   "published": "2026-06-17",
+   "score": 27,
+   "service": "じゃらん",
+   "size": "最大25%OFF",
+   "source": "TRAICY（トライシー）",
+   "starts": null,
+   "title": "じゃらんnet、「じゃらんのお得な10日間」開催 最大25％お得に",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA2ZUdfcE9sZ256SGJFN2dZcDF3dnM3bWVJMjFZcmhGYUxWZ080eUlqd2JOdGpicFlrdDZyd3NPcUFQZFp6WHlPVlR5RklSS1BIRkRDc0JvNA?oc=5"
   },
   {
    "also": [],
@@ -2253,7 +2315,7 @@
    "score": 26,
    "service": "",
    "size": "",
-   "source": "NEXCO 東日本",
+   "source": "e-nexco.co.jp",
    "starts": null,
    "title": "ドラ割『東北観光フリーパス・しあわせの風ふくしまセットプラン』の利用期間を延長！ | NEXCO東日本",
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA1YVpmN0VGY2dyVmIzTHJFdFlGMHlZazNkcHJXN1hCM05KZU5mbzFqOE1BcjhmTGlBQ1BEWDNBUWFWZEJhOXpMeER6N3JIeW5kaEU2eml5bG81eXM5Z2pyUmlSVEdfd25IRkRuX0YtelJkVU9m0gF6QVVfeXFMTXNEMGpGRkg2cHVraHBOb3NTalB3UUUzV3NBcjl3N3lLTG1xMXFVeVdldFkwTUdpWG5HX1ZrZ0F4U1JUdXlmZndJQjBuT1F5VnpsNXN3czM2TTZ3LXVSRXJRbVBBQkxIb1FYUEFJTnFKUG9uZ1BvRlpxQWc?oc=5"
@@ -2279,14 +2341,14 @@
    "home": false,
    "kind": "航空券",
    "nationwide": true,
-   "published": "2026-05-13",
+   "published": "2026-05-15",
    "score": 23,
    "service": "",
    "size": "",
    "source": "ほんみや宮崎",
    "starts": null,
-   "title": "今日からANA国内線タイムセール 宮崎発着も夏旅前にチェック|ほんみや宮崎",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9GY3NleVZWck5pWEJRMkZwZlY3dUJhZ0FjbEpWaFhlejdSdXlwYTJtRnUtVW9kZXU2QVFNYi1ZX0VpX0F5NW5yaERCYi1hVm5yOVY4Q2R3TFZ6eXhqU0I5QWdHMjdSLTY1MDJ0b0llZGs1dDE2cXZNWF9KbEs?oc=5"
+   "title": "JAL国内線「5月15日今日だけ限定」タイムセール開催へ！｜ほんみや宮崎",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE83MWdLZEJmNGVyVjJ2d0J4MTREdlBCTHJnZ0llWWJxZWc0Ri0yb1pJZ1JNV190alg5NXRzd1dxdTJoNzBsams4RVZrMzRiXzBTWTdMR01VTXQ4TjhzZmloSTQtdk5IQ3lRWUdUdmxsZmF0aVZzaEF0X01Yd0k?oc=5"
   },
   {
    "also": [],
@@ -2302,21 +2364,6 @@
    "starts": null,
    "title": "このご時世にANAセールが降臨！ 「燃油サーチャージ」込みハワイ12万円台…でも国内線に“思わぬ注意点”が（1/2 ページ）",
    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE41VnpRZFU5ODBZWjlLOVVTOUNGU0VVSmY1Y1Y4ZjJPU05TYVdwM2U4MTUxOGFOMDRvaEJneDU2Zm1IWFo2ZW1RTXdR?oc=5"
-  },
-  {
-   "also": [],
-   "ends": null,
-   "home": false,
-   "kind": "航空券",
-   "nationwide": true,
-   "published": "2026-05-15",
-   "score": 23,
-   "service": "",
-   "size": "",
-   "source": "ほんみや宮崎",
-   "starts": null,
-   "title": "JAL国内線「5月15日今日だけ限定」タイムセール開催へ！｜ほんみや宮崎",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE83MWdLZEJmNGVyVjJ2d0J4MTREdlBCTHJnZ0llWWJxZWc0Ri0yb1pJZ1JNV190alg5NXRzd1dxdTJoNzBsams4RVZrMzRiXzBTWTdMR01VTXQ4TjhzZmloSTQtdk5IQ3lRWUdUdmxsZmF0aVZzaEF0X01Yd0k?oc=5"
   },
   {
    "also": [
@@ -2349,21 +2396,6 @@
    "starts": null,
    "title": "ANA国内線タイムセール開催中！8〜10月搭乗分 羽田〜那覇11,880円から",
    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE55d0ZrWW1QRGFHY2k5bV94QURzMExROU9nUUxqUFV2VnJVZnNHUGlncWhHQTllSldVV0J6TUp1ZjI5d2c4UjNOT0FzRk9aUDQ?oc=5"
-  },
-  {
-   "also": [],
-   "ends": null,
-   "home": false,
-   "kind": "航空券",
-   "nationwide": true,
-   "published": "2026-06-29",
-   "score": 23,
-   "service": "",
-   "size": "",
-   "source": "ほんみや宮崎",
-   "starts": "2026-06-29",
-   "title": "宮崎 2026｜ANA国内線タイムセールが6月29日開始！宮崎発着便も販売開始後にチェック｜ほんみや宮崎",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdVZaaEx1T2h6X1h0T0prb0NRQW1PZzl2ejZwaTNJRnRtdUNFWGtULW1OZDZHWm9vVHE5T1YzcVo2NmIyZmZ4MHBLVS1Ba1BtZ2xiQnk1UFhHVkhNMVl1R0ZwX3ExN2R0dEZxb3Y5OHhPQmNUVURFX1M4VlRSbTZOUGwwT1cwdw?oc=5"
   },
   {
    "also": [],
@@ -2460,24 +2492,9 @@
    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBLOGhOV1AydzUxcXRxMFdJSURtUTBlYi0xRG5vNUVDbHh3d0x2RV9qeC1IMTlxM2JramJXajRvRmdkMU4xYjBTSVhNSUw?oc=5"
   },
   {
-   "also": [],
-   "ends": null,
-   "home": false,
-   "kind": "宿",
-   "nationwide": false,
-   "published": "2026-06-23",
-   "score": 22,
-   "service": "",
-   "size": "最大24,000円",
-   "source": "TRAICY（トライシー）",
-   "starts": null,
-   "title": "長崎県、対馬など6島で「体験付き宿泊」割引クーポン配布 最大24,000円割引",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9vRV9odV9HNHpsbWljQUNJS0s0YjZ5b1hkQTZiY043WDJUVmlZb2JZSDBVWEpPeFVvY3RPcWFsLWxONnpCMGx5NTlnQ0RPLUVKQUhTZVAxZw?oc=5"
-  },
-  {
    "also": [
-    "ニコニコニュース",
-    "航空新聞社"
+    "jwing.net",
+    "ニコニコニュース"
    ],
    "ends": null,
    "home": false,
@@ -2521,21 +2538,6 @@
    "starts": "2026-07-31",
    "title": "【7月31日より】JR東日本「えきねっと」精神障害者割引乗車券の取り扱いを開始",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9pMVdqaWE0WFlyNEhNOEVleW15dXR0VE9sNFdTcFNwQm5XTXBFcWJmUzFTMUN5elIxVmFHUFZiRVlsRmdWMFE4V0ZoU1pVR1Y1TjRzMWx3?oc=5"
-  },
-  {
-   "also": [],
-   "ends": null,
-   "home": false,
-   "kind": "ツアー",
-   "nationwide": false,
-   "published": "2026-04-26",
-   "score": 18,
-   "service": "",
-   "size": "最大4万円",
-   "source": "TRAICY（トライシー）",
-   "starts": null,
-   "title": "ジャルパック、海外ダイナミックパッケージでセール 最大4万円割引",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9Qa1BoTlp0MG1yYXM5WjROSl9ueTAxa1pTWkw4YUc3SUg0QUF2RVZOV0syZ2JPX3NLMkNBTUM4NWVGcFJXa196emt6SnRoeWtncXFDdGl6dw?oc=5"
   },
   {
    "also": [
@@ -2598,6 +2600,23 @@
    "starts": null,
    "title": "JAL「国内航空券＋宿泊タイムセール」開催中 宮崎旅行にも使えるクーポンを確認｜ほんみや宮崎",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQc2g3WjRVUjVBM0RtWEFCLUVMdFU3Tm1od2VGYm9ZT2Q4elNxNk1JZ0NvaXBINkEwaFFONjNKdFFjZkZSYlBvNlVTNXJsc2liSlJpanZnLWVTaFA5VzVhZ0s0MWZKMjBkVUI5Vlp1d05OYWpvTXRyUWdEN1ZHUTJJRnNFM29Rb285djBvRg?oc=5"
+  },
+  {
+   "also": [
+    "newspicks.com"
+   ],
+   "ends": null,
+   "home": false,
+   "kind": "宿",
+   "nationwide": false,
+   "published": "2026-04-27",
+   "score": 17,
+   "service": "",
+   "size": "",
+   "source": "マイナビニュース",
+   "starts": null,
+   "title": "ジャルパック「JAL海外ダイナミックパッケージ(海外航空券+宿泊)」のタイムセール開催中",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1WcEF2T0ktbWZIaVRGUFVibHBfODdyZVJGelRVYkp1djNwTEdxY1Z5cUJMNVdDSW8wMTdiNTdWNW9BNUNJeC1fUE5CWm5veXZyQmZCa0V0MXJmV3V6?oc=5"
   },
   {
    "also": [],
@@ -2903,51 +2922,6 @@
    "also": [],
    "ends": null,
    "home": false,
-   "kind": "宿",
-   "nationwide": false,
-   "published": "2026-07-10",
-   "score": 17,
-   "service": "楽天トラベル",
-   "size": "",
-   "source": "TRAICY（トライシー）",
-   "starts": null,
-   "title": "楽天トラベル、「JAL楽パック」で4日間限定セール開催",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB1aGVYdW1Jb0hZbF95LWQwaTliT0l6TFBSRkFWSm9IVmJMVEFtMm9uTFRpT3NMSUZud0RFY3VXejdsWmtqX0xYM1V2ZnlYSnJuUWszZFlPTQ?oc=5"
-  },
-  {
-   "also": [],
-   "ends": null,
-   "home": false,
-   "kind": "航空券",
-   "nationwide": false,
-   "published": "2026-04-24",
-   "score": 13,
-   "service": "ANA",
-   "size": "",
-   "source": "sky-budget.com",
-   "starts": null,
-   "title": "ANA、国際線を対象に往復31,900円からのタイムセールを開催中",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9hRlZUdmNyQkN1Yzh4SWR4VDZPTVBUaWFMMTRSM2VqOFdld0trb1I5RU5VQUk0R3lVVEJVR0VyYXFWSmFENlNzcFVUREVtaHVSamxPanJ6OFc2dFQ1a2p5UnJ2UQ?oc=5"
-  },
-  {
-   "also": [],
-   "ends": null,
-   "home": false,
-   "kind": "航空券",
-   "nationwide": false,
-   "published": "2026-04-24",
-   "score": 13,
-   "service": "ANA",
-   "size": "",
-   "source": "TRAICY（トライシー）",
-   "starts": null,
-   "title": "ANA、国際線でタイムセール 欧州往復12.6万円など",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE81MU5hSHlqSEJhV1gyWncyV2xNa2haLXY4LWkyRWVwRlNrSTI0aGh4OWJHcnozWEJnRkt5UWpUQkstS1lKMXpxTTJ6RldWVGRWZE5mUEI4NA?oc=5"
-  },
-  {
-   "also": [],
-   "ends": null,
-   "home": false,
    "kind": "航空券",
    "nationwide": false,
    "published": "2026-05-12",
@@ -2958,38 +2932,6 @@
    "starts": null,
    "title": "JAL、5月15日に「国内航空券タイムセール」。夏搭乗の羽田線が伊丹9130円～/沖縄1万1440円～ほか",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1UTnNmcXBhSU9hbmJwMldzaDllRFRVYS1XNS1rR0Q5X2cwblB5Mks1YVd2SmwwZ1dUemU0Mi1SanpQLV90SldiRE9XX1BfNWtPM0dHd1VqdWk0R0NQbmNkMzh3UG54SnBf?oc=5"
-  },
-  {
-   "also": [],
-   "ends": null,
-   "home": false,
-   "kind": "航空券",
-   "nationwide": false,
-   "published": "2026-05-13",
-   "score": 13,
-   "service": "ANA",
-   "size": "",
-   "source": "sky-budget.com",
-   "starts": null,
-   "title": "ANA、国際線を対象に往復42,400円からのタイムセールを開催中",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE00RHFsamVLNkw3N19STURfS3R6TlBDcmxtUDVlekdyMmZMTHdremlfaXlob2p3bVFrZS1nNThucmlTcHRncGl2YTE2YkE2anhEMVJuUFA3YUlVOC1qWC1GRGV3UQ?oc=5"
-  },
-  {
-   "also": [
-    "47NEWS"
-   ],
-   "ends": null,
-   "home": false,
-   "kind": "航空券",
-   "nationwide": false,
-   "published": "2026-05-15",
-   "score": 13,
-   "service": "",
-   "size": "",
-   "source": "琉球新報デジタル",
-   "starts": null,
-   "title": "那覇ー羽田が1万1800円から ANAがタイムセール 17日まで",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBwc0VzNzBOXzVpMnU2blBxbDNNeGEyT3U2cUxJdVpxcjJfQmtteWEwbFhrT01wUHZhR3dSVVBXUHZCTHczbWZGWlpxRGFkSWlvUngtcFl1U1FnNlpQanlYdUxR?oc=5"
   },
   {
    "also": [],
@@ -3042,36 +2984,6 @@
    "also": [],
    "ends": null,
    "home": false,
-   "kind": "航空券",
-   "nationwide": false,
-   "published": "2026-07-08",
-   "score": 13,
-   "service": "ANA",
-   "size": "",
-   "source": "sky-budget.com",
-   "starts": null,
-   "title": "ANA、国際線を対象に往復43,900円からのタイムセールを開催中",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9PaEZpSGhONlZSR0FHQkJJMnNGOEY2NEZ1UHlBQXNucFRiVXhrNFlkUGFjZC1WSHhGemZXcHc3ZDduNXBNLVlwMmZBMXc2NHY4ZHIwX19pSkdZMUVsVjB2RQ?oc=5"
-  },
-  {
-   "also": [],
-   "ends": null,
-   "home": false,
-   "kind": "宿",
-   "nationwide": false,
-   "published": "2026-04-27",
-   "score": 12,
-   "service": "",
-   "size": "",
-   "source": "news.mynavi.jp",
-   "starts": null,
-   "title": "ジャルパック「JAL海外ダイナミックパッケージ(海外航空券+宿泊)」のタイムセール開催中",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1WcEF2T0ktbWZIaVRGUFVibHBfODdyZVJGelRVYkp1djNwTEdxY1Z5cUJMNVdDSW8wMTdiNTdWNW9BNUNJeC1fUE5CWm5veXZyQmZCa0V0MXJmV3V6?oc=5"
-  },
-  {
-   "also": [],
-   "ends": null,
-   "home": false,
    "kind": "宿",
    "nationwide": false,
    "published": "2026-05-01",
@@ -3119,36 +3031,6 @@
    "home": false,
    "kind": "航空券",
    "nationwide": false,
-   "published": "2026-04-25",
-   "score": 8,
-   "service": "",
-   "size": "",
-   "source": "乗りものニュース",
-   "starts": null,
-   "title": "ANAさん、マジ!? 「燃油サーチャージ爆上がり直前」に国際線セールぶっ込みの“英断” SNSでも「ラストチャンス」の声",
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9uNXpsU2VEWVhNd3hJRUtCa1UyVUJrdS02aVFiNUs5MEhsSEFtT05weFJMX2ozdFpHUXZOQm0tOTRLZVU5d1dsVkZB?oc=5"
-  },
-  {
-   "also": [],
-   "ends": null,
-   "home": false,
-   "kind": "航空券",
-   "nationwide": false,
-   "published": "2026-06-18",
-   "score": 8,
-   "service": "",
-   "size": "",
-   "source": "タビリス",
-   "starts": null,
-   "title": "ANAが国際線タイムセール、6/23まで開催。プレエコ、ビジネスクラスも販売",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE15d0tTRElJX2Y1TkI5RVpRcVViN0Z4TGtPODAtVS0zeWw4czhjeExZdHZKX1Fvb1RjMzJXOE4zR2lpb0RESnJ5ODc5c2J1NTJOYXpCa1Rn?oc=5"
-  },
-  {
-   "also": [],
-   "ends": null,
-   "home": false,
-   "kind": "航空券",
-   "nationwide": false,
    "published": "2026-06-24",
    "score": 8,
    "service": "",
@@ -3157,21 +3039,6 @@
    "starts": null,
    "title": "キャンペーン：片道3,820円からのジェットスター「スーパースターセール」 国内13路線・アジア2路線が対象",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB5UnZmbm5Rb3lXU3d5Z2E1V0Y3Wlc5WXROTDAyRnFtaUxORDdTMERmLUp2amt6bDRYMVV5SFpxZU1xQ0xHNExUVWU2MWJfdzY5WWtmOFpBU1JEXzBWeDN2TXpUb1VIYkd5czJCMV9Raw?oc=5"
-  },
-  {
-   "also": [],
-   "ends": null,
-   "home": false,
-   "kind": "航空券",
-   "nationwide": false,
-   "published": "2026-07-04",
-   "score": 8,
-   "service": "",
-   "size": "",
-   "source": "琉球新報デジタル",
-   "starts": null,
-   "title": "那覇ー羽田が1万1880円から ANAがタイムセール 5日まで",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE03ZkxiY1RJM3BRLW9pWFc2OVJERjFRSHJ1NV9Cb19hdWFSU01MYzFoTDBDWmtKdFNibXRid0o2SFdwMHd5aHptYjhsWXBYcDBGUy1Pa3FkLVF0TFhwVnp5UXZR?oc=5"
   },
   {
    "also": [],
@@ -3288,7 +3155,8 @@
   "https://airstair.jp/rakuten-summersale/",
   "https://airstair.jp/shibata-campaign/",
   "https://airstair.jp/starflyer-sale/",
-  "https://www.traicy.com/posts/20260819378669/"
+  "https://www.traicy.com/posts/20260819378669/",
+  "https://www.traicy.com/posts/20260820379618/"
  ],
  "running": [
   {
@@ -3393,11 +3261,11 @@
   }
  ],
  "stats": {
-  "articles": 1409,
-  "deals": 205,
+  "articles": 1311,
+  "deals": 196,
   "failed": 2,
   "fetched": 19,
-  "images": 25
+  "images": 26
  },
- "updated": "2026-08-20 03:27"
+ "updated": "2026-08-20 09:58"
 }
