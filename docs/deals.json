@@ -127,7 +127,7 @@
   },
   {
    "also": [
-    "千葉テレビ放送"
+    "千葉テレビ放送株式会社"
    ],
    "ends": null,
    "home": false,
@@ -178,7 +178,7 @@
   },
   {
    "also": [
-    "千葉テレビ放送"
+    "千葉テレビ放送株式会社"
    ],
    "ends": null,
    "home": false,
@@ -212,7 +212,7 @@
   },
   {
    "also": [
-    "千葉テレビ放送"
+    "千葉テレビ放送株式会社"
    ],
    "ends": "2026-09-01",
    "home": false,
@@ -244,7 +244,7 @@
   },
   {
    "also": [
-    "千葉テレビ放送",
+    "千葉テレビ放送株式会社",
     "TRAICY（トライシー）"
    ],
    "ends": null,
@@ -323,22 +323,49 @@
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBlN3N4WVJ6TnRYdkQyd1FhT3ExVHpwN2NKczY0TDBHUmVHa2UwQUc1RWpKUnRNOTlJeGlEQnN1Vm5fRGlsUkY2MklYSXg1VklsV1l5eQ?oc=5"
   },
   {
-   "also": [
-    "TRAICY（トライシー）"
-   ],
+   "also": [],
    "ends": null,
    "home": false,
-   "image": "https://www.traicy.com/wp-content/uploads/2026/07/8751ce6d6e99f0184304143041c89f79.jpg",
    "kind": "宿",
    "nationwide": false,
-   "published": "2026-08-22",
+   "published": "2026-08-24",
    "score": 67,
-   "service": "",
-   "size": "2,000円",
-   "source": "TRAICY",
+   "service": "楽天トラベル",
+   "size": "最大1万8000円",
+   "source": "トラベル Watch",
    "starts": null,
-   "title": "山口県下関市、「しものせき宿泊応援キャンペーン」実施 宿泊2,000円割引、地域クーポン1,000円分配布",
-   "url": "https://www.traicy.com/posts/20260822376345/"
+   "title": "楽天トラベル、八丈島の旅行予約が最大1万8000円引き。宿泊/ANA楽パックで使えるクーポン配布スタート",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1qdGlOa1RsZXVaZDI2b3I0aEYzRVNzN21SLTZpSGdDM1RHaWh0dnczNVY3TFYtSkdldEFMbEFFZ0pVak1Cd3FpNjl0MGFncWNfWnc5UnlobDJpQUwwdHREZTd4c1RsV3ow?oc=5"
+  },
+  {
+   "also": [],
+   "ends": null,
+   "home": false,
+   "kind": "宿",
+   "nationwide": false,
+   "published": "2026-08-24",
+   "score": 67,
+   "service": "楽天トラベル",
+   "size": "最大1万2000円",
+   "source": "トラベル Watch",
+   "starts": null,
+   "title": "石見銀山・出雲・萩への旅行が最大1万2000円引き。楽天トラベルで「ぐるっと島根、ふらっと萩へ」クーポン配布",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBKQWg5UGRGM2VFVmxVVnpUeFNCeTRiQUlSY2RJcFhNZGxIRjJ3X1BoXzh1RW11QWFpT1RkREFHSkNqX0ZuendhcFllWmpSY3pwVnNOTnd6NGdIN2Npd2VPcW03Q0ZUYXVV?oc=5"
+  },
+  {
+   "also": [],
+   "ends": null,
+   "home": false,
+   "kind": "宿",
+   "nationwide": false,
+   "published": "2026-08-24",
+   "score": 67,
+   "service": "楽天トラベル",
+   "size": "3000円",
+   "source": "トラベル Watch",
+   "starts": null,
+   "title": "宮崎県の宿泊キャンペーン第1期は9月末まで、楽天トラベルで追加販売。1泊3000円引き＋地域クーポン3000円分付与",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5KUTRtaTBRRHI1MV9mZXF1TkdldjdLY2hhU2dEaEN0NHlRNFo0UTZoWWVvOE5qOEVJNjNleHpCek41OTlBNFhYaEVFY1FtWUxabktMeDFnSkd3NTVYdHR6ajdZV1dNLUE4?oc=5"
   },
   {
    "also": [
@@ -457,7 +484,7 @@
   },
   {
    "also": [
-    "千葉テレビ放送"
+    "千葉テレビ放送株式会社"
    ],
    "ends": null,
    "home": false,
@@ -474,7 +501,7 @@
   },
   {
    "also": [
-    "千葉テレビ放送"
+    "千葉テレビ放送株式会社"
    ],
    "ends": null,
    "home": false,
@@ -488,6 +515,53 @@
    "starts": null,
    "title": "9月の熱海で「夏の続き」を味わう？ 混雑を避けた平日旅行が狙い目！ 東海道新幹線とじゃらんクーポンでおトクに楽しむ非日常ステイとは",
    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9BYjYzOFdaeXA0c2dHZ1F2bGR6Szc4Uk9QYjEzaXpWOXl4bW5GaS1kMDYzLUtFZUc1bDh6U3k1X1VsdDZFelhoZVRaYmU?oc=5"
+  },
+  {
+   "also": [],
+   "ends": null,
+   "home": false,
+   "kind": "宿",
+   "nationwide": false,
+   "published": "2026-08-22",
+   "score": 62,
+   "service": "",
+   "size": "2,000円",
+   "source": "TRAICY（トライシー）",
+   "starts": null,
+   "title": "山口県下関市、「しものせき宿泊応援キャンペーン」実施 宿泊2,000円割引、地域クーポン1,000円分配布",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9sQTVrVzgyQzItbmk4UmRxcW5UY084QlFQaWlpM2ZwRHpOdno1THZBM1FEZk1lcDN1R0JvMHp5cDFMTC1oTXltTVMtLTBvbld6UGRIMEZIZw?oc=5"
+  },
+  {
+   "also": [],
+   "ends": null,
+   "home": false,
+   "image": "https://www.traicy.com/wp-content/uploads/2026/07/0dfb9807a64328ae72bceb52c5823836235cd9a7.jpg",
+   "kind": "宿",
+   "nationwide": false,
+   "published": "2026-08-24",
+   "score": 62,
+   "service": "",
+   "size": "2,000円",
+   "source": "TRAICY",
+   "starts": "2026-08-08",
+   "title": "佐賀県武雄市、「武雄宿泊キャンペーン」を8月8日開始 地域通貨2,000円分付与",
+   "url": "https://www.traicy.com/posts/20260824377301/"
+  },
+  {
+   "also": [],
+   "ends": null,
+   "home": false,
+   "image": "https://www.traicy.com/wp-content/uploads/2026/07/main_visual.jpg",
+   "kind": "宿",
+   "nationwide": false,
+   "published": "2026-08-24",
+   "score": 62,
+   "service": "",
+   "size": "4,000円",
+   "source": "TRAICY",
+   "starts": null,
+   "title": "鹿児島市、宿泊クーポン4,000円分を2,000円で販売 1施設6枚まで購入可能",
+   "url": "https://www.traicy.com/posts/20260824377285/"
   },
   {
    "also": [],
@@ -602,7 +676,7 @@
   },
   {
    "also": [
-    "千葉テレビ放送"
+    "千葉テレビ放送株式会社"
    ],
    "ends": null,
    "home": false,
@@ -690,7 +764,7 @@
    "score": 52,
    "service": "楽天トラベル",
    "size": "最大8,000円",
-   "source": "千葉テレビ放送",
+   "source": "千葉テレビ放送株式会社",
    "starts": null,
    "title": "楽天トラベル、「JR楽パック赤い風船 秋冬旅行予約開始キャンペーン」を開催中 最大8,000円クーポンなど",
    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9zQUIzaDFCamFMS3JqdXY1YUtNd1JoOVB0ZnluOHRlMTlqTUY3X2pQYVA0Q1RuTnhnTFNsTGRiV0dDRnU1ZjBPRTM3c3NVRVJuUHFaOHVaN21jS2tJazdv?oc=5"
@@ -710,22 +784,6 @@
    "starts": null,
    "title": "【2026年】北海道の宿泊割引・旅行支援まとめ 「とびだせ いざ！にっぽん旅」は第4弾",
    "url": "https://airstair.jp/hokkaido-tourism-support/"
-  },
-  {
-   "also": [],
-   "ends": null,
-   "home": false,
-   "image": "https://www.traicy.com/wp-content/uploads/2026/07/JRE-S46.jpg",
-   "kind": "鉄道・バス",
-   "nationwide": false,
-   "published": "2026-08-22",
-   "score": 51,
-   "service": "JR東日本",
-   "size": "",
-   "source": "TRAICY",
-   "starts": null,
-   "title": "JR東日本、櫻坂46とコラボした鉄道旅キャンペーン 新潟・長野・庄内エリアで",
-   "url": "https://www.traicy.com/posts/20260822376865/"
   },
   {
    "also": [],
@@ -849,22 +907,6 @@
    "starts": null,
    "title": "えきねっと改定で何が変わる？ 新幹線50％OFFの新割引と終了するサービスまとめ｜Infoseekニュース",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB1TWZNaEg2U092c2czSU1vWVhOaVRFZFMzUEtVTjR6cHU1QXR1a3hENW9UbVk5SE5CdWwzRVJtQ1pjT0RaQS04S2FCWElhUzZ6VWQtUWxOX1VQdzhON3JGbXh3?oc=5"
-  },
-  {
-   "also": [],
-   "ends": null,
-   "home": false,
-   "image": "https://www.traicy.com/wp-content/uploads/2020/04/series800.jpg",
-   "kind": "鉄道・バス",
-   "nationwide": false,
-   "published": "2026-08-22",
-   "score": 46,
-   "service": "",
-   "size": "",
-   "source": "TRAICY",
-   "starts": null,
-   "title": "JR九州、九州新幹線に太陽光由来の電力を導入 オフサイトPPAで2027年8月から",
-   "url": "https://www.traicy.com/posts/20260822379774/"
   },
   {
    "also": [],
@@ -1029,7 +1071,7 @@
    "score": 37,
    "service": "楽天トラベル",
    "size": "最大5万円",
-   "source": "千葉テレビ放送",
+   "source": "千葉テレビ放送株式会社",
    "starts": null,
    "title": "楽天トラベル、「夏休み＆秋旅フェア」を開催中 最大5万円割引クーポンなど配布",
    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5DTHBZVURlVXRQclY1RDdCQk5DV3lLY1g4ZEo0NXJuZmJBc1BvRTlqYU5CQTJJWklqaVBhZ2JIVFNrdGJqdHE3Q1MxS3JWcG5mTUxXOEN6cWZJV2JNSWJ3?oc=5"
@@ -1097,7 +1139,7 @@
   },
   {
    "also": [
-    "千葉テレビ放送"
+    "千葉テレビ放送株式会社"
    ],
    "ends": null,
    "home": false,
@@ -1144,7 +1186,7 @@
   },
   {
    "also": [
-    "千葉テレビ放送"
+    "千葉テレビ放送株式会社"
    ],
    "ends": null,
    "home": false,
@@ -1161,7 +1203,7 @@
   },
   {
    "also": [
-    "千葉テレビ放送"
+    "千葉テレビ放送株式会社"
    ],
    "ends": null,
    "home": false,
@@ -1348,21 +1390,21 @@
   },
   {
    "also": [
-    "Excite エキサイト",
+    "マイナビニュース",
     "AMP[アンプ]"
    ],
    "ends": null,
    "home": false,
    "kind": "宿",
    "nationwide": false,
-   "published": "2026-06-02",
+   "published": "2026-06-01",
    "score": 32,
    "service": "楽天トラベル",
-   "size": "最大30%OFF",
-   "source": "マイナビニュース",
-   "starts": null,
-   "title": "楽天トラベル「スーパーSALE」開催 - 国内旅行が毎日最大30%オフ、お得な宿泊プランも",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE10b0NObWpDUFd5NEFyWDNsMktQd1N6QzBzX1FLd0YwVU1vVVF0WFlVM21IblJTeVN5VFJ4OFhRbkM4OE5GcFZMUDRnUTRZOElXa3VZZnAweHRfOEpK?oc=5"
+   "size": "最大50,000円",
+   "source": "Excite エキサイト",
+   "starts": "2026-06-04",
+   "title": "6月4日より「楽天トラベル スーパーSALE」開催 最大50,000円オフ含むクーポン配布やポイント還元も",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE03TDJXeGdpNFhmYWFjclU0NWJHSU0zUldYTW9BVlpqQlRoS0lFR3lFZmFZa0JMZjE2UTlPck45QzQxazJCNDhjR3l6RS10ZE9RZTlYeVljTkJzMk44?oc=5"
   },
   {
    "also": [],
@@ -1413,6 +1455,21 @@
    "starts": null,
    "title": "楽天トラベル、「楽パック20周年スペシャルオファー」キャンペーンを9月30日まで開催 最大36,000円の割引適用",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBWdTN4RUhqRDE0VUdGT0d1OFJZUGZ2OXMxSktnUFdPXzE0N3ZoSXVBQTFWem1qZ25FQW5RYWVCOUlDX24xN1p5ODZKNVpWVU9WdkFCNERRSkhqckpEUkRodFU2UVg?oc=5"
+  },
+  {
+   "also": [],
+   "ends": null,
+   "home": false,
+   "kind": "宿",
+   "nationwide": false,
+   "published": "2026-08-04",
+   "score": 32,
+   "service": "",
+   "size": "最大3万5000円",
+   "source": "ほんみや宮崎",
+   "starts": null,
+   "title": "【本日開始】ANA航空券＋宿泊が最大3万5000円引き！宮崎からの旅行にも使えるタイムセール｜ほんみや宮崎",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNVBldHZRRkZLTDhOcEtjemh3MFBkLWx1cG56ZEhMWlY0bWhocjRyR3NGS3l6MlRKWUtGUTZfNmlHdGdndEQwM3d5ZDhCR1hud1NhY2Z6bnNBeW9JODJ6c3FqVEthVGZ0dVRsdGhGMWJZNkVUUlBTNWNyMUpObWN3RHBRLUFwWWlOTjR2SzdBRUpyWEk?oc=5"
   },
   {
    "also": [
@@ -1834,21 +1891,6 @@
    "home": false,
    "kind": "宿",
    "nationwide": false,
-   "published": "2026-05-26",
-   "score": 27,
-   "service": "楽天トラベル",
-   "size": "最大1万2000円",
-   "source": "トラベル Watch",
-   "starts": null,
-   "title": "石見銀山・出雲・萩への旅行が最大1万2000円引き。楽天トラベルで「ぐるっと島根、ふらっと萩へ」クーポン配布",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAzVTRHcDEyVXQ3YXdSWnE2eGNscFk1WVFCVTJDSUI4ZGxpUFZwODRoR0RyZlNWdUliWVdJRk4wSGV6YS1NWjR1WnlLQmNnTGlUeE9tWHNvV21iZ3hfLWoyejU1aTFTZGFS?oc=5"
-  },
-  {
-   "also": [],
-   "ends": null,
-   "home": false,
-   "kind": "宿",
-   "nationwide": false,
    "published": "2026-05-31",
    "score": 27,
    "service": "楽天トラベル",
@@ -2237,8 +2279,7 @@
   },
   {
    "also": [
-    "時事ドットコム",
-    "Infoseek"
+    "時事ドットコム"
    ],
    "ends": null,
    "home": false,
@@ -2255,7 +2296,7 @@
   },
   {
    "also": [
-    "千葉テレビ放送"
+    "千葉テレビ放送株式会社"
    ],
    "ends": null,
    "home": false,
@@ -2452,7 +2493,7 @@
   },
   {
    "also": [
-    "千葉テレビ放送"
+    "千葉テレビ放送株式会社"
    ],
    "ends": null,
    "home": false,
@@ -2655,6 +2696,21 @@
    "home": false,
    "kind": "宿",
    "nationwide": false,
+   "published": "2026-04-26",
+   "score": 17,
+   "service": "JTB",
+   "size": "",
+   "source": "AppBank",
+   "starts": "2026-04-25",
+   "title": "MEGA BIG×宇宙海賊ゴー☆ジャスがコラボ！ 地球儀ガチャでJTB海外ミステリーツアーが当たるキャンペーン 4月25日から",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE90M0kyTVlQanhEN1J2YThhT2VRcTVRUU1RQi1qcG80NXpuSk1namRRcXdwbzlvRnMtX2MybTdVNUhwdmxlRWp3SFd0Q3lpZGpxNWk3X2ZoUnFIOGI5OUZfYmk1dTBYdEJvbFE?oc=5"
+  },
+  {
+   "also": [],
+   "ends": null,
+   "home": false,
+   "kind": "宿",
+   "nationwide": false,
    "published": "2026-05-09",
    "score": 17,
    "service": "じゃらん",
@@ -2700,21 +2756,6 @@
    "home": false,
    "kind": "宿",
    "nationwide": false,
-   "published": "2026-05-19",
-   "score": 17,
-   "service": "楽天トラベル",
-   "size": "",
-   "source": "ツーリズムメディアサービス",
-   "starts": null,
-   "title": "楽天トラベル、自治体旅行支援クーポン拡大 12自治体で展開",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE92RUNfWnV2YVo0RjNFeXcyZ2xodEtxSDBzYlZPNlQ0OFdiZmtKYTNJb21NdThvTGpJRVZxZmU4ZHgzTmNFZ25hbQ?oc=5"
-  },
-  {
-   "also": [],
-   "ends": null,
-   "home": false,
-   "kind": "宿",
-   "nationwide": false,
    "published": "2026-05-25",
    "score": 17,
    "service": "JAL",
@@ -2723,6 +2764,21 @@
    "starts": null,
    "title": "JAL、日付変わって0時からタイムセール。夏休みの「国内航空券＋宿泊」お得に",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE10UDRpTHpsZkRVNFU0UXlIMVhRbHJ1N21xQlZLSnQ4RjJZaTJpWERzUlc2NFJJcG1xYnJfanItWmc5anUyUGVLRjU5Nm1mV1pRcWtQM1dEWTZyM25SNEx3MFAyQ2JQeW1I?oc=5"
+  },
+  {
+   "also": [],
+   "ends": null,
+   "home": false,
+   "kind": "宿",
+   "nationwide": false,
+   "published": "2026-05-29",
+   "score": 17,
+   "service": "じゃらん",
+   "size": "",
+   "source": "TRAICY（トライシー）",
+   "starts": "2026-06-01",
+   "title": "じゃらんnet、「じゃらんスペシャルウィーク」を6月1日開始 特別プランやクーポンも",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9hNlgtMms4SkRRTU9vREN0RldjeVYwcFp2RVlORXFvRHVKMzBxRTZaQ0x6a1BkN09lb1VZOEVHeTR0NmFqaU5DTG1QdWgwNExiN2Vid2NDWQ?oc=5"
   },
   {
    "also": [],
@@ -2895,21 +2951,6 @@
    "home": false,
    "kind": "宿",
    "nationwide": false,
-   "published": "2026-06-30",
-   "score": 17,
-   "service": "じゃらん",
-   "size": "",
-   "source": "TRAICY（トライシー）",
-   "starts": "2026-07-01",
-   "title": "じゃらんnet、「じゃらんスペシャルウィーク」を7月1日開始 特別プランやクーポンも",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1pMXVBSE5YX25rWXpIRFlaczV6WXp2TzBPZGUxbTMwQ0wxM0VBZUl3ZnpZdmNobVF0REdaS2F6TmJkdGVHVUJxcWV3OGgzRl9YN0hmSVoxaw?oc=5"
-  },
-  {
-   "also": [],
-   "ends": null,
-   "home": false,
-   "kind": "宿",
-   "nationwide": false,
    "published": "2026-07-01",
    "score": 17,
    "service": "Yahoo!トラベル",
@@ -2933,21 +2974,6 @@
    "starts": null,
    "title": "リクルートとさとふる、「じゃらんふるさと納税クーポン」提供 今秋開始",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9HQVF2dnVBSnB6ZXpucHNWVnNzc2QwXzRVLXdVb0ZJcTNBaGgyWEJkVmg4U2k4NWVEQ1o4S1BueGlnbEFTME5kQmJTNGVWUjJuRk5Xbjhadw?oc=5"
-  },
-  {
-   "also": [],
-   "ends": null,
-   "home": false,
-   "kind": "宿",
-   "nationwide": false,
-   "published": "2026-07-05",
-   "score": 17,
-   "service": "ふるさと納税",
-   "size": "",
-   "source": "PR TIMES",
-   "starts": null,
-   "title": "函館市さ、泊まりに来てみない？グットリふるさと納税旅行クーポン、受付を開始いたしました！",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB2NmtDWGhKbktrVFVxd2hWZ2FwaHlsOGlGeEhVTk9GdkNzMFdUUjRUa3RXLS0zQzhRczlOVVpuQkF2eG8ybnA5YmVUbGhnREx3YWFkN3RiMFhZcDQyVlBFQThWRFZFZ2swRkE?oc=5"
   },
   {
    "also": [],
@@ -3321,10 +3347,9 @@
   "https://airstair.jp/rakuten-summersale/",
   "https://airstair.jp/shibata-campaign/",
   "https://airstair.jp/starflyer-sale/",
-  "https://www.traicy.com/posts/20260822376345/",
-  "https://www.traicy.com/posts/20260822376865/",
-  "https://www.traicy.com/posts/20260822379774/",
   "https://www.traicy.com/posts/20260823379849/",
+  "https://www.traicy.com/posts/20260824377285/",
+  "https://www.traicy.com/posts/20260824377301/",
   "https://www.traicy.com/posts/20260824379883/"
  ],
  "running": [
@@ -3430,11 +3455,11 @@
   }
  ],
  "stats": {
-  "articles": 1396,
-  "deals": 207,
+  "articles": 1376,
+  "deals": 209,
   "failed": 2,
   "fetched": 19,
-  "images": 29
+  "images": 28
  },
- "updated": "2026-08-24 10:00"
+ "updated": "2026-08-24 15:47"
 }
