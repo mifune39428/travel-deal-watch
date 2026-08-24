@@ -212,7 +212,7 @@
   },
   {
    "also": [
-    "TRAICY（トライシー）"
+    "千葉テレビ放送"
    ],
    "ends": "2026-09-01",
    "home": false,
@@ -222,10 +222,10 @@
    "score": 72,
    "service": "楽天トラベル",
    "size": "",
-   "source": "千葉テレビ放送",
+   "source": "TRAICY（トライシー）",
    "starts": null,
    "title": "楽天トラベル、「スペシャルクーポンWEEK」を開催中 9月1日まで",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9NZmt2NVdKLXJfZ0ttbkZPX1pMNzNxTzhySUxUQ1pCR3RtU2RPU3FmaEV5T1RnbFd3NC1yWjA2RWZMbkxCdWZMOVpPcHZVbG9RaUlTd29qYXZlQWlPN2V3?oc=5"
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5BTFdyd3htbTZCN1E3dnhEaFNua1FoME5MTDIzeXVKV0NCZWpQS1lKbmxwUGhZeTNTYWdyOFBIeEotSHFxc0VfejVlRmJQdHFQRWdLczJIbw?oc=5"
   },
   {
    "also": [],
@@ -244,8 +244,8 @@
   },
   {
    "also": [
-    "TRAICY（トライシー）",
-    "千葉テレビ放送"
+    "千葉テレビ放送",
+    "TRAICY（トライシー）"
    ],
    "ends": null,
    "home": false,
@@ -260,6 +260,22 @@
    "starts": null,
    "title": "楽天トラベル、「韓国スペシャルオファー」開催中 最大15,000円クーポンなど",
    "url": "https://www.traicy.com/posts/20260823379849/"
+  },
+  {
+   "also": [],
+   "ends": null,
+   "home": false,
+   "image": "https://www.traicy.com/wp-content/uploads/2025/09/NH_A350-900_JA07XJ.jpg",
+   "kind": "航空券",
+   "nationwide": true,
+   "published": "2026-08-24",
+   "score": 68,
+   "service": "JAL",
+   "size": "",
+   "source": "TRAICY",
+   "starts": null,
+   "title": "JAL、国内線「JALカードスカイメイト」「スカイメイト」でセール きょうから",
+   "url": "https://www.traicy.com/posts/20260824379883/"
   },
   {
    "also": [],
@@ -831,7 +847,7 @@
    "size": "50%OFF",
    "source": "Infoseek",
    "starts": null,
-   "title": "えきねっと改定で何が変わる？ 新幹線50％OFFの新割引と終了するサービスまとめ",
+   "title": "えきねっと改定で何が変わる？ 新幹線50％OFFの新割引と終了するサービスまとめ｜Infoseekニュース",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB1TWZNaEg2U092c2czSU1vWVhOaVRFZFMzUEtVTjR6cHU1QXR1a3hENW9UbVk5SE5CdWwzRVJtQ1pjT0RaQS04S2FCWElhUzZ6VWQtUWxOX1VQdzhON3JGbXh3?oc=5"
   },
   {
@@ -939,6 +955,21 @@
    "starts": null,
    "title": "バレてない秋田へ旅を 宿泊代を最大1万2000円割引 「知名度不足」逆手に県が観光キャンペーン",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB2QmZlTHRaWmpPMkpwRzBuUzNuU3VhWEdKN2F6QlJLNHZhc1RJTWxMMEFmTjU3NjRrZTRydXRTVk1NVlhiUUdBanB1N1hRWWNVOGhYMTFoN0Q0clNiVndDMA?oc=5"
+  },
+  {
+   "also": [],
+   "ends": null,
+   "home": false,
+   "kind": "宿",
+   "nationwide": true,
+   "published": "2026-06-02",
+   "score": 42,
+   "service": "楽天トラベル",
+   "size": "最大30%OFF",
+   "source": "AppBank",
+   "starts": "2026-06-04",
+   "title": "「楽天トラベル スーパーSALE」が6月4日より開催！ 国内宿泊が毎日最大30%オフ",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB5S3RtemFPemczLThocEhYcTB3UlU5dVlQUE55X3FjY1M2bGpnNHh4MU5jeG1Cc1psUTd1QS1HZWw1UUdzSnh2YUNnUjZMaUdyeUlYalVLNFBoaVZOMGNXU2VHcDRYQnJ0YXc?oc=5"
   },
   {
    "also": [
@@ -1317,21 +1348,21 @@
   },
   {
    "also": [
-    "マイナビニュース",
+    "Excite エキサイト",
     "AMP[アンプ]"
    ],
    "ends": null,
    "home": false,
    "kind": "宿",
    "nationwide": false,
-   "published": "2026-06-01",
+   "published": "2026-06-02",
    "score": 32,
    "service": "楽天トラベル",
-   "size": "最大50,000円",
-   "source": "Excite エキサイト",
-   "starts": "2026-06-04",
-   "title": "6月4日より「楽天トラベル スーパーSALE」開催 最大50,000円オフ含むクーポン配布やポイント還元も",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE03TDJXeGdpNFhmYWFjclU0NWJHSU0zUldYTW9BVlpqQlRoS0lFR3lFZmFZa0JMZjE2UTlPck45QzQxazJCNDhjR3l6RS10ZE9RZTlYeVljTkJzMk44?oc=5"
+   "size": "最大30%OFF",
+   "source": "マイナビニュース",
+   "starts": null,
+   "title": "楽天トラベル「スーパーSALE」開催 - 国内旅行が毎日最大30%オフ、お得な宿泊プランも",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE10b0NObWpDUFd5NEFyWDNsMktQd1N6QzBzX1FLd0YwVU1vVVF0WFlVM21IblJTeVN5VFJ4OFhRbkM4OE5GcFZMUDRnUTRZOElXa3VZZnAweHRfOEpK?oc=5"
   },
   {
    "also": [],
@@ -2045,6 +2076,21 @@
    "nationwide": false,
    "published": "2026-08-04",
    "score": 27,
+   "service": "楽天トラベル",
+   "size": "",
+   "source": "株式会社旅行新聞新社",
+   "starts": null,
+   "title": "楽天トラベル、最大3万6000円を割引 楽パック20周年記念でクーポン配布",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBEd3JKSkNCd3liX2NhMGhjUExKOE1nMW1Qb2dKUlZFVTJ1bTdMNHVOaGNKQ3BnSlJ2NnJqUlJ4ZEVWOE1tYWRVQ0FRTVB4dw?oc=5"
+  },
+  {
+   "also": [],
+   "ends": null,
+   "home": false,
+   "kind": "宿",
+   "nationwide": false,
+   "published": "2026-08-04",
+   "score": 27,
    "service": "ふるさと納税",
    "size": "",
    "source": "トラベルボイス",
@@ -2654,14 +2700,14 @@
    "home": false,
    "kind": "宿",
    "nationwide": false,
-   "published": "2026-05-17",
+   "published": "2026-05-19",
    "score": 17,
-   "service": "ふるさと納税",
+   "service": "楽天トラベル",
    "size": "",
-   "source": "ふーぽ",
+   "source": "ツーリズムメディアサービス",
    "starts": null,
-   "title": "憧れの宿でもお得に宿泊。ふるさと納税＆“おてつだび”で予算を「浮かす」「稼ぐ」、賢い旅の選択肢。",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE42a0hNcWo0dXFHUnluWS1DcXpDUGR3WkdON0xkWjlNYjNRanZWN3hnQ3dVdEFwUUUwcHZyb05pc3J4R3ZJSkQ2ZEFYbElCWmM2bVlKNFhZWQ?oc=5"
+   "title": "楽天トラベル、自治体旅行支援クーポン拡大 12自治体で展開",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE92RUNfWnV2YVo0RjNFeXcyZ2xodEtxSDBzYlZPNlQ0OFdiZmtKYTNJb21NdThvTGpJRVZxZmU4ZHgzTmNFZ25hbQ?oc=5"
   },
   {
    "also": [],
@@ -3278,7 +3324,8 @@
   "https://www.traicy.com/posts/20260822376345/",
   "https://www.traicy.com/posts/20260822376865/",
   "https://www.traicy.com/posts/20260822379774/",
-  "https://www.traicy.com/posts/20260823379849/"
+  "https://www.traicy.com/posts/20260823379849/",
+  "https://www.traicy.com/posts/20260824379883/"
  ],
  "running": [
   {
@@ -3383,11 +3430,11 @@
   }
  ],
  "stats": {
-  "articles": 1398,
-  "deals": 204,
+  "articles": 1396,
+  "deals": 207,
   "failed": 2,
   "fetched": 19,
-  "images": 28
+  "images": 29
  },
- "updated": "2026-08-24 03:22"
+ "updated": "2026-08-24 10:00"
 }
