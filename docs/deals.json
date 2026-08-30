@@ -420,37 +420,6 @@
    "url": "https://airstair.jp/rakuten-coupon/"
   },
   {
-   "also": [],
-   "ends": null,
-   "home": false,
-   "kind": "宿",
-   "nationwide": false,
-   "published": "2026-08-25",
-   "score": 62,
-   "service": "",
-   "size": "2000円",
-   "source": "トラベル Watch",
-   "starts": "2026-09-01",
-   "title": "下関市、宿泊2000円引き＋地域クーポン1000円分もらえる「しものせき宿泊応援キャンペーン」9月1日から",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE55WXg3Z2lfa2JlQjlrZGcwaFBMR0NsOC1zR0x6V284VGtsMUtSVTk3TEIwcUhiMWRoQ2xaVEFJLUwyNnVNVmZDanZ5YXQ1M1dmX0tudnBUV0FUVG5MUDI3elB3d0kweDhN?oc=5"
-  },
-  {
-   "also": [],
-   "ends": null,
-   "home": false,
-   "image": "https://www.traicy.com/wp-content/uploads/2020/10/mlit.jpg",
-   "kind": "宿",
-   "nationwide": false,
-   "published": "2026-08-28",
-   "score": 62,
-   "service": "",
-   "size": "最大60%OFF",
-   "source": "TRAICY",
-   "starts": null,
-   "title": "観光庁、「九州ふっこう応援割」を実施 10月1日宿泊分から最大60％割引",
-   "url": "https://www.traicy.com/posts/20260828380406/"
-  },
-  {
    "also": [
     "Mantan Web",
     "Excite エキサイト"
@@ -993,6 +962,21 @@
    "starts": null,
    "title": "9月の熱海で「夏の続き」を味わう？ 混雑を避けた平日旅行が狙い目！ 東海道新幹線とじゃらんクーポンでおトクに楽しむ非日常ステイとは",
    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9BYjYzOFdaeXA0c2dHZ1F2bGR6Szc4Uk9QYjEzaXpWOXl4bW5GaS1kMDYzLUtFZUc1bDh6U3k1X1VsdDZFelhoZVRaYmU?oc=5"
+  },
+  {
+   "also": [],
+   "ends": null,
+   "home": false,
+   "kind": "宿",
+   "nationwide": false,
+   "published": "2026-08-22",
+   "score": 47,
+   "service": "",
+   "size": "2,000円",
+   "source": "TRAICY（トライシー）",
+   "starts": null,
+   "title": "山口県下関市、「しものせき宿泊応援キャンペーン」実施 宿泊2,000円割引、地域クーポン1,000円分配布",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9sQTVrVzgyQzItbmk4UmRxcW5UY084QlFQaWlpM2ZwRHpOdno1THZBM1FEZk1lcDN1R0JvMHp5cDFMTC1oTXltTVMtLTBvbld6UGRIMEZIZw?oc=5"
   },
   {
    "also": [],
@@ -1581,6 +1565,21 @@
    "home": true,
    "kind": "宿",
    "nationwide": false,
+   "published": "2026-05-15",
+   "score": 32,
+   "service": "",
+   "size": "",
+   "source": "河北新報オンライン",
+   "starts": null,
+   "title": "岩手県が宿泊料金を最大7000円割り引くキャンペーン",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9xY1Yta2NwcmdVRkJmMFNmT0RvODh3bFFFZlNCMHpMVVNJbHlHVGp1X3FMQWlVOVVQN2hJd1ltdFVMMGNjSENyNHgtQlJvVmpxYUI3RzBsMkJVRUVYYmV5Nw?oc=5"
+  },
+  {
+   "also": [],
+   "ends": null,
+   "home": true,
+   "kind": "宿",
+   "nationwide": false,
    "published": "2026-05-27",
    "score": 32,
    "service": "",
@@ -1701,6 +1700,24 @@
    ],
    "ends": null,
    "home": false,
+   "image": "https://airstair.jp/images/2024/11/ikkyu-sale-top.webp",
+   "kind": "宿",
+   "nationwide": false,
+   "published": "2026-08-08",
+   "score": 32,
+   "service": "一休.com",
+   "size": "",
+   "source": "airstair",
+   "starts": null,
+   "title": "一休.comのセールはいつ？ 毎月1日・9日・19日の周期と2026年8月の開催スケジュール",
+   "url": "https://airstair.jp/ikyu-coupon/"
+  },
+  {
+   "also": [
+    "airstair.jp"
+   ],
+   "ends": null,
+   "home": false,
    "image": "https://airstair.jp/images/2024/11/jalan-top.webp",
    "kind": "宿",
    "nationwide": false,
@@ -1783,10 +1800,10 @@
    "score": 31,
    "service": "JR東日本",
    "size": "50%OFF",
-   "source": "週刊アスキー",
+   "source": "ASCII.jp",
    "starts": null,
-   "title": "えきねっと改定で何が変わる？ 新幹線50％OFFの新割引と終了するサービスまとめ",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5IdzdkTHdiRTh1NGx1SDktd1hfTDJSZDlRU2xRdUwyT2dMWnRwc003VmlFczBENVpxZkl2eUE0OGZqckF3b3VkRXlEVFNJZTNVN2lOcDhBLXIzd2RQTmc?oc=5"
+   "title": "えきねっと改定で何が変わる？ 新幹線50％OFFの新割引と終了するサービスまとめ (1/2)",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBBdGdHNTJfenFiMVdheU9hWHZ2U2UtckkwQ043MC05RTRveVI1VGdmeFVLOS1JNlJZNHVEYV9QamRpd2FFdHBfN1hkMDhZNmw3dk9XTg?oc=5"
   },
   {
    "also": [],
@@ -2128,7 +2145,7 @@
    "score": 27,
    "service": "楽天トラベル",
    "size": "最大35%OFF",
-   "source": "ネットショップ担当者フォーラム",
+   "source": "株式会社インプレス",
    "starts": null,
    "title": "「楽天トラベルスーパーSALE」6/4から開始。最大35%割引、テーマパーク連携、ポイントバックなど展開",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5zYlJTMVFzRmstSUlVQTdBdUlvUWFPYTloaHR4ek43VEt0NG1zN0d2MW1zc3dYTmZOa1JSdnJGamJabm0xNld0VTM1d25yaWNFTThuWmo4cm1Ea240?oc=5"
@@ -2374,22 +2391,6 @@
    "starts": null,
    "title": "【2026年8月最新】JTBのクーポンコード一覧！｜初回・2回目以降の割引情報＆使い方をまとめて紹介",
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1FME1hOG5xd3pOZmkyUUk3dU5ZNkRUa1NwTi01MzdfM1o4cmh1aUkyLXgyWmZ0WlBFNXBkT282R09GYWtSOW5JUWlNU1BqeUhh?oc=5"
-  },
-  {
-   "also": [],
-   "ends": null,
-   "home": false,
-   "image": "https://airstair.jp/images/2024/11/ikkyu-sale-top.webp",
-   "kind": "宿",
-   "nationwide": false,
-   "published": "2026-08-08",
-   "score": 27,
-   "service": "一休.com",
-   "size": "",
-   "source": "airstair",
-   "starts": null,
-   "title": "一休.comのセールはいつ？ 毎月1日・9日・19日の周期と2026年8月の開催スケジュール",
-   "url": "https://airstair.jp/ikyu-coupon/"
   },
   {
    "also": [],
@@ -2810,6 +2811,21 @@
    "starts": null,
    "title": "飛行機に安く乗る方法 ANA新運賃とセールの周期から次の狙い目を読む",
    "url": "https://airstair.jp/fly-discount/"
+  },
+  {
+   "also": [],
+   "ends": null,
+   "home": false,
+   "kind": "宿",
+   "nationwide": false,
+   "published": "2026-05-09",
+   "score": 17,
+   "service": "じゃらん",
+   "size": "",
+   "source": "ほんみや宮崎",
+   "starts": null,
+   "title": "宮崎発の旅行も対象に JALじゃらんパック「4日間限定セール」5月11日朝まで開催｜ほんみや宮崎",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5vWUI3QVZ6T3lBODdnUmJPb0swT1JuYlQ1MEYxMGZmTWtmcUxUWTM4T2VsUU0zYWVaWWx5LVVxV0ZsUFQzLVVnZFFtUmF3UjJEdHdLaWpiWkFvTUZ1UkFOQWtxcHoxbS13SjVXMGx4YWdlbGVaemt3?oc=5"
   },
   {
    "also": [],
@@ -3426,7 +3442,6 @@
   "https://airstair.jp/shibata-campaign/",
   "https://airstair.jp/starflyer-sale/",
   "https://sky-budget.com/2026/08/29/kansai-airport-news-jul2026-data/",
-  "https://www.traicy.com/posts/20260828380406/",
   "https://www.traicy.com/posts/20260829380308/",
   "https://www.traicy.com/posts/20260829380380/",
   "https://www.traicy.com/posts/20260829380399/",
@@ -3535,11 +3550,11 @@
   }
  ],
  "stats": {
-  "articles": 1364,
-  "deals": 212,
+  "articles": 1397,
+  "deals": 213,
   "failed": 2,
   "fetched": 19,
-  "images": 30
+  "images": 29
  },
- "updated": "2026-08-31 00:56"
+ "updated": "2026-08-31 05:27"
 }
