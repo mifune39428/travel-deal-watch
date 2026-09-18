@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.miffy.anaalert</string>
+
+    <key>ProgramArguments</key>
+    <array>
+        <string>/opt/homebrew/bin/python3</string>
+        <string>/Users/home_dir/gemini_cli/tools/travel_deal_watch/ana_alert.py</string>
+    </array>
+
+    <!-- 告知の元データ（docs/deals.json）はクラウドが6時間ごとに更新するが、
+         GitHub Actions の予定は1〜2時間遅れることが多いので、4回に分けて見る。
+         深夜はダークウェイクで落ちやすいので入れていない。 -->
+    <key>StartCalendarInterval</key>
+    <array>
+        <dict><key>Hour</key><integer>8</integer><key>Minute</key><integer>40</integer></dict>
+        <dict><key>Hour</key><integer>12</integer><key>Minute</key><integer>40</integer></dict>
+        <dict><key>Hour</key><integer>16</integer><key>Minute</key><integer>40</integer></dict>
+        <dict><key>Hour</key><integer>20</integer><key>Minute</key><integer>40</integer></dict>
+    </array>
+
+    <key>StandardOutPath</key>
+    <string>/Users/home_dir/gemini_cli/tools/travel_deal_watch/launchd_stdout.log</string>
+    <key>StandardErrorPath</key>
+    <string>/Users/home_dir/gemini_cli/tools/travel_deal_watch/launchd_stderr.log</string>
+    <key>WorkingDirectory</key>
+    <string>/Users/home_dir/gemini_cli/tools/travel_deal_watch</string>
+    <key>EnvironmentVariables</key>
+    <dict>
+        <key>PATH</key>
+        <string>/opt/homebrew/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin</string>
+    </dict>
+</dict>
+</plist>

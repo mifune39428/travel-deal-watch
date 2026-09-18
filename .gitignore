@@ -1,3 +1,8 @@
 .DS_Store
 __pycache__/
 *.pyc
+# ANAセール通知（この Mac だけで使う。公開リポジトリに入れない）
+alert_local.json
+alert_state.json
+alert_preview.html
+launchd_*.log
