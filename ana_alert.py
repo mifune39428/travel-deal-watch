@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""ANAのセールが始まったらメールで知らせる。
+"""ANA・JALのセールが始まったらメールで知らせる。
 
 クラウド（GitHub Actions）が6時間ごとに集めている docs/deals.json を読み、
 sources.json の alerts に書いた条件に合う告知が新しく出ていたら1通送る。
@@ -50,6 +50,7 @@ BORDER = "#e3e6ea"
 INK = "#1f2933"
 MUTED = "#6b7684"
 ANA_BLUE = "#13448f"
+JAL_RED = "#c8102e"
 HOT = "#b4442c"
 
 
@@ -94,7 +95,8 @@ def load_email_settings() -> dict:
 # ---------------------------------------------------------------- 判定
 
 def matches(title: str, rule: dict) -> bool:
-    if not all(word in title for word in rule["must"]):
+    # must も「どれか1つ」。ジャルパックの記事は見出しに JAL と書かれないことがあるため。
+    if not any(word in title for word in rule["must"]):
         return False
     if not any(word in title for word in rule["any"]):
         return False
@@ -157,6 +159,20 @@ def period_text(hits: list[dict]) -> str:
     return ""
 
 
+def upcoming_start(hits: list[dict], today: dt.date) -> str | None:
+    """開始日がまだ先なら、その日。JALは一般販売の1週間ほど前に「開催決定」の記事が出る。"""
+    starts = sorted(d["starts"] for d in hits if d.get("starts"))
+    future = [s for s in starts if s > today.isoformat()]
+    return future[0] if future else None
+
+
+def headline(rule: dict, hits: list[dict], today: dt.date) -> str:
+    start = upcoming_start(hits, today)
+    if start:
+        return f"{rule['name']}：{jp_date(start)}から開催"
+    return f"{rule['name']}が始まりました"
+
+
 def build_html(rule: dict, hits: list[dict], now: dt.datetime, test: bool) -> str:
     period = period_text(hits)
     akita = any("秋田" in d["title"] for d in hits)
@@ -188,12 +204,12 @@ def build_html(rule: dict, hits: list[dict], now: dt.datetime, test: bool) -> st
 <table role="presentation" cellpadding="0" cellspacing="0" border="0" width="640" style="max-width:640px;background:#ffffff;border:1px solid {BORDER};border-radius:10px;padding:24px;font-family:-apple-system,'Hiragino Sans','Helvetica Neue',sans-serif;">
 <tr><td>
   {banner}
-  <div style="font-size:12px;color:{ANA_BLUE};font-weight:700;letter-spacing:.04em;">✈️ 旅トク セール速報</div>
-  <div style="font-size:20px;font-weight:700;color:{INK};padding-top:4px;">{html.escape(rule["name"])}が始まりました</div>
+  <div style="font-size:12px;color:{brand_color(rule)};font-weight:700;letter-spacing:.04em;">✈️ 旅トク セール速報</div>
+  <div style="font-size:20px;font-weight:700;color:{INK};padding-top:4px;">{html.escape(headline(rule, hits, now.date()))}</div>
   <div style="font-size:14px;color:{INK};padding-top:8px;">{html.escape(period) if period else "期間は記事で確かめてください"}</div>
   <div style="font-size:13px;color:{MUTED};padding-top:4px;">{note}</div>
   <div style="padding:16px 0 4px 0;">
-    <a href="{html.escape(rule["official"])}" style="display:inline-block;background:{ANA_BLUE};color:#ffffff;font-size:14px;font-weight:700;text-decoration:none;padding:9px 18px;border-radius:7px;">ANA公式で運賃を見る</a>
+    <a href="{html.escape(rule["official"])}" style="display:inline-block;background:{brand_color(rule)};color:#ffffff;font-size:14px;font-weight:700;text-decoration:none;padding:9px 18px;border-radius:7px;">{html.escape(carrier(rule))}公式で運賃を見る</a>
   </div>
 </td></tr>
 <tr><td style="padding-top:14px;">
@@ -210,14 +226,23 @@ def build_html(rule: dict, hits: list[dict], now: dt.datetime, test: bool) -> st
 </body></html>"""
 
 
-def build_subject(rule: dict, hits: list[dict], test: bool) -> str:
+def carrier(rule: dict) -> str:
+    return "JAL" if rule["name"].startswith("JAL") else "ANA"
+
+
+def brand_color(rule: dict) -> str:
+    return JAL_RED if carrier(rule) == "JAL" else ANA_BLUE
+
+
+def build_subject(rule: dict, hits: list[dict], test: bool, today: dt.date) -> str:
     # 件名だけで「どの路線がいくらか」が分かるよう、金額の入った見出しを優先して添える。
     lead = next((d for d in hits if d.get("size") or "円" in d["title"]), hits[0])
     snippet = lead["title"]
     if len(snippet) > 34:
         snippet = snippet[:34] + "…"
     head = "【テスト】" if test else ""
-    return f"{head}[旅トク] {rule['name']}が始まりました：{snippet}"
+    # 見出しに「：9月8日から開催」が入ることがあるので、記事との区切りは縦線にする。
+    return f"{head}[旅トク] {headline(rule, hits, today)} ｜ {snippet}"
 
 
 def send_mail(subject: str, body: str, settings: dict, retries: int = 3) -> bool:
@@ -245,7 +270,7 @@ def send_mail(subject: str, body: str, settings: dict, retries: int = 3) -> bool
 # ---------------------------------------------------------------- 本体
 
 def main() -> int:
-    parser = argparse.ArgumentParser(description="ANAのセール開始をメールで知らせる")
+    parser = argparse.ArgumentParser(description="ANA・JALのセール開始をメールで知らせる")
     parser.add_argument("--dry-run", action="store_true", help="送らずに判定とプレビューだけ")
     parser.add_argument("--test", action="store_true", help="直近のセールで試しに1通送る")
     args = parser.parse_args()
@@ -256,11 +281,12 @@ def main() -> int:
     state = load_state()
     now = dt.datetime.now(JST)
     today = now.date()
-    first_run = not state
     print(f"{now:%Y-%m-%d %H:%M} 確認（データの更新 {data.get('updated')}）")
 
     for rule in rules:
         name = rule["name"]
+        # 基準づくりは条件ごと。あとから JAL などを足したときも、いま出ている古いセールで送らない。
+        first_run = name not in state
         memo = state.setdefault(name, {"seen": [], "notified": None})
         seen = set(memo["seen"])
         found = [d for d in data.get("deals", []) if matches(d["title"], rule)]
@@ -277,7 +303,7 @@ def main() -> int:
             body = build_html(rule, hits[:6], now, test=True)
             with open(PREVIEW_PATH, "w", encoding="utf-8") as fh:
                 fh.write(body)
-            ok = send_mail(build_subject(rule, hits, True), body, load_email_settings())
+            ok = send_mail(build_subject(rule, hits, True, today), body, load_email_settings())
             print(f"  {name}: テスト送信 {'しました' if ok else 'に失敗しました'}（記事 {len(hits)}件）")
             continue
 
@@ -306,7 +332,7 @@ def main() -> int:
             continue
 
         hits.sort(key=lambda d: d.get("published") or "", reverse=True)
-        subject = build_subject(rule, hits, False)
+        subject = build_subject(rule, hits, False, today)
         body = build_html(rule, hits[:6], now, test=False)
         with open(PREVIEW_PATH, "w", encoding="utf-8") as fh:
             fh.write(body)
