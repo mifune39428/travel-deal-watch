@@ -75,7 +75,7 @@
    "score": 72,
    "service": "",
    "size": "",
-   "source": "rurubu.jp",
+   "source": "るるぶWeb",
    "starts": null,
    "title": "全国自治体のお得な旅行クーポン・宿泊割引やふっこう割の最新情報！（9/16更新）",
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA0OWtEeEpQd2RndWxfWFctV1lHWVhXaFNrVEI0dDRXbHVkV25ZTVFmTl83LVV5QzV2U0x6R1FuX3hhak15ak9nOXpIa25BUEZs?oc=5"
@@ -92,7 +92,7 @@
    "score": 72,
    "service": "じゃらん",
    "size": "最大2万円",
-   "source": "TRAICY（トライシー）",
+   "source": "traicy.com",
    "starts": null,
    "title": "じゃらんnet、「じゃらんクーポンフェス」開催 最大2万円クーポン配布",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8yX212UUtDZ0U1aDI5bk1OLUxyQ2RlVVVERXczbWluSFJDbmNHQTN1ckpGekNyRWo3VVVETVJfSzJUUVFmdkRVUkZ0Snh4ZFZDdnB3Y0R6Zw?oc=5"
@@ -109,32 +109,14 @@
    "score": 72,
    "service": "楽天トラベル",
    "size": "",
-   "source": "TRAICY（トライシー）",
+   "source": "traicy.com",
    "starts": null,
    "title": "楽天トラベル、「スペシャルクーポンWEEK」を開催中 10月1日まで",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8xcXNUazNRTWt4dHVMeTdQTXpVbmlseGVhNV9ranlhdDdTdHBEMWF2UjZZU0dZcVBXU05PNXItdXo2VnZ2NGpKRDJwa1JMZXYxUGQya3VzQQ?oc=5"
   },
   {
    "also": [
-    "ｄメニューニュース"
-   ],
-   "ends": null,
-   "home": true,
-   "kind": "鉄道・バス",
-   "nationwide": false,
-   "published": "2026-09-09",
-   "score": 71,
-   "service": "JR東日本",
-   "size": "半額級",
-   "source": "news.yahoo.co.jp",
-   "starts": null,
-   "title": "この機会を見逃すな！秋田や青森、北海道にだって“半額”で行けちゃう 秋の旅行にもってこいのJR東「トクだ値スペシャル28」まもなく発売 その内容とは（VAGUE）",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Rem9PYVQ3RjRwbVBpb3l5aF9Ca0ZjRGRNMUVMSU5lTWZQX3VEMGhfOVFUdjlvMDR2OVpmd1Nkd2hfblU1c1hHaDYzelFFajdudUdxSExCN21wMDMxRExwQjR0cVJsNEhPTWJJZVVhQ0QyMkNXVGZRRWc3OWcxbjA?oc=5"
-  },
-  {
-   "also": [
-    "47news.jp",
-    "UQライフ"
+    "portal.uqmobile.jp"
    ],
    "ends": null,
    "home": true,
@@ -144,10 +126,10 @@
    "score": 67,
    "service": "ふるさと納税",
    "size": "",
-   "source": "news.yahoo.co.jp",
+   "source": "47news.jp",
    "starts": null,
-   "title": "福島市のふるさと納税体験型返礼品への寄付4割増 25年度、宿泊券やイベントチケット好評（福島民友新聞）",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nT25VcjR2UHFiY1RLRUQ2bzdKc3FBWkppR0RreGU4QkdZMlZETl9HRzRicnkza2VrSG1XbFh0ZXQ0MEhvMVdlLTZ6aHJOYVdQYXc5VmtjVmpoYVRaRjI0N0ptV2lyV1FFY21iU05VajVNcTg3cW5aQU1rRzNkQkU?oc=5"
+   "title": "福島市のふるさと納税体験型返礼品への寄付4割増 25年度、宿泊券やイベントチケット好評",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB4d3BZQkNiemRIX1ZCNWNlNmxOWS13U1F4RktEdElFN3haVUg3X1hfdTJJWXFLMFFvRF96eGotdUhsVVZBZGV0V3NNdw?oc=5"
   },
   {
    "also": [],
@@ -174,7 +156,7 @@
    "score": 67,
    "service": "じゃらん",
    "size": "最大36%OFF",
-   "source": "TRAICY（トライシー）",
+   "source": "traicy.com",
    "starts": null,
    "title": "じゃらんnet、「じゃらんのお得な10日間」開催 最大36％お得に",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5OdkVuX1ZRM3pQT0hQUTlFdmRlcmdJT2VCN0JlQWM2cENWdTg5LXBmTENLNzFyeEt0TU1yVWdoLVB3QWtnZEl0VTl2ckNOZFFaSDVvNXBBbw?oc=5"
@@ -258,7 +240,23 @@
   },
   {
    "also": [
-    "トラベル Watch",
+    "Infoseek"
+   ],
+   "ends": null,
+   "home": false,
+   "kind": "宿",
+   "nationwide": false,
+   "published": "2026-09-13",
+   "score": 57,
+   "service": "ふるさと納税",
+   "size": "最大60%OFF",
+   "source": "マネーフォワード",
+   "starts": null,
+   "title": "宿泊料金が最大60%割引！「九州ふっこう応援割」×「ふるさと納税」でお得に楽しむ秋の九州旅行",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBWNFdPNTRzZVpzZGhaUUZvZ2s0dy1hZHpVUWtFYzdhdGNIZ0l6OTAtYTd1ZEJLRngzcFhUZk8wcGtFMnZISDVjNHhTWHR3WmJ4Z0ZBNEI3d1hFTU1lNlV0bFRB?oc=5"
+  },
+  {
+   "also": [
     "千葉テレビ放送"
    ],
    "ends": null,
@@ -269,10 +267,10 @@
    "score": 57,
    "service": "楽天トラベル",
    "size": "5000円",
-   "source": "news.yahoo.co.jp",
+   "source": "トラベル Watch",
    "starts": null,
-   "title": "楽天トラベル、秋の札幌旅で5000円オフクーポン配布。定山渓の紅葉や市内散策、海鮮を楽しむモデルプランも (トラベル Watch)",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORjBEd1VfRC14NFRFOGh5SFJPVUtpLU1pRmpadERWVzFwRG9zbHhtNW40a21EY25ISXZ6T0U1RXJqTWVjUXd2Ykw0YmtYT0tCVS1NamRjMXAyRTZiNnpHSHZDSS1EcHJoTEFMUzFLeHlkbnlEelpQSjZwVUFnZFpoZWluSTZHa3JWS2ZsQVNR?oc=5"
+   "title": "楽天トラベル、秋の札幌旅で5000円オフクーポン配布。定山渓の紅葉や市内散策、海鮮を楽しむモデルプランも",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA5anc4a1c2WjVrTHExTGpOQ25SMk1La19NUG1EVVlpb2tXWENkVXBGM1M4TDhvLWVIQzNJSWlDVUtBYWs0Z3pYdmMyMURUcmwtZzJKcER5TTM0X1VVaERKdG50RU5TVk9K?oc=5"
   },
   {
    "also": [
@@ -411,7 +409,7 @@
    "score": 52,
    "service": "楽天トラベル",
    "size": "最大35%OFF",
-   "source": "TRAICY（トライシー）",
+   "source": "traicy.com",
    "starts": null,
    "title": "「楽天トラベル スーパーSALE」、今夜8時から 国内宿泊は最大35％割引",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBRbGxWUFB5d3hUXzZ6dHFTNnF4YWNuUVJfcEF4QkxWQXgwU1F3NTd1SXlLQlMzWUFvOFZJaHBCLWhqT2Y5NHBMQ1h3VUtfbTRkZFBueW9yTQ?oc=5"
@@ -426,25 +424,10 @@
    "score": 52,
    "service": "楽天トラベル",
    "size": "最大30%OFF",
-   "source": "TRAICY（トライシー）",
+   "source": "traicy.com",
    "starts": null,
    "title": "楽天トラベル、「最高級宿スペシャルオファー」 最大30％オフ",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE14aDg5MDhEbXd4ZkZjaWUzUW9lQ1dXZk1DUlFXNnA3NTcyQzFaOWJTbVhQVlBlaFlvRWE2S2kzVGRiVzlvR1dZNVRvbURTWWI5M0VvZE9Taw?oc=5"
-  },
-  {
-   "also": [],
-   "ends": null,
-   "home": false,
-   "kind": "宿",
-   "nationwide": false,
-   "published": "2026-09-13",
-   "score": 52,
-   "service": "ふるさと納税",
-   "size": "最大60%OFF",
-   "source": "Infoseek",
-   "starts": null,
-   "title": "宿泊料金が最大60%割引！「九州ふっこう応援割」×「ふるさと納税」でお得に楽しむ秋の九州旅行",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9xUXJRWGVmZy1Hem1ZNnFvTzhDTlc5R3diYWFTZmI5OU5jNFBDUEJhYmlRTVNiT0gzRmxnN1NubFFrUEpDTFRERHFJMUJlR0QxcV81R2stYWx0ZEJpTllEd0JR?oc=5"
   },
   {
    "also": [],
@@ -477,21 +460,19 @@
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBsb0Z4clRQODI3bGVBTWVjN2MwUEJ4OTY3MVowT09VXzl0eHNyVVVsTThDdFRSZ0JPWkYtaC1ZWmplb2UzdU9iaGVKSkgxX0E1YVFJZzVHMEVvTnh5M3NMNEdSd2g4UHpM?oc=5"
   },
   {
-   "also": [
-    "news.yahoo.co.jp"
-   ],
+   "also": [],
    "ends": null,
-   "home": false,
+   "home": true,
    "kind": "鉄道・バス",
    "nationwide": false,
-   "published": "2026-09-14",
+   "published": "2026-09-08",
    "score": 51,
    "service": "JR東日本",
-   "size": "50%OFF",
-   "source": "トラベル Watch",
+   "size": "半額級",
+   "source": "ｄメニューニュース",
    "starts": null,
-   "title": "はやぶさ50％オフの新幹線eチケット「トクだ値スペシャル28」本日から発売。平日乗車分、えきねっと限定",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9fel92aVc2WnZYa1N1aTBlSEktbUE4SmJpR3A5TzNEQmhmQi1yblhqN2RZblhSMEoxQXE4WlZvRGpJcWNxXzhiNXhjWnVaS0FmSy1kY3pyaXBuODA5dmJwLUVkNmx5aFBM?oc=5"
+   "title": "この機会を見逃すな！秋田や青森、北海道にだって“半額”で行けちゃう 秋の旅行にもってこいのJR東「トクだ値スペシャル28」まもなく発売 その内容とは",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8tNjNWSW9GRm5VbGpQU09DR19kTnNDSVREajhCVnFvT1BHRV90dEhBaExrNnYtbnhXSWZ0QWx0bFlSYlN4RzhTWjMtbUM5bWlPWHNRZ19pMy1vYzZLTGh4UWYycGV1S1NOWVdCR3BkSnE5Z9IBd0FVX3lxTE02U0pWb2NwWUgxTmU1SllPWkFrNktDLVU4RXo0RHo3N2JNSXFteFZxQm4xdlJ1RUNlMnU1Wlp0Wnd2TGloS053Wnh3eW1RdXJHdHl1MlJjZkppNEIzbURZdGRIVUp1UTZnS2lBYnVOd0QxdE5sbTUw?oc=5"
   },
   {
    "also": [],
@@ -526,21 +507,6 @@
   {
    "also": [],
    "ends": null,
-   "home": false,
-   "kind": "航空券",
-   "nationwide": false,
-   "published": "2026-09-18",
-   "score": 48,
-   "service": "",
-   "size": "",
-   "source": "TRAICY（トライシー）",
-   "starts": null,
-   "title": "阪急交通社、「JAL75周年記念セール」を開催中 9月24日午後4時まで",
-   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE40a2Vhbnd0UUdVODgyTVhaa0JGY2JuQnl5alZEblVrbUswOWZadVpsbFcyb0hfLWpNX2NMbzR6VUZ4eDJnTmY0?oc=5"
-  },
-  {
-   "also": [],
-   "ends": null,
    "home": true,
    "kind": "宿",
    "nationwide": false,
@@ -563,7 +529,7 @@
    "score": 47,
    "service": "楽天トラベル",
    "size": "最大15,000円",
-   "source": "TRAICY（トライシー）",
+   "source": "traicy.com",
    "starts": "2026-06-01",
    "title": "楽天トラベル、旅行支援クーポンに岩手・宮崎・香川こんぴら町が6月1日から追加 最大15,000円割引も",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5GekxvNXB5ODU2QVZhdW52bFZlRjNXaWdqcjJCMFZfS2VFSXJEQ2hNNWN2Sm1JSE14Tjl4T0s5aUEtZ1dDQWJIdnd6WGVZbjhLdkJOdUkxbw?oc=5"
@@ -578,14 +544,14 @@
    "score": 47,
    "service": "じゃらん",
    "size": "最大50%OFF",
-   "source": "TRAICY（トライシー）",
+   "source": "traicy.com",
    "starts": null,
    "title": "岩手県一関市、じゃらんnetで宿泊割クーポン配布 最大50％割引",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1HaUc0dlZ4M2dYTzRYVWI1OERiZm5VREoxSll3OElmWHJ5YkNya2E1aEVwQkQ1MVFnNFFRazdLd19SNVN2dS1uREl5VHo2ZUs5VE5nYzFlZw?oc=5"
   },
   {
    "also": [
-    "TRAICY（トライシー）"
+    "traicy.com"
    ],
    "ends": null,
    "home": false,
@@ -612,7 +578,7 @@
    "score": 47,
    "service": "楽天トラベル",
    "size": "",
-   "source": "TRAICY（トライシー）",
+   "source": "traicy.com",
    "starts": null,
    "title": "楽天トラベル、「JAL楽パック」で3日間限定セール開催",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE90U2JfX09PZlZNOXAyR0VHRGh6Wk5aeWp2T0hMd0pfN1JyRjJETnZ3OGJyQUo2VkxYQmxvRmFRVlF3bU1sQ2pqZ3ZzWlRlUHhBcG03dUV4Yw?oc=5"
@@ -638,20 +604,19 @@
    "home": false,
    "kind": "鉄道・バス",
    "nationwide": false,
-   "published": "2026-09-10",
+   "published": "2026-09-14",
    "score": 46,
    "service": "JR東日本",
-   "size": "半額級",
-   "source": "news.yahoo.co.jp",
+   "size": "50%OFF",
+   "source": "トラベル Watch",
    "starts": null,
-   "title": "【新幹線が半額】JR東日本「トクだ値スペシャル28」は実際いくら浮く？気になるお得度シミュレーション（LIMO）",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9vTDJ2eHBQRjJHdXBDXzFFaHdjd2RZdzc3RzNqbjJOdEtxczgxTnZPMXd1U0YtTFVuc1dSZmIzMGNJRnBTLUtLMUxycld6blBtZ3dScXRxakRLQ0lDSVQtUVUtLWZyT1ZhQ21iRUVsMHhfeGZ0cWx5aTJNNkJpakE?oc=5"
+   "title": "はやぶさ50％オフの新幹線eチケット「トクだ値スペシャル28」本日から発売。平日乗車分、えきねっと限定",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9fel92aVc2WnZYa1N1aTBlSEktbUE4SmJpR3A5TzNEQmhmQi1yblhqN2RZblhSMEoxQXE4WlZvRGpJcWNxXzhiNXhjWnVaS0FmSy1kY3pyaXBuODA5dmJwLUVkNmx5aFBM?oc=5"
   },
   {
    "also": [
     "sky-budget.com",
-    "Aviation Wire",
-    "news.yahoo.co.jp"
+    "Aviation Wire"
    ],
    "ends": null,
    "home": false,
@@ -661,14 +626,13 @@
    "score": 43,
    "service": "ANA",
    "size": "",
-   "source": "TRAICY（トライシー）",
+   "source": "traicy.com",
    "starts": null,
    "title": "ANA、国内線でタイムセール実施 10月〜1月搭乗分",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBUSmZvV2o1ekNWMGNoYkxKS1ZibTlfXzZySTh6TDBvV25MZ3pHYlhtM3RrMW0xQlYzaDJldHRmbkVTcGlaVFZKbk45a1dOQWRuWndfSi1oYw?oc=5"
   },
   {
    "also": [
-    "news.yahoo.co.jp",
     "千葉テレビ放送"
    ],
    "ends": null,
@@ -696,7 +660,7 @@
    "score": 43,
    "service": "JAL",
    "size": "",
-   "source": "TRAICY（トライシー）",
+   "source": "traicy.com",
    "starts": null,
    "title": "JAL、国内線でタイムセール 12月搭乗分対象、JMB会員先行予約も",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9Ubjh4R0Q5TTNKaEFqVDg1S182TjNjVkgxQm5UdU9iQkdINGRraGdqdS1tZVFVWEpwOVladXQyUVFLczd6WFl3ZmdCZFgxM0xvd1lpOFlfbw?oc=5"
@@ -776,7 +740,7 @@
    "score": 42,
    "service": "楽天トラベル",
    "size": "最大5万円",
-   "source": "TRAICY（トライシー）",
+   "source": "traicy.com",
    "starts": null,
    "title": "楽天トラベル、「スーパーSALE」を6月4日午後8時から開催 最大5万円割引など、先行セールも",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBwT0hHSW5jcFlQN0RGWHpMa01OTWlfLTJVZXlkVFpmMGxzZGJKTzNsUlVweVlBdFFCMFI0bEgxX3F6SmhYanZTczZOd21pNDNBN3JnMER4aw?oc=5"
@@ -793,7 +757,7 @@
    "score": 42,
    "service": "楽天トラベル",
    "size": "最大11,000円",
-   "source": "TRAICY（トライシー）",
+   "source": "traicy.com",
    "starts": null,
    "title": "楽天トラベル、熊本地震の被災地支援クーポンを配布 熊本・鹿児島の宿泊で最大11,000円割引",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAzTVczZWYtSGlnY1lSdUhJWkE2RWtieG1MMEFWRVppYjBsakRaWk4wc0RhNGFRSlZJUjNCYVIyUWF2UnVVVDMxMV9YUUoycDBObjRaUEtuYw?oc=5"
@@ -808,7 +772,7 @@
    "score": 42,
    "service": "楽天トラベル",
    "size": "",
-   "source": "goal.com",
+   "source": "Goal.com",
    "starts": null,
    "title": "楽天トラベルがスーパーセールでお得！期間限定の割引クーポンまとめ",
    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPTnM0RlBOZml5OWc1QUpCR2FYM1dyRzU5eUcxcVo1MGFQUkp1b2RvcmFkNHFFOFJoX09wYUFOR0xGaHlIc212cTJPV3RiLWV0djFkZVVSMnl1enplQlRMQnEyMnJvNFhsWTQ4czRweUktVGVYTlJFT2VfV1RDNVlvTldfYV9zMkphT0wyZ2hOem1Vc0JXZTh0MEcwQTZlSlU1V1BPQzZCMF9kRVF2VF9rYTl4Wi1GSU1Fc2lONlNQbTg5RlQwOFRQaGlHMWp5YVBVQnNLY3dFMXE5TDZsQUd4UzUzU3o?oc=5"
@@ -901,7 +865,7 @@
    "score": 38,
    "service": "ANA",
    "size": "",
-   "source": "FlyTeam",
+   "source": "flyteam.jp",
    "starts": "2026-08-26",
    "title": "10月以降が対象！ ANA、8月26日から国内線タイムセール 羽田〜新千歳10,450円",
    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5tQjYxSnhoN0dSN2xWV3ZTX3phQ1o0S0dXZ1N6YWRXLVFfUU45clpqbjkwR2Z1cFZaTDJiYXgxcUdVOVlWMllhLWt6bWwwcmc?oc=5"
@@ -933,7 +897,7 @@
    "score": 38,
    "service": "",
    "size": "",
-   "source": "旅とおでかけ 鉄道チャンネル",
+   "source": "tetsudo-ch.com",
    "starts": null,
    "title": "【ANA国内線タイムセール】8/31まで羽田～伊丹9,130円･那覇～石垣5,720円〜、紅葉も年末年始も対象！ 前回セールより安くなった路線は？",
    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5xYjFWN2s5WGhuSXBMNy1qN09BM0tfOFpHOW1sNjI5LTQ4SS10SlhGYWtmTTRxaXN4dl9LM05RUzA1OGN4RmR0TXdtOFk?oc=5"
@@ -1101,7 +1065,7 @@
    "score": 37,
    "service": "",
    "size": "",
-   "source": "rurubu.jp",
+   "source": "るるぶWeb",
    "starts": null,
    "title": "【2ページ目】全国自治体のお得な旅行クーポン・宿泊割引最新情報！（9/2更新）",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBsaDdJeVcxZlV4Wm5mQWtfU3paSml4aFV3bGRBWXhJS2JGam1KUTZhZ2JtbnZKZjhITENDdndxYjZwREVnY0xYOFFxb1RDd2RBRmtXX0pFRF9qUQ?oc=5"
@@ -1153,23 +1117,6 @@
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBpaWxhekV4UmlvaU9STUNBWXpoVkNSWS1Cbk4wOWJjbElOYnFuNmh1c1YxRXNfdUFrdXRnVXFYdmVKa3pVcmhUVFV0bVRxSkxtTUZyQndmbFc0aEtucUduODljSmlsUHZzWHJFZk43dw?oc=5"
   },
   {
-   "also": [
-    "news.yahoo.co.jp"
-   ],
-   "ends": null,
-   "home": false,
-   "kind": "航空券",
-   "nationwide": true,
-   "published": "2026-07-13",
-   "score": 33,
-   "service": "JAL",
-   "size": "",
-   "source": "Aviation Wire",
-   "starts": null,
-   "title": "JAL、会員対象の国内線セール7/14限定 一般は翌日",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9zYjdPSktnclFDYWR3TVh3RnlleXhzY0FDb1BHR0VhRXkyODZKaF9fNDJCUmI5QWYybGxFT0RLQVlqVzNRdzlQQWVTME01Wm90ek5VLVRn?oc=5"
-  },
-  {
    "also": [],
    "ends": null,
    "home": false,
@@ -1183,6 +1130,21 @@
    "starts": null,
    "title": "JAL、「ダイナミックパッケージ」最大3万円引きの期間限定タイムセールを開始",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1tMVhpdmlwV0x4dUxuUDVMTjRJREcyUDVFenM5RzJrTENoNmtkTWJQaGZ2LVp4T3U1RGFvckpCeFlNWGc1dzBHeklfbVBtWjVieVY0TWFqekxxNGlnbnAtUA?oc=5"
+  },
+  {
+   "also": [],
+   "ends": null,
+   "home": false,
+   "kind": "航空券",
+   "nationwide": true,
+   "published": "2026-08-26",
+   "score": 33,
+   "service": "",
+   "size": "",
+   "source": "sky-budget.com",
+   "starts": null,
+   "title": "Peach、国内線と国際線を対象に片道を3,000円からのセールを本日8月26日12時より開催",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5nWjlVXzVTN2dpYjcxSmZQMWZjTUxVbE1Yb19BRk94RGNIeVlPZkZwRXM3LXdfMF9zY21mUXk3cEdPcHBCNGdmcVVBUkhBbjhDMWYyS0hqQmFfSl9QTlRvS19YYnk3dw?oc=5"
   },
   {
    "also": [],
@@ -1239,7 +1201,7 @@
    "score": 33,
    "service": "",
    "size": "",
-   "source": "タビリス",
+   "source": "tabiris.com",
    "starts": null,
    "title": "JAL国内線タイムセール開催。12月搭乗分、新路線・伊丹～旭川、帯広も対象に！",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5MVjN0d2Uzc011bldBU212YkV3ZFh4ZXVBQS1zdmFRTmxFMFlUQmtfbWVGMG0tNGFTZm0xOWMyNEZLOVZMY2VwQTJhR1RSRUVZT2xhTkl3?oc=5"
@@ -1299,7 +1261,7 @@
    "score": 33,
    "service": "",
    "size": "",
-   "source": "旅とおでかけ 鉄道チャンネル",
+   "source": "tetsudo-ch.com",
    "starts": null,
    "title": "ジェットスター国内7路線セール【9/15 16:59締切】成田〜旭川3,990円〜、関西〜札幌5,190円～・来年1月搭乗分まで対象",
    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBPVjJhOXFwVGxiRHFuZDUzUGFCMWw2OGRJcXhkR0NhNXVJV3lSazRSemRkME9EbGl1SEtNOElpNHBPTFBGQ0o2R2JZTFE?oc=5"
@@ -1337,23 +1299,6 @@
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE10Snl1bmtDLW8xem4zNTBGY2tKbHhvSVQwS1VhbUNjLWtKbTJfZE1xQm1SeGZQMUNUV1IwbDhFV2RiX1prM0puRDREMlZWS0lxcnRQMmR5Y2J1SlJWdzNTeQ?oc=5"
   },
   {
-   "also": [
-    "news.yahoo.co.jp"
-   ],
-   "ends": null,
-   "home": false,
-   "kind": "宿",
-   "nationwide": false,
-   "published": "2026-06-03",
-   "score": 32,
-   "service": "楽天トラベル",
-   "size": "最大35%OFF",
-   "source": "ネットショップ担当者フォーラム",
-   "starts": null,
-   "title": "「楽天トラベルスーパーSALE」6/4から開始。最大35%割引、テーマパーク連携、ポイントバックなど展開",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5zYlJTMVFzRmstSUlVQTdBdUlvUWFPYTloaHR4ek43VEt0NG1zN0d2MW1zc3dYTmZOa1JSdnJGamJabm0xNld0VTM1d25yaWNFTThuWmo4cm1Ea240?oc=5"
-  },
-  {
    "also": [],
    "ends": null,
    "home": true,
@@ -1367,23 +1312,6 @@
    "starts": null,
    "title": "円安・燃油高、地方への国内旅行に脚光 宮崎や秋田は宿泊割引で誘客",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB6cFUyc2FIMXVrOHkxczhHM2FMVGd1RzlXQ09nUUg5YnBaLXZEVUZCWG5rYy1zdGdfY0x5V3NEb1dDSmZKOVZWN2lTUXVTaE11S3BPLXBpY01LSzRsQ1l2allKa241WGpXYlVMdQ?oc=5"
-  },
-  {
-   "also": [
-    "news.yahoo.co.jp"
-   ],
-   "ends": null,
-   "home": false,
-   "kind": "宿",
-   "nationwide": false,
-   "published": "2026-07-06",
-   "score": 32,
-   "service": "楽天トラベル",
-   "size": "最大25%OFF",
-   "source": "GAME Watch",
-   "starts": null,
-   "title": "楽天トラベル観光体験でUSJのスタジオ・パスが販売開始。宿泊は最大25%オフ",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBaWDBIRlh6VURKa0JFdW85NEEtRng1YXRsZU9mSjRPZDBHbVBiWHBCZkQ1NzliY1NkV0F1cUxmaTM4aU9jdmZkU0JqQ3VCelBYYWxFR1luSW5tVkxqdkctZGVQaHI0UQ?oc=5"
   },
   {
    "also": [
@@ -1420,8 +1348,7 @@
   },
   {
    "also": [
-    "excite.co.jp",
-    "ｄメニューニュース"
+    "Excite エキサイト"
    ],
    "ends": null,
    "home": false,
@@ -1431,7 +1358,7 @@
    "score": 32,
    "service": "楽天トラベル",
    "size": "",
-   "source": "旅とおでかけ 鉄道チャンネル",
+   "source": "tetsudo-ch.com",
    "starts": null,
    "title": "【楽天トラベル】秋冬旅行がお得に？楽パック20周年記念で超特大クーポン配布中！ANAや新幹線の賢い予約方法とは",
    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA0VGhXal9Rai1DaGVpc2Y3YnliR2RMbVZMV2xkblJ1VC15dHN1VnI2T2tLc25JSlFFbDBHdExTd0U3V3VFQXE2aU1UdXA?oc=5"
@@ -1467,7 +1394,7 @@
    "score": 32,
    "service": "じゃらん",
    "size": "",
-   "source": "TRAICY（トライシー）",
+   "source": "traicy.com",
    "starts": "2026-08-31",
    "title": "じゃらんnet、「じゃらんスペシャルウィーク」を8月31日開始 特別プランやクーポンも",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1IOXVrYkpyTURKRmtoWEVPVzNfdUNjVVdoVUk2TEJsNWFmWUtEWkpPa21fMk54aXl1c0Q3bHRQWUV0LVdaTThiMlk3ekRib01teWZHekZ0bw?oc=5"
@@ -1497,7 +1424,7 @@
    "score": 31,
    "service": "JR東日本",
    "size": "50%OFF",
-   "source": "LIMO | くらしとお金の経済メディア",
+   "source": "limo.media",
    "starts": null,
    "title": "【えきねっと半額】人気の新幹線が50%OFF「トクだ値スペシャル28」発売！どのくらいお得に乗車できるのかLIMO独自にシミュレーションしてみた はやぶさ・こまち利用時の独自シミュレーション大公開 | LIMO | くらしとお金の経済メディア",
    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE00VUFPTi1GUHVtNDVlVXZvQ3FGcDNGLXQxTllhcmhaVV9ac0tGSk8tRlRKMUotQ2pSSHdUUmVGS0RvMVBzakMxSzlsQWQ?oc=5"
@@ -1512,7 +1439,7 @@
    "score": 28,
    "service": "ANA",
    "size": "",
-   "source": "タビリス",
+   "source": "tabiris.com",
    "starts": null,
    "title": "ANA、国内線でタイムセール。6月29日開催、羽田～福岡11,880円～",
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBKWDhDUWM5blYtTjlHS2NhNlVaTDREWUQ0c3h6OEY1a2xmOER2SGJEV01iZDZyNzJZd19xX3pHUkhfbzZSUWFGaFpzOWxBVUhNWElHTDVtTjQ?oc=5"
@@ -1557,7 +1484,7 @@
    "score": 28,
    "service": "JAL",
    "size": "",
-   "source": "タビリス",
+   "source": "tabiris.com",
    "starts": null,
    "title": "JAL、「国内線タイムセール」を7月14、15日に開催。8月～9月搭乗分",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Yc1EwdkR2ZHlEX1V2Qk5HR3RlTnFhYl91amkydG11blJoREg1Y0xnWHBRQXRkU1BlRl9ma0llWEdEa1p6N3ZwQUg3Wm5BRUxQSEdtNjJn?oc=5"
@@ -1576,6 +1503,21 @@
    "starts": null,
    "title": "JAL、国内線タイムセールまもなく開始。初日はJMB会員限定、8月末～9月の航空券がお得に",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBrUEZPajBuV25XM0lFQmNtbm94S0NUcWk0RDBZQUtmVTZ2S09IOWlnVlkxdFNXUW9QNlJCVE43cnE3andWbUFwWjlNWm1jY2FTSjJEbWx6S3hDMTA2eUJZSm1fRlR5dEVi?oc=5"
+  },
+  {
+   "also": [],
+   "ends": null,
+   "home": false,
+   "kind": "航空券",
+   "nationwide": true,
+   "published": "2026-07-13",
+   "score": 28,
+   "service": "JAL",
+   "size": "",
+   "source": "Aviation Wire",
+   "starts": null,
+   "title": "JAL、会員対象の国内線セール7/14限定 一般は翌日",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9zYjdPSktnclFDYWR3TVh3RnlleXhzY0FDb1BHR0VhRXkyODZKaF9fNDJCUmI5QWYybGxFT0RLQVlqVzNRdzlQQWVTME01Wm90ek5VLVRn?oc=5"
   },
   {
    "also": [],
@@ -1643,11 +1585,26 @@
    "home": false,
    "kind": "宿",
    "nationwide": false,
+   "published": "2026-06-03",
+   "score": 27,
+   "service": "楽天トラベル",
+   "size": "最大35%OFF",
+   "source": "ネットショップ担当者フォーラム",
+   "starts": null,
+   "title": "「楽天トラベルスーパーSALE」6/4から開始。最大35%割引、テーマパーク連携、ポイントバックなど展開",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5zYlJTMVFzRmstSUlVQTdBdUlvUWFPYTloaHR4ek43VEt0NG1zN0d2MW1zc3dYTmZOa1JSdnJGamJabm0xNld0VTM1d25yaWNFTThuWmo4cm1Ea240?oc=5"
+  },
+  {
+   "also": [],
+   "ends": null,
+   "home": false,
+   "kind": "宿",
+   "nationwide": false,
    "published": "2026-06-14",
    "score": 27,
    "service": "日本旅行",
    "size": "最大10%OFF",
-   "source": "TRAICY（トライシー）",
+   "source": "traicy.com",
    "starts": null,
    "title": "日本旅行、「夏旅2026キャンペーン」で最大10％割引 対象施設の宿泊・ダイナミックパッケージで",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ZZlYxWmE2MzJkcTB1YWhib29JMzR2MnhvOWZLTUNlMUNKSmhsckh6eUVhRUdOV1daYzFsYlJwZWY5WkNQSkFwbnVyalNEZ3pNVlExU3psUQ?oc=5"
@@ -1662,7 +1619,7 @@
    "score": 27,
    "service": "楽天トラベル",
    "size": "最大6%OFF",
-   "source": "TRAICY（トライシー）",
+   "source": "traicy.com",
    "starts": null,
    "title": "楽天トラベル、ハウステンボスのホテルやチケットの割引クーポン配布 宿泊は最大6％オフ",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE55Ri04c0RmUDFMc2JwcTFKcGJNbkV4SWdfTlEyWGN4OWhPVlprREZwZmo1YndJNTJTRFd1UU83czBQQ2lFQ2UtLV9OM2VSMlkyclIxOVZmUQ?oc=5"
@@ -1692,7 +1649,7 @@
    "score": 27,
    "service": "楽天トラベル",
    "size": "最大30%OFF",
-   "source": "旅とおでかけ 鉄道チャンネル",
+   "source": "tetsudo-ch.com",
    "starts": null,
    "title": "夏休み旅行･フェス遠征が最大30%OFF！【楽天トラベル】「スペシャルクーポンWEEK」お盆の宿や新幹線セットを安く予約する攻略法 6/30まで",
    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA3REdTeUdvcmQxNEo3alJzZ3QzNXl3MXZUQncwc0ZERlJ2ak0tUEJxcjBBMElfZk9Mc01JU1BYdlVMeFZHWi1VRWRWWDQ?oc=5"
@@ -1718,11 +1675,26 @@
    "home": false,
    "kind": "宿",
    "nationwide": false,
+   "published": "2026-07-06",
+   "score": 27,
+   "service": "楽天トラベル",
+   "size": "最大25%OFF",
+   "source": "GAME Watch",
+   "starts": null,
+   "title": "楽天トラベル観光体験でUSJのスタジオ・パスが販売開始。宿泊は最大25%オフ",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBaWDBIRlh6VURKa0JFdW85NEEtRng1YXRsZU9mSjRPZDBHbVBiWHBCZkQ1NzliY1NkV0F1cUxmaTM4aU9jdmZkU0JqQ3VCelBYYWxFR1luSW5tVkxqdkctZGVQaHI0UQ?oc=5"
+  },
+  {
+   "also": [],
+   "ends": null,
+   "home": false,
+   "kind": "宿",
+   "nationwide": false,
    "published": "2026-07-08",
    "score": 27,
    "service": "楽天トラベル",
    "size": "最大25%OFF",
-   "source": "TRAICY（トライシー）",
+   "source": "traicy.com",
    "starts": null,
    "title": "楽天トラベル、ユニバーサル・スタジオ・ジャパンへの旅行が最大25％オフ",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBGaFh0TUp0aXZmMUpFSXM2TFpndGJFN0FZY3c4cXNaVkJtMzF0T1RaQXdua29OZldwN2RubTZTMDBhcUVmQWlFajVuck1xQkhOd2ZWR2FCRQ?oc=5"
@@ -1782,7 +1754,7 @@
    "score": 27,
    "service": "楽天トラベル",
    "size": "最大5万円",
-   "source": "TRAICY（トライシー）",
+   "source": "traicy.com",
    "starts": null,
    "title": "楽天トラベル、「夏休み＆秋旅フェア」を開催中 最大5万円割引クーポンなど配布",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8yc3MzVkR5OGNDZjhDQlJOemlzZ0pjOFZpMV9qSDJScjBsRGlnV0pndjlzdm1ic29qTW9tRDY3c0k3Njh1Q1BPVjJzMEZwcy1MbDEzdmZYTQ?oc=5"
@@ -1827,7 +1799,7 @@
    "score": 27,
    "service": "楽天トラベル",
    "size": "最大36,000円",
-   "source": "TRAICY（トライシー）",
+   "source": "traicy.com",
    "starts": null,
    "title": "楽天トラベル、「楽パック20周年スペシャルオファー」を開催 最大36,000円割引",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE56NVMtQ1N0aHgya1Rhd2F6SkYzcnJEei1nalNuNmdsQm9oZlpHYzRtMjlaNjRvRGc0U2M5VlFGcDc3ZmhNY2ZHU1pqU3JySGp3S2czOWJ4cw?oc=5"
@@ -1842,7 +1814,7 @@
    "score": 27,
    "service": "楽天トラベル",
    "size": "最大4%OFF",
-   "source": "tms-media.jp",
+   "source": "ツーリズムメディアサービス",
    "starts": null,
    "title": "楽天トラベル、ボーナスプログラムを即時割引に変更 最大4％、クーポン併用も",
    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE51cjFRRF9ibDFWaHByUGZjclZjN05hSE85R202Sll2SHBQeFdiQmhUb2Y4eHZPUnlyWGVuS09GZXgyaE14ck56Mg?oc=5"
@@ -1921,7 +1893,7 @@
    "score": 27,
    "service": "楽天トラベル",
    "size": "最大15,000円",
-   "source": "TRAICY（トライシー）",
+   "source": "traicy.com",
    "starts": null,
    "title": "楽天トラベル、「韓国スペシャルオファー」開催中 最大15,000円クーポンなど",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9TVXpwSzUzYjlPWGhNaXJRTkJhWVZUSXVMamo4QnpWaWVFc1luOHB1YnYxUFpUblJPUEExMjByVmdvdzlKN0NUTWJsTjdTcXYtaGdDdTBzOA?oc=5"
@@ -1968,21 +1940,6 @@
    "score": 27,
    "service": "楽天トラベル",
    "size": "",
-   "source": "news.yahoo.co.jp",
-   "starts": null,
-   "title": "楽天トラベル、自治体の旅行支援クーポン発行予定が2.2倍、重点支援地方交付金で拡大 (トラベルボイス)",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNnN0dmg3Ym1iUFpxMktUNzhWdnU1LW9PUm1EaHEtUVh4RFhnT3FXeVlwT1o5d3J2dG9sTUl6cG1rZ0Y0REV6T01tNnA1bTNVOEN1UjZHbkhYdTRHbkNOcndGNHRDeFdYVTEwcHhJM3R4YnI5M3ZmSEVQNUtWU2JHMlJDRXBETnhQUkUxOEhB?oc=5"
-  },
-  {
-   "also": [],
-   "ends": null,
-   "home": false,
-   "kind": "宿",
-   "nationwide": false,
-   "published": "2026-09-01",
-   "score": 27,
-   "service": "楽天トラベル",
-   "size": "",
    "source": "株式会社旅行新聞新社",
    "starts": null,
    "title": "楽天トラベル、熊本と鹿児島で利用可能な独自クーポン配布 地震による旅行客減少で観光事業者を支援",
@@ -2015,7 +1972,7 @@
    "score": 27,
    "service": "",
    "size": "",
-   "source": "TRAICY（トライシー）",
+   "source": "traicy.com",
    "starts": null,
    "title": "ヤフートラベル、「超得セール！人気宿スペシャル」を開催中 9月9日正午まで",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5FSWFTWEt0b0FCY2wyTndKWGUzTW1NNVQ3UllndnhJTlc1RXA2OTNCMUF0SHY3bE5DTHJUZERyZUpBTFF0UHFUUzZvRUFiMW5yekNQbTdNdw?oc=5"
@@ -2155,7 +2112,7 @@
    "score": 23,
    "service": "",
    "size": "",
-   "source": "FlyTeam",
+   "source": "flyteam.jp",
    "starts": null,
    "title": "ANA国内線タイムセール開催中！8〜10月搭乗分 羽田〜那覇11,880円から",
    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE55d0ZrWW1QRGFHY2k5bV94QURzMExROU9nUUxqUFV2VnJVZnNHUGlncWhHQTllSldVV0J6TUp1ZjI5d2c4UjNOT0FzRk9aUDQ?oc=5"
@@ -2230,7 +2187,7 @@
    "score": 23,
    "service": "",
    "size": "",
-   "source": "タビリス",
+   "source": "tabiris.com",
    "starts": null,
    "title": "ジェットスター、国内線セール開催。9月～12月搭乗分、31日正午開始",
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBuNWpGZzZtcS1BWFl4d3VXM2syOHhQSGhoWlZ5WnlrNWM5bnFreEd4dmtlMFpTQ3FBM0d4bUpKQzgtUWVmUS0yS0lpXy1EbThaRmlXVTJfN2FLeGh4ZXc?oc=5"
@@ -2263,7 +2220,7 @@
    "score": 23,
    "service": "",
    "size": "",
-   "source": "TRAICY（トライシー）",
+   "source": "traicy.com",
    "starts": null,
    "title": "ヤフートラベル、「ウルトラセール」開催 ダイナミックパッケージ対象",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBaODdtZUs0d0EzYnJ3OXliV1hTa2ZnRzhMVmJuSk85aXpwcDRxdHhFclpiWVIyYjhNdVhQcE51WTJLYXdQSnV2V1VkVDFNNDJGdEhsamJjaw?oc=5"
@@ -2278,7 +2235,7 @@
    "score": 22,
    "service": "",
    "size": "最大30%OFF",
-   "source": "ファンファン福岡",
+   "source": "fanfun.jp",
    "starts": null,
    "title": "【2026年夏】宿泊最大30%OFF＋クーポン3,000円分も！九州の旅行割引キャンペーンまとめ",
    "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE9GMXd0T2E2SXlDN2kzcENRczhTYnQ0elRiUENPUXBENjlNM2xDb25xeW94NTRSQ2RQTkppRUtn?oc=5"
@@ -2295,7 +2252,7 @@
    "score": 22,
    "service": "じゃらん",
    "size": "",
-   "source": "旅とおでかけ 鉄道チャンネル",
+   "source": "tetsudo-ch.com",
    "starts": null,
    "title": "“ふるさと納税クーポン”活用術！すでに予約済みの宿も“後から割引”に!? 「じゃらん×さとふる」提携で 宿泊予約がその場で安くなる【今秋スタート】",
    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBLOGhOV1AydzUxcXRxMFdJSURtUTBlYi0xRG5vNUVDbHh3d0x2RV9qeC1IMTlxM2JramJXajRvRmdkMU4xYjBTSVhNSUw?oc=5"
@@ -2362,7 +2319,7 @@
    "score": 22,
    "service": "じゃらん",
    "size": "",
-   "source": "旅とおでかけ 鉄道チャンネル",
+   "source": "tetsudo-ch.com",
    "starts": null,
    "title": "9月の熱海で「夏の続き」を味わう？ 混雑を避けた平日旅行が狙い目！ 東海道新幹線とじゃらんクーポンでおトクに楽しむ非日常ステイとは",
    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9BYjYzOFdaeXA0c2dHZ1F2bGR6Szc4Uk9QYjEzaXpWOXl4bW5GaS1kMDYzLUtFZUc1bDh6U3k1X1VsdDZFelhoZVRaYmU?oc=5"
@@ -2381,21 +2338,6 @@
    "starts": null,
    "title": "「九州ふっこう応援割」で宿泊費が最大3.5万円補助に!? 10月1日宿泊分からスタートする観光支援策の全貌と、今すぐ使えるクーポン情報まとめ",
    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaTJrZnhxZzJOMEUxRll4aklfX1o4a0ZzclR3NmVCbWxZaFhlZUNZZGdHNFo3b2F1bC1sVmM0QmxSV3B6b3laYUdzTTZSZUI4YzhzdF9aWkUxYW0teDVGVEtUZGJ3MHRVWU1nQWxMMlR2bE1sOEpfYzd5RmY5Z2VWMXRYLVBLVEFjdUFr0gGHAUFVX3lxTE1ySFpnX3RnbU4wOTRVbFR0dnhMRU1fcDVTcHMxM1QtOWlXY3g1R3lkbXNILVViNnZUN2ZsUDVBQ0hfTnhzcUN3VnBoSGhCWU9ldEN1c01qcERGZDZLSllVdUJhbEduN20yU29ZYy1Od0RHNld1dFlZenJ6ZnUzbjRvSkVyOW1KSQ?oc=5"
-  },
-  {
-   "also": [],
-   "ends": null,
-   "home": false,
-   "kind": "鉄道・バス",
-   "nationwide": false,
-   "published": "2026-06-27",
-   "score": 21,
-   "service": "JR東日本",
-   "size": "30%OFF",
-   "source": "news.yahoo.co.jp",
-   "starts": null,
-   "title": "夏休み・えきねっと30%割引争奪戦始まる 往復１万３千円の差がつく場合もー攻略法と裏ワザ的代替案",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRm5OZWZlZEFfaEhqMU0tLVhISnZNbjNza1plRUJpRlkyc0QyOUtYN21ZekQtaVI1UFRDbjFmV2kta0dDcF9OZ1pLc2RyZmNSOWtjTzZjcTUzYzZNalBTRVNJU3drNVVlYU8tTG4wNkg2VFI0Rk9XTnBqODI3YmtIN2hSQ2VkdjM5?oc=5"
   },
   {
    "also": [],
@@ -2437,7 +2379,7 @@
    "score": 21,
    "service": "JR東日本",
    "size": "半額級",
-   "source": "TRAICY（トライシー）",
+   "source": "traicy.com",
    "starts": null,
    "title": "JR東日本とJR北海道、新幹線と特急列車が平日限定で半額 10月と12月に設定",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9qUWNET09aVmZhN0M3R2VMc1NKX00yRGFtNW9IcXRTcFN3TWpqNHROY0VBNkZQQVJ3MzA0T1U4RWt2QUdwSlBCeGZZRHN0dndvdXZZYVNrRQ?oc=5"
@@ -2497,7 +2439,7 @@
    "score": 21,
    "service": "JR東日本",
    "size": "半額級",
-   "source": "旅とおでかけ 鉄道チャンネル",
+   "source": "tetsudo-ch.com",
    "starts": null,
    "title": "はやぶさも半額で乗れる？えきねっと「トクだ値スペシャル28」の衝撃！ 秋冬の平日旅をおトクにする予約術と終了する割引まとめ",
    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE0wdktIazVlUDNhb0RpTHVPdkxWOEtzUlRueFNIa20zZXo2M2dfeW16cnB1QWNVQ0JRcGhtd3dJVkEyUXI2amliRXlqS0c?oc=5"
@@ -2512,7 +2454,7 @@
    "score": 18,
    "service": "",
    "size": "最大3万円",
-   "source": "TRAICY（トライシー）",
+   "source": "traicy.com",
    "starts": null,
    "title": "ジャルパック、国内ダイナミックパッケージでタイムセール 最大3万円割引クーポン配布",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE95d2lnOXdTQ0R1Y21yMmd1WjBKYlVJR2FCeWNXUlZRUTdNRDN0RUFFZ092NnZDRk1RNE5sVW9GVmpQa0ZNRmx2UjFldk9UZ1B0bWN5TmgyMA?oc=5"
@@ -2557,7 +2499,7 @@
    "score": 17,
    "service": "楽天トラベル",
    "size": "",
-   "source": "イザ！",
+   "source": "iza.ne.jp",
    "starts": null,
    "title": "前回よりも最大割引率アップ！この夏、旅行の計画立てるなら「楽天トラベル スーパーSALE」は要チェック",
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTENQTlBmRVFKTVU2TU5GbWZ5N0lsWHdKU0VrZnhNdG1OSkNQdjg1dzE0Ti1fbTB0SjZ0eXptdkxfb3ZzRlBlcWY2SjVNUUh2SDIyb0xpc0c5WllKdUppWDFDRHVmYjNVUjdKZnIwMXZfYWZKWEJpZ3BrNm5TZ0ZkZUt5bjVicTNuUWROZlR0d0NNVjVsWmc?oc=5"
@@ -2572,7 +2514,7 @@
    "score": 17,
    "service": "じゃらん",
    "size": "",
-   "source": "ニュースメディアVOIX",
+   "source": "voix.jp",
    "starts": null,
    "title": "じゃらんnetが「さとふる」と提携し、ふるさと納税クーポンを新たに提供開始",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9aem1DcWhtV0FXeWdpMzZVU25nR0pEOGdlZzQ2bC1LdWtXNjltSXY2V0V2X3FlT19ZcUpxYkJSTWpOVUVhYlN6TFlZem8wNDJvMm9fSGJPNUZCN2JmNVdzdkhsRDhRTno4aFE?oc=5"
@@ -2647,7 +2589,7 @@
    "score": 17,
    "service": "日本旅行",
    "size": "",
-   "source": "TRAICY（トライシー）",
+   "source": "traicy.com",
    "starts": null,
    "title": "日本旅行、「夏旅2026 サマーセール」を開始 国内最大1万円・海外最大4万円のクーポン配布",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE42Y0g2YnJfWjFVVFlsb2hSRjN2ejF4UTF3QjFrd1A3LW1STGI3WlBkSGFHMDlJTDhlZzJCRWVURWtIbnBvRHpWV0FzdTBPRUZ1c0llTUlYUQ?oc=5"
@@ -2692,7 +2634,7 @@
    "score": 17,
    "service": "じゃらん",
    "size": "",
-   "source": "TRAICY（トライシー）",
+   "source": "traicy.com",
    "starts": null,
    "title": "リクルートとさとふる、「じゃらんふるさと納税クーポン」提供 今秋開始",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9HQVF2dnVBSnB6ZXpucHNWVnNzc2QwXzRVLXdVb0ZJcTNBaGgyWEJkVmg4U2k4NWVEQ1o4S1BueGlnbEFTME5kQmJTNGVWUjJuRk5Xbjhadw?oc=5"
@@ -2752,7 +2694,7 @@
    "score": 17,
    "service": "一休.com",
    "size": "",
-   "source": "TRAICY（トライシー）",
+   "source": "traicy.com",
    "starts": null,
    "title": "一休、「ラグジュアリールームセール」を開催中 8月9日正午まで",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5kZGpmWVpXT0g5LUQ4SjZFQ1Y0elZEcHllY09mZkswbTlXNnEzQ25OS29SYzVHbS0tZlJPUmt2MExMX0JSaFFSYUNiTTh4RmVIVHRDeU1UUQ?oc=5"
@@ -3134,28 +3076,13 @@
    "also": [],
    "ends": null,
    "home": false,
-   "kind": "鉄道・バス",
-   "nationwide": false,
-   "published": "2026-08-12",
-   "score": 11,
-   "service": "JR東日本",
-   "size": "",
-   "source": "news.yahoo.co.jp",
-   "starts": null,
-   "title": "JR東日本、「えきねっと」限定割引を大幅見直し 代替措置はあるも「お得感」は消失へ #エキスパートトピ",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaGQtS2syWnJUbjdNdlRZcGZzOXYyLWd5M3hxdUUyU0xtT2tWa0hxWWE2LWRtVzZiMlU4bVAzWlBQNVE3alRBZndMT3k4b0U2RTFJdXd3eC1jWUVkX3MtSFVFaVNxc3QyR2pseV9EZjhJbTBwbmpxZVh4RlJHU25hY2JqNEZpdUJ2?oc=5"
-  },
-  {
-   "also": [],
-   "ends": null,
-   "home": false,
    "kind": "航空券",
    "nationwide": false,
    "published": "2026-06-18",
    "score": 8,
    "service": "",
    "size": "",
-   "source": "タビリス",
+   "source": "tabiris.com",
    "starts": null,
    "title": "ANAが国際線タイムセール、6/23まで開催。プレエコ、ビジネスクラスも販売",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE15d0tTRElJX2Y1TkI5RVpRcVViN0Z4TGtPODAtVS0zeWw4czhjeExZdHZKX1Fvb1RjMzJXOE4zR2lpb0RESnJ5ODc5c2J1NTJOYXpCa1Rn?oc=5"
@@ -3215,7 +3142,7 @@
    "score": 8,
    "service": "",
    "size": "",
-   "source": "FlyTeam",
+   "source": "flyteam.jp",
    "starts": null,
    "title": "JALタイムセール、7月15日開催 JMB会員は14日から先行購入可能！",
    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8xNm9nbFRrWU9FMXpMZTJPY3RMY2FKWWoxR0NwZnBUcndOa09kc2FrOHNUZG1uVmxpWnhhaTh2dDF4QWhiUHUwYml1UFBjSDg?oc=5"
@@ -3293,7 +3220,7 @@
    "score": 6,
    "service": "",
    "size": "",
-   "source": "タビリス",
+   "source": "tabiris.com",
    "starts": null,
    "title": "【新大阪～広島】新幹線の格安チケット全リスト2026年版。料金、最安値が一目でわかる！",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1iLXRaaHZSdTlsOENieDhqWFlnMERIUUNUZ3RFU0VMWkxFWnBXMW4yajBGajlzZFdxanFwZ3BQaGt1RGtTUzQ3TXZZWF9mZUpiNnAwUDRtSThrYnhITDhXV3NobTMySlc5RVhWN2t0cVFwdw?oc=5"
@@ -3457,10 +3384,10 @@
  ],
  "stats": {
   "articles": 1415,
-  "deals": 208,
+  "deals": 204,
   "failed": 2,
   "fetched": 19,
   "images": 23
  },
- "updated": "2026-09-23 01:09"
+ "updated": "2026-09-23 05:48"
 }
