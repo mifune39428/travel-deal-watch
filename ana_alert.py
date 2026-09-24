@@ -245,25 +245,68 @@ def build_subject(rule: dict, hits: list[dict], test: bool, today: dt.date) -> s
     return f"{head}[旅トク] {headline(rule, hits, today)} ｜ {snippet}"
 
 
+def close_quietly(server: smtplib.SMTP | None) -> None:
+    """後片付け。ここでの失敗は送信の成否と関係ないので黙って捨てる。"""
+    if server is None:
+        return
+    try:
+        server.quit()
+    except Exception:  # noqa: BLE001
+        try:
+            server.close()
+        except Exception:  # noqa: BLE001
+            pass
+
+
 def send_mail(subject: str, body: str, settings: dict, retries: int = 3) -> bool:
+    """1通送る。
+
+    **送り直していいのは、1通も送っていないと分かっているときだけ。**
+    2026-09-24に、送信そのものは成功したのに接続を閉じるところで
+    Gmailの応答待ちがタイムアウトし、「失敗」と見て送り直した結果
+    同じメールが2通届いた。そのため、接続・ログインまでの失敗は送り直し、
+    送信中に切れた場合は届いたものとして扱う。
+    """
     msg = MIMEMultipart("alternative")
     msg["Subject"] = subject
     msg["From"] = formataddr(("旅トク セール速報", settings["sender_email"]))
     msg["To"] = settings["receiver_email"]
     msg.attach(MIMEText(body, "html", "utf-8"))
+
     for attempt in range(1, retries + 1):
+        server = None
         try:
-            with smtplib.SMTP(settings.get("smtp_server", "smtp.gmail.com"),
-                              int(settings.get("smtp_port", 587)), timeout=30) as server:
-                server.ehlo()
-                server.starttls()
-                server.login(settings["sender_email"], settings["sender_password"])
-                server.sendmail(settings["sender_email"], settings["receiver_email"], msg.as_string())
-            return True
-        except Exception as exc:  # noqa: BLE001
-            print(f"  メール送信に失敗 ({attempt}/{retries}): {exc}")
+            server = smtplib.SMTP(settings.get("smtp_server", "smtp.gmail.com"),
+                                  int(settings.get("smtp_port", 587)), timeout=60)
+            server.ehlo()
+            server.starttls()
+            server.login(settings["sender_email"], settings["sender_password"])
+        except Exception as exc:  # noqa: BLE001 — まだ1通も送っていないので、やり直してよい
+            close_quietly(server)
+            print(f"  つながりませんでした ({attempt}/{retries}): {exc}")
             if attempt < retries:
                 time.sleep(5 * attempt)
+            continue
+
+        try:
+            server.sendmail(settings["sender_email"], settings["receiver_email"], msg.as_string())
+        except (smtplib.SMTPRecipientsRefused, smtplib.SMTPSenderRefused,
+                smtplib.SMTPDataError, smtplib.SMTPNotSupportedError) as exc:
+            # サーバーがはっきり断った＝届いていない。やり直す。
+            close_quietly(server)
+            print(f"  受け取ってもらえませんでした ({attempt}/{retries}): {exc}")
+            if attempt < retries:
+                time.sleep(5 * attempt)
+            continue
+        except Exception as exc:  # noqa: BLE001
+            # 送っている途中で切れた。届いたかどうか分からない。
+            # ここでやり直すと同じメールが2通届くので、届いたものとして扱う。
+            close_quietly(server)
+            print(f"  送信中に接続が切れました。二重送信を避けるため送り直しません: {exc}")
+            return True
+
+        close_quietly(server)
+        return True
     return False
 
 
