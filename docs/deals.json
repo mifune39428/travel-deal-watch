@@ -65,7 +65,7 @@
  "deals": [
   {
    "also": [
-    "千葉テレビ放送",
+    "千葉テレビ放送株式会社",
     "ライブドアニュース"
    ],
    "ends": "2026-10-21",
@@ -80,40 +80,6 @@
    "starts": null,
    "title": "日本旅行、「タイムセール」を10月21日まで開催中 国内宿泊・DPが割引に",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBCOThHaVZjZUhYWFZzWGxEcmRRNkRTR3NlMW9GdWtHdEJXQUFlTEZ1Ml9kblRUdXJSVWpjTm85X0ZwamhPWWtBMEgzb2JhblBqUjh2c2hLVQ?oc=5"
-  },
-  {
-   "also": [],
-   "ends": null,
-   "home": true,
-   "image": "https://airstair.jp/images/2023/10/shutterstock_2066672006.webp",
-   "kind": "宿",
-   "nationwide": false,
-   "published": "2026-10-06",
-   "score": 82,
-   "service": "",
-   "size": "3,000円",
-   "source": "airstair",
-   "starts": "2026-11-01",
-   "title": "福島県「また来て。」割 第3期は2026年11月1日から12月25日宿泊分、第4期は2027年1月 3,000円割引の条件と予約方法",
-   "url": "https://airstair.jp/fukushima-campaign/"
-  },
-  {
-   "also": [
-    "千葉テレビ放送株式会社",
-    "ライブドアニュース"
-   ],
-   "ends": null,
-   "home": true,
-   "kind": "宿",
-   "nationwide": false,
-   "published": "2026-09-29",
-   "score": 72,
-   "service": "",
-   "size": "最大12,000円",
-   "source": "TRAICY（トライシー）",
-   "starts": "2026-10-01",
-   "title": "秋田県、宿泊最大12,000円割引「得旅キャンペーン」第2弾を10月1日開始",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1uU05POXV4UUkxbVdQaXlzTnp1bDlhM1JTeUZSeXR2N2ZaWlhFSk9VU0laOW44dUh0OVVLSkhfSFZocGNRckVFeFM3V3Vla3gtTk15QUZRZw?oc=5"
   },
   {
    "also": [
@@ -186,6 +152,22 @@
   {
    "also": [],
    "ends": null,
+   "home": true,
+   "image": "https://airstair.jp/images/2023/10/shutterstock_2066672006.webp",
+   "kind": "宿",
+   "nationwide": false,
+   "published": "2026-10-06",
+   "score": 67,
+   "service": "",
+   "size": "3,000円",
+   "source": "airstair",
+   "starts": "2026-11-01",
+   "title": "福島県「また来て。」割 第3期は2026年11月1日から12月25日宿泊分、第4期は2027年1月 3,000円割引の条件と予約方法",
+   "url": "https://airstair.jp/fukushima-campaign/"
+  },
+  {
+   "also": [],
+   "ends": null,
    "home": false,
    "kind": "宿",
    "nationwide": false,
@@ -230,6 +212,21 @@
   },
   {
    "also": [],
+   "ends": null,
+   "home": false,
+   "kind": "宿",
+   "nationwide": false,
+   "published": "2026-10-08",
+   "score": 67,
+   "service": "日本旅行",
+   "size": "最大50%OFF",
+   "source": "トラベル Watch",
+   "starts": null,
+   "title": "日本旅行「九州ふっこう応援割」長崎県のWeb予約スタート、JR・航空券＋ホテルパックや宿泊単体が最大50％オフ",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE11LW5FdTBKd3pxSzFlTXlVNUk3d2Qtckd1cGtBTmYxbDBqaTRpOFE2OU50ZDNjVzdDcUNIaXFYZ25mSXpISTJ3cUJvWFZhVmI3RGd4enBZT0p1OUxQaEZnd3FDbzl5VHlf?oc=5"
+  },
+  {
+   "also": [],
    "ends": "2026-10-16",
    "home": false,
    "image": "https://airstair.jp/images/2023/07/jalan-coupon-fes-1.webp",
@@ -243,21 +240,6 @@
    "starts": null,
    "title": "じゃらんクーポンフェスは2026年10月16日まで 次回いつ？配布日と攻略法 [PR]",
    "url": "https://airstair.jp/jalan-fes/"
-  },
-  {
-   "also": [],
-   "ends": null,
-   "home": false,
-   "kind": "宿",
-   "nationwide": false,
-   "published": "2026-10-09",
-   "score": 67,
-   "service": "日本旅行",
-   "size": "最大50%OFF",
-   "source": "トラベル Watch",
-   "starts": null,
-   "title": "日本旅行「九州ふっこう応援割」宮崎県のWeb予約スタート、JR・航空券＋ホテルパックが最大50％オフ",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1WVEFERDlNdDdWV1pudHdMdUJmOXByZEI4Q0VnanlsTERjSlFMb1VPTi1udnVpOVdwZUdjSjFwS0x4TENFUlhzMjNJVmdITGdKVVlXMDNDdUw4SEM4OUVEczVIaU9YUG91?oc=5"
   },
   {
    "also": [
@@ -329,23 +311,6 @@
   },
   {
    "also": [
-    "中日新聞Web"
-   ],
-   "ends": null,
-   "home": false,
-   "kind": "宿",
-   "nationwide": false,
-   "published": "2026-10-06",
-   "score": 62,
-   "service": "楽天トラベル",
-   "size": "",
-   "source": "47NEWS",
-   "starts": null,
-   "title": "静岡県へのふるさと納税寄付額、3.7倍に 8月までの前年同期比、返礼品「楽天トラベルクーポン」が好調",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1YM29IOUg3R0p5M0NZUjB1cjVmaGZnaE1MQWNpcGEyNjZEZmc2Zk1SV3l0Z3h1aWN0RElhc21KaFZVZWVBbHVtd2tDZw?oc=5"
-  },
-  {
-   "also": [
     "千葉テレビ放送株式会社"
    ],
    "ends": null,
@@ -378,22 +343,20 @@
   },
   {
    "also": [
-    "TRAICY（トライシー）",
     "千葉テレビ放送"
    ],
    "ends": null,
    "home": false,
-   "image": "https://www.traicy.com/wp-content/uploads/2026/10/ikyu_1009.jpg",
    "kind": "宿",
    "nationwide": false,
    "published": "2026-10-12",
    "score": 62,
    "service": "一休.com",
    "size": "",
-   "source": "TRAICY",
+   "source": "TRAICY（トライシー）",
    "starts": null,
    "title": "一休、「一休の日セール！ホテル・リゾートスペシャル」を開催中 10月19日正午まで",
-   "url": "https://www.traicy.com/posts/20261012384681/"
+   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9kVjZDOTBFcXUwVUVIaDRydjEtTGh0cXloZXVOZlhQa3F1SUhSbHFRaDg0dGZOZ19vZUNnOVdaMEFvdDJROEp3?oc=5"
   },
   {
    "also": [
@@ -409,7 +372,7 @@
    "size": "",
    "source": "PR TIMES",
    "starts": null,
-   "title": "【兵庫県南あわじ市】「じゃらんふるさと納税クーポン」はじめました！ | 南あわじ市のプレスリリース",
+   "title": "【兵庫県南あわじ市】「じゃらんふるさと納税クーポン」はじめました！",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE56RGpWUnl0bldDSG5CWWIxTU9jMFd5UVp0aU0wdy1ub3h1UWZmLXprOGRUT2FBZEZYd1AweTJyTW1MRFMydUJ3dE5rZmk1LXA2d0w3d1BWR1BoVHlCdkttZE1jU2NwQ19kZGc?oc=5"
   },
   {
@@ -477,6 +440,24 @@
    "starts": null,
    "title": "秋田県、宿泊最大1万2000円引き「得旅キャンペーン」第2弾は10月1日予約スタート。じゃらん/楽天など4社で受付",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBIdmloREd5eWRQNnlHN1dGY1F5TUNmYUNKTlE4NDNqNm43cU1GdjR6b0M0eEpUM0g4bVB1R0U4aUxVajhwb2Y0b3lYbUN1ZmY0UUZTV0dJb19HYVBRNDRMcjl2V3BtZFF4?oc=5"
+  },
+  {
+   "also": [
+    "千葉テレビ放送株式会社",
+    "ライブドアニュース"
+   ],
+   "ends": null,
+   "home": true,
+   "kind": "宿",
+   "nationwide": false,
+   "published": "2026-09-29",
+   "score": 57,
+   "service": "",
+   "size": "最大12,000円",
+   "source": "TRAICY（トライシー）",
+   "starts": "2026-10-01",
+   "title": "秋田県、宿泊最大12,000円割引「得旅キャンペーン」第2弾を10月1日開始",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1uU05POXV4UUkxbVdQaXlzTnp1bDlhM1JTeUZSeXR2N2ZaWlhFSk9VU0laOW44dUh0OVVLSkhfSFZocGNRckVFeFM3V3Vla3gtTk15QUZRZw?oc=5"
   },
   {
    "also": [
@@ -580,6 +561,22 @@
    "also": [],
    "ends": null,
    "home": false,
+   "image": "https://www.traicy.com/wp-content/uploads/2026/09/jalan_kumamoto.jpg",
+   "kind": "宿",
+   "nationwide": false,
+   "published": "2026-10-13",
+   "score": 57,
+   "service": "じゃらん",
+   "size": "",
+   "source": "TRAICY",
+   "starts": null,
+   "title": "じゃらんnet、「九州ふっこう応援割」を10月14日午前10時販売開始 鹿児島県対象",
+   "url": "https://www.traicy.com/posts/20261013384861/"
+  },
+  {
+   "also": [],
+   "ends": null,
+   "home": false,
    "image": "https://www.traicy.com/wp-content/uploads/2026/09/rakuten-1.jpg",
    "kind": "宿",
    "nationwide": false,
@@ -589,7 +586,7 @@
    "size": "",
    "source": "TRAICY",
    "starts": null,
-   "title": "楽天トラベル、「九州ふっこう応援割」を10月13日午前10時販売開始 鹿児島県対象",
+   "title": "楽天トラベル、「九州ふっこう応援割」を10月14日午前10時販売開始 鹿児島県対象",
    "url": "https://www.traicy.com/posts/20261013384829/"
   },
   {
@@ -621,21 +618,6 @@
    "starts": null,
    "title": "一休.com の賢い使い方｜元旅行会社員が教える割引・ポイント・プライム活用術",
    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5VWjJIbTdxMFNFN25CbWk1SXAta1dWYzdoOXRIbTFlemotUkNYWnV4M3hQTmlpeS1BXzJmQXZ6X3BzM2s1aGh2Yw?oc=5"
-  },
-  {
-   "also": [],
-   "ends": null,
-   "home": false,
-   "kind": "航空券",
-   "nationwide": true,
-   "published": "2026-09-29",
-   "score": 53,
-   "service": "ANA",
-   "size": "",
-   "source": "Aviation Wire",
-   "starts": null,
-   "title": "ANA、国内線”ファーストクラス”タイムセール 9/30まで",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1JZThjRTRkbVdHQ0dFWGNGTFVvQnZ4X0J0eU1CZjdFNnZPallOempaZDBFYXl3bjRyeEJlNXFGWGoyVzFxckptbVdfOXFsMWQ1d2FPN0xn?oc=5"
   },
   {
    "also": [
@@ -689,7 +671,7 @@
   {
    "also": [
     "Aviation Wire",
-    "千葉テレビ放送",
+    "千葉テレビ放送株式会社",
     "Excite エキサイト"
    ],
    "ends": null,
@@ -741,6 +723,21 @@
    "home": false,
    "kind": "宿",
    "nationwide": false,
+   "published": "2026-10-01",
+   "score": 52,
+   "service": "楽天トラベル",
+   "size": "最大30%OFF",
+   "source": "トラベル Watch",
+   "starts": null,
+   "title": "楽天トラベル、毎日最大30％オフ「オータムSALE」。九州ふっこう応援割とあわせて要チェック！ レンタカー最大45％オフほか",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9oQzZHa1BybmNHTVRnSHpwUXVRbUpHdVN5TDVrTUkwMERZX3BpaXBmUmphT1QxVzBYOXdiWjhydU9tVUFWbk12eXJDWFpKTFBwSnRkYVRRa1FOeUFjTFA3Z1dzOW5sZWZD?oc=5"
+  },
+  {
+   "also": [],
+   "ends": null,
+   "home": false,
+   "kind": "宿",
+   "nationwide": false,
    "published": "2026-10-05",
    "score": 52,
    "service": "楽天トラベル",
@@ -749,22 +746,6 @@
    "starts": null,
    "title": "楽天トラベル、奄美大島の宿泊が最大1万円引き。年末年始も対象、先着順で独自クーポン配布中",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE54cDRPTGJpZFFPTjZDdXp1Zm5mdVJPa2VuODVrSWpFakV3QjF5SGhXMTlWS3BobG9EZUdOSzJvMjlySm5BQXdqNTN4bnkzaHVwZ3otNHZFdDVDSjVJNzZmMUF5dERDOVlm?oc=5"
-  },
-  {
-   "also": [],
-   "ends": null,
-   "home": false,
-   "image": "https://airstair.jp/images/2021/04/miyazaki-photo.webp",
-   "kind": "宿",
-   "nationwide": false,
-   "published": "2026-10-06",
-   "score": 52,
-   "service": "",
-   "size": "",
-   "source": "airstair",
-   "starts": null,
-   "title": "【2026年】宮崎県の旅行支援「ひなタビ」みやざき宿泊キャンペーン 第2期は2027年1月4日宿泊分からに変更、第1期は9月30日宿泊分で終了",
-   "url": "https://airstair.jp/miyazaki-campaign/"
   },
   {
    "also": [],
@@ -892,6 +873,23 @@
    "starts": "2026-10-01",
    "title": "さとふる、株式会社リクルートとともに旅行に使えるお礼品「じゃらんふるさと納税クーポン」を10月1日より提供開始",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9mbkI2VlNGWHItdUNCaGZIZ2FnMU1OZWY4Tm5DTVBvck5nQV81MU9nSF9iTkRTNW13UWhwX2FwbnNIZkxURXhMQ2RXLWk1YURfMWZuMEE1Rk5lMGNEZkl1bHl5eG83UVA2Y3BXNnVsR3RVdw?oc=5"
+  },
+  {
+   "also": [
+    "中日新聞Web"
+   ],
+   "ends": null,
+   "home": false,
+   "kind": "宿",
+   "nationwide": false,
+   "published": "2026-10-06",
+   "score": 47,
+   "service": "楽天トラベル",
+   "size": "",
+   "source": "47NEWS",
+   "starts": null,
+   "title": "静岡県へのふるさと納税寄付額、3.7倍に 8月までの前年同期比、返礼品「楽天トラベルクーポン」が好調",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1YM29IOUg3R0p5M0NZUjB1cjVmaGZnaE1MQWNpcGEyNjZEZmc2Zk1SV3l0Z3h1aWN0RElhc21KaFZVZWVBbHVtd2tDZw?oc=5"
   },
   {
    "also": [
@@ -1107,6 +1105,21 @@
    "home": false,
    "kind": "宿",
    "nationwide": false,
+   "published": "2026-10-01",
+   "score": 42,
+   "service": "ふるさと納税",
+   "size": "",
+   "source": "Dellows News",
+   "starts": null,
+   "title": "三沢市ふるさと納税、航空券と宿泊がセットのJAL旅行クーポンを10月1日導入へ",
+   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBkUm9fMnpqdGJiTk5VM1lHb3d0ZkxBZWNYeWpxOTJJZWlyRG9JVzllMjByN2lLVmlGOE01d3lNQzR2azhQcFE?oc=5"
+  },
+  {
+   "also": [],
+   "ends": null,
+   "home": false,
+   "kind": "宿",
+   "nationwide": false,
    "published": "2026-10-02",
    "score": 42,
    "service": "楽天トラベル",
@@ -1199,16 +1212,16 @@
    "also": [],
    "ends": null,
    "home": false,
-   "kind": "宿",
-   "nationwide": false,
-   "published": "2026-09-13",
-   "score": 37,
-   "service": "ふるさと納税",
-   "size": "最大60%OFF",
-   "source": "Infoseek",
+   "kind": "航空券",
+   "nationwide": true,
+   "published": "2026-09-29",
+   "score": 38,
+   "service": "ANA",
+   "size": "",
+   "source": "Aviation Wire",
    "starts": null,
-   "title": "宿泊料金が最大60%割引！「九州ふっこう応援割」×「ふるさと納税」でお得に楽しむ秋の九州旅行",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9xUXJRWGVmZy1Hem1ZNnFvTzhDTlc5R3diYWFTZmI5OU5jNFBDUEJhYmlRTVNiT0gzRmxnN1NubFFrUEpDTFRERHFJMUJlR0QxcV81R2stYWx0ZEJpTllEd0JR?oc=5"
+   "title": "ANA、国内線”ファーストクラス”タイムセール 9/30まで",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1JZThjRTRkbVdHQ0dFWGNGTFVvQnZ4X0J0eU1CZjdFNnZPallOempaZDBFYXl3bjRyeEJlNXFGWGoyVzFxckptbVdfOXFsMWQ1d2FPN0xn?oc=5"
   },
   {
    "also": [],
@@ -1239,6 +1252,21 @@
    "starts": null,
    "title": "楽天トラベル、九州ふっこう応援割の予約受付は明日15日から。熊本・鹿児島で最大60％オフ、その他5県は最大50％オフ",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBrOGZOVFhiaTVSRVo4RENxcFVCM1VpMXdmbld1U0FRZEhQUUtnWU1RYkJQa1NiRWVXcFM1YXEtLWpkdnVaREN3MWlRLTdhRi1LaUs0NWhxQjlsT1RKc2pfTXM5MS04U3o4?oc=5"
+  },
+  {
+   "also": [],
+   "ends": null,
+   "home": false,
+   "kind": "宿",
+   "nationwide": false,
+   "published": "2026-09-14",
+   "score": 37,
+   "service": "楽天トラベル",
+   "size": "5000円",
+   "source": "トラベル Watch",
+   "starts": null,
+   "title": "楽天トラベル、秋の札幌旅で5000円オフクーポン配布。定山渓の紅葉や市内散策、海鮮を楽しむモデルプランも",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA5anc4a1c2WjVrTHExTGpOQ25SMk1La19NUG1EVVlpb2tXWENkVXBGM1M4TDhvLWVIQzNJSWlDVUtBYWs0Z3pYdmMyMURUcmwtZzJKcER5TTM0X1VVaERKdG50RU5TVk9K?oc=5"
   },
   {
    "also": [],
@@ -1349,6 +1377,22 @@
    "also": [],
    "ends": null,
    "home": false,
+   "image": "https://airstair.jp/images/2021/04/miyazaki-photo.webp",
+   "kind": "宿",
+   "nationwide": false,
+   "published": "2026-10-06",
+   "score": 37,
+   "service": "",
+   "size": "",
+   "source": "airstair",
+   "starts": null,
+   "title": "【2026年】宮崎県の旅行支援「ひなタビ」みやざき宿泊キャンペーン 第2期は2027年1月4日宿泊分からに変更、第1期は9月30日宿泊分で終了",
+   "url": "https://airstair.jp/miyazaki-campaign/"
+  },
+  {
+   "also": [],
+   "ends": null,
+   "home": false,
    "kind": "航空券",
    "nationwide": true,
    "published": "2026-09-23",
@@ -1374,22 +1418,6 @@
    "starts": null,
    "title": "【宮崎】ANA国内線タイムセール開催中！羽田－九州11,000円～、2027年2月搭乗分まで",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSERCNUoybDUyU0g3VmJtUFFCSnJSR0d3SHFOUkJVLXBfY0ZNb0V6azVLYnBlLXlpeV9BbFUwQlhGT0hhVl9YdzBocVQ5RWl5TTVaMzB6LTVvQmhLNlNSSDBPRjVmQ1NkUkhubzEtYV9FZVJfaVhNUFhXbnBPa2lUVHhYRzFMVWM?oc=5"
-  },
-  {
-   "also": [],
-   "ends": null,
-   "home": false,
-   "image": "https://airstair.jp/images/2023/10/shutterstock_1883007199.webp",
-   "kind": "航空券",
-   "nationwide": false,
-   "published": "2026-09-29",
-   "score": 33,
-   "service": "",
-   "size": "",
-   "source": "airstair",
-   "starts": null,
-   "title": "【2026】ジェットスターセール完全ガイド｜次回いつ？買い方・頻度を解説",
-   "url": "https://airstair.jp/jetstar-sale/"
   },
   {
    "also": [],
@@ -1487,6 +1515,23 @@
    "starts": null,
    "title": "楽天トラベル、「熊本・鹿児島 観光応援クーポン」配布開始。宿泊最大10％オフ、航空券/JR付き最大1万1000円オフに",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBkUTVsdE8tWHdickhRLVZGUGJicERaZnZwUExQSnNLbDZrVmYzTl9ZWjhERkcxNVM1UUZYOFJKeW5VT1A2bEowQl9vd2NoZVNfSXZFTWNxYnRYcVJoc25jSnVPNEw1c2d1?oc=5"
+  },
+  {
+   "also": [
+    "Infoseek"
+   ],
+   "ends": null,
+   "home": false,
+   "kind": "宿",
+   "nationwide": false,
+   "published": "2026-09-13",
+   "score": 32,
+   "service": "ふるさと納税",
+   "size": "最大60%OFF",
+   "source": "マネーフォワード",
+   "starts": null,
+   "title": "宿泊料金が最大60%割引！「九州ふっこう応援割」×「ふるさと納税」でお得に楽しむ秋の九州旅行",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBWNFdPNTRzZVpzZGhaUUZvZ2s0dy1hZHpVUWtFYzdhdGNIZ0l6OTAtYTd1ZEJLRngzcFhUZk8wcGtFMnZISDVjNHhTWHR3WmJ4Z0ZBNEI3d1hFTU1lNlV0bFRB?oc=5"
   },
   {
    "also": [],
@@ -2643,6 +2688,21 @@
    "home": false,
    "kind": "鉄道・バス",
    "nationwide": false,
+   "published": "2026-08-22",
+   "score": 21,
+   "service": "JR東日本",
+   "size": "50%OFF",
+   "source": "Infoseek",
+   "starts": null,
+   "title": "えきねっと、新幹線・特急が平日50％OFF JRE POINT特典も35％OFFに｜Infoseekニュース",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5vYjUySUwzSjduX09hVEZodzYya0VaMkJjeGhlMU15MnJlVjh2SU5qM2xFZThRdzMyTkt4NXRTWE5jeFBHdlJQb2d0TkVKcTJuWVExY0tGaWpsRWlCdnhV?oc=5"
+  },
+  {
+   "also": [],
+   "ends": null,
+   "home": false,
+   "kind": "鉄道・バス",
+   "nationwide": false,
    "published": "2026-08-26",
    "score": 21,
    "service": "JR東日本",
@@ -2697,6 +2757,22 @@
    "starts": null,
    "title": "【2026】スターフライヤーセール完全ガイド｜次回いつ？予約方法・お得な活用術",
    "url": "https://airstair.jp/starflyer-sale/"
+  },
+  {
+   "also": [],
+   "ends": null,
+   "home": false,
+   "image": "https://airstair.jp/images/2023/10/shutterstock_1883007199.webp",
+   "kind": "航空券",
+   "nationwide": false,
+   "published": "2026-09-29",
+   "score": 18,
+   "service": "",
+   "size": "",
+   "source": "airstair",
+   "starts": null,
+   "title": "【2026】ジェットスターセール完全ガイド｜次回いつ？買い方・頻度を解説",
+   "url": "https://airstair.jp/jetstar-sale/"
   },
   {
    "also": [],
@@ -3159,6 +3235,21 @@
    "also": [],
    "ends": null,
    "home": false,
+   "kind": "宿",
+   "nationwide": false,
+   "published": "2026-09-11",
+   "score": 17,
+   "service": "JTB",
+   "size": "",
+   "source": "マイベスト",
+   "starts": null,
+   "title": "【2026年9月】JTBのクーポン・キャンペーン情報まとめ！安い日・お得な日はいつ？",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1nUzdlQnpsOHdIdkd3RUtOZDVQZFJwUElyemlMaVVZTTlyUzBzWmRQc2NZQnJfamRTVC1CMzlHMnpxcndmZGJ5SQ?oc=5"
+  },
+  {
+   "also": [],
+   "ends": null,
+   "home": false,
    "kind": "航空券",
    "nationwide": false,
    "published": "2026-07-07",
@@ -3231,21 +3322,6 @@
    "starts": null,
    "title": "「得旅キャンペーン」クーポンを追加発行 ７月末までの宿泊が対象",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBXWG1ObnB1bVp4STVLSXBCc1I5a3NtSDRDWHhxbGZ6Y3d5d3NocDZMR0dPalNUeHl0MXZDNjRKaWR0ZGNXQXNCMmFLVkFvTjRtM001ZmZ1cjlKcHVydlpNOU5R?oc=5"
-  },
-  {
-   "also": [],
-   "ends": null,
-   "home": false,
-   "kind": "宿",
-   "nationwide": false,
-   "published": "2026-07-21",
-   "score": 12,
-   "service": "",
-   "size": "",
-   "source": "トラベルボイス",
-   "starts": null,
-   "title": "楽天、6自治体と「ふるさと住民登録制度」へ向けた連携開始、スポットワークなど情報発信や宿泊割引クーポンを提供",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBIWW1xQTVkMUZDLU85MmIxU3k3UW5YWXdvV1dsR21xV0xhNkppdjhrbmJuTGhCcmdrN0w3dXRacE8zbFFpVjljcjVKS1o3NERZcnlDSg?oc=5"
   },
   {
    "also": [],
@@ -3435,21 +3511,6 @@
    "home": false,
    "kind": "航空券",
    "nationwide": false,
-   "published": "2026-08-27",
-   "score": 8,
-   "service": "",
-   "size": "",
-   "source": "トラベル Watch",
-   "starts": null,
-   "title": "ピーチ、国内外の航空券が片道3000円～のタイムセール。燃油サーチャージなし",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE41U1Fjdm8zYzdjTF9zUnFjZ1U1R0pJQjJoUXRSeXNBTmFYT2F6cFZpVW9sXzB3UXZxRVBXcy1GSm9uQk00bV81NUdFUF9mWWFKNUV1M1pXM2x1R28yemR0aFg1dmJDNzk0?oc=5"
-  },
-  {
-   "also": [],
-   "ends": null,
-   "home": false,
-   "kind": "航空券",
-   "nationwide": false,
    "published": "2026-09-08",
    "score": 8,
    "service": "",
@@ -3530,8 +3591,8 @@
   "https://airstair.jp/yahoo-travel-timesale/",
   "https://airstair.jp/yahoo-travel/",
   "https://airstair.jp/year-end-new/",
-  "https://www.traicy.com/posts/20261012384681/",
-  "https://www.traicy.com/posts/20261013384829/"
+  "https://www.traicy.com/posts/20261013384829/",
+  "https://www.traicy.com/posts/20261013384861/"
  ],
  "running": [
   {
@@ -3550,7 +3611,7 @@
    "kind": "宿",
    "mode": "auto",
    "name": "楽天トラベル",
-   "seen": "2026-10-13",
+   "seen": "2026-10-14",
    "url": "https://travel.rakuten.co.jp/coupon/",
    "why": ""
   },
@@ -3636,11 +3697,11 @@
   }
  ],
  "stats": {
-  "articles": 1436,
-  "deals": 219,
+  "articles": 1439,
+  "deals": 223,
   "failed": 2,
   "fetched": 19,
   "images": 27
  },
- "updated": "2026-10-13 22:25"
+ "updated": "2026-10-14 07:14"
 }
