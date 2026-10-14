@@ -343,23 +343,6 @@
   },
   {
    "also": [
-    "千葉テレビ放送"
-   ],
-   "ends": null,
-   "home": false,
-   "kind": "宿",
-   "nationwide": false,
-   "published": "2026-10-12",
-   "score": 62,
-   "service": "一休.com",
-   "size": "",
-   "source": "TRAICY（トライシー）",
-   "starts": null,
-   "title": "一休、「一休の日セール！ホテル・リゾートスペシャル」を開催中 10月19日正午まで",
-   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9kVjZDOTBFcXUwVUVIaDRydjEtTGh0cXloZXVOZlhQa3F1SUhSbHFRaDg0dGZOZ19vZUNnOVdaMEFvdDJROEp3?oc=5"
-  },
-  {
-   "also": [
     "Infoseek"
    ],
    "ends": null,
@@ -1049,10 +1032,10 @@
    "score": 42,
    "service": "ふるさと納税",
    "size": "",
-   "source": "福島民友新聞社",
+   "source": "47NEWS",
    "starts": null,
-   "title": "福島市のふるさと納税体験型返礼品への寄付4割増 25年度、宿泊券やイベントチケット好評:地域ニュース",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE11V1p1NlNvM2RkVzJGa0ZiZ2JhMVpYbGtIT29nb0oxZnRHRVRuempDSlcwTVhldHRHUzNGenBKLUFaVGp6VEVkdWlIQTJDWHlmZGd1Mm1yeXRWTm9zaHlNejdZR0ZtczB6?oc=5"
+   "title": "福島市のふるさと納税体験型返礼品への寄付4割増 25年度、宿泊券やイベントチケット好評",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB4d3BZQkNiemRIX1ZCNWNlNmxOWS13U1F4RktEdElFN3haVUg3X1hfdTJJWXFLMFFvRF96eGotdUhsVVZBZGV0V3NNdw?oc=5"
   },
   {
    "also": [],
@@ -1333,15 +1316,15 @@
    "ends": null,
    "home": false,
    "kind": "宿",
-   "nationwide": true,
-   "published": "2026-09-18",
+   "nationwide": false,
+   "published": "2026-09-20",
    "score": 37,
-   "service": "",
-   "size": "",
-   "source": "まっぷるウェブ",
+   "service": "じゃらん",
+   "size": "最大36%OFF",
+   "source": "ほんみや宮崎",
    "starts": null,
-   "title": "九州ふっこう応援割＆全国の自治体独自旅行支援！今使える宿泊割引クーポン最新版",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9XTmlwdmluelJudXZmUDF1VmRGOFZYVWVLSXJicHFEbGpOd1ByQlp4VEtfRk1tYjNJanpCMnQ4Uk1yMnJZNzFJWEJhaDUyeUw5?oc=5"
+   "title": "【9月20日10時開始】じゃらん「お得な10日間」！最大36％お得、宮崎の宿も対象｜ほんみや宮崎",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQM2kwRmVrVjJDX09qMk5sRDQ4REc4Z1RpMmFRbnN2Y3dMNE42b2g5MV9FWnVrQzh6azNCNkpQVmVpSkY1a0JaMUpvT3hzUWtNellxTUF3alc0RWJqWE5zemZ2ekplTFpnNVlTaGlPWVRObC1JRURjNC1uWlpoS200SkdHcw?oc=5"
   },
   {
    "also": [],
@@ -1864,6 +1847,21 @@
    "starts": null,
    "title": "楽天トラベル、「夏休み＆秋旅フェア」を開催中 最大5万円割引クーポンなど配布",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8yc3MzVkR5OGNDZjhDQlJOemlzZ0pjOFZpMV9qSDJScjBsRGlnV0pndjlzdm1ic29qTW9tRDY3c0k3Njh1Q1BPVjJzMEZwcy1MbDEzdmZYTQ?oc=5"
+  },
+  {
+   "also": [],
+   "ends": null,
+   "home": false,
+   "kind": "宿",
+   "nationwide": false,
+   "published": "2026-08-03",
+   "score": 27,
+   "service": "楽天トラベル",
+   "size": "最大3万6000円",
+   "source": "ポイ探ニュース",
+   "starts": null,
+   "title": "楽天トラベル「楽パック」20周年 クーポン併用で最大3万6000円引き",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBKZzNUSUdOQkRFcUtjbFNpRWJVM1Bxd2xrVWdIZkoyWFQyalh0YlVDeE40OEY4SDJMc0RQNmxZMEEzR3BIOXpoRl9pTHBVUQ?oc=5"
   },
   {
    "also": [],
@@ -2511,8 +2509,7 @@
   },
   {
    "also": [
-    "ニコニコニュース",
-    "CLASSY.[クラッシィ]"
+    "ニコニコニュース"
    ],
    "ends": null,
    "home": false,
@@ -2547,6 +2544,7 @@
   {
    "also": [
     "時事ドットコム",
+    "Dellows News",
     "ニコニコニュース"
    ],
    "ends": null,
@@ -3358,21 +3356,6 @@
    "also": [],
    "ends": null,
    "home": false,
-   "kind": "宿",
-   "nationwide": false,
-   "published": "2026-08-26",
-   "score": 12,
-   "service": "",
-   "size": "",
-   "source": "PR TIMES",
-   "starts": "2026-09-09",
-   "title": "【9月9日から1週間限定タイムセールを開催】列車＋宿泊または日帰りプランがおトクに！",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE44OFdIOUphREE5UDkxcGV5WWxkV3JqS2tDYmJscG5JWmVIX2F4X0dRcUlFb0ZqZmdsRGdLYl8xNTFsYUVYRm8wN0ttUlJrTU9Td0pPWUNaYVdTeTJCb0xHOWNiUEYwMlcza1E?oc=5"
-  },
-  {
-   "also": [],
-   "ends": null,
-   "home": false,
    "kind": "鉄道・バス",
    "nationwide": false,
    "published": "2026-07-30",
@@ -3504,6 +3487,21 @@
    "starts": null,
    "title": "【2026年8月】JR東海ツアーズの割引クーポン 2WEEK SALEは8月31日20:00まで",
    "url": "https://airstair.jp/jrtours-sale/"
+  },
+  {
+   "also": [],
+   "ends": null,
+   "home": false,
+   "kind": "航空券",
+   "nationwide": false,
+   "published": "2026-08-27",
+   "score": 8,
+   "service": "",
+   "size": "",
+   "source": "トラベル Watch",
+   "starts": null,
+   "title": "ピーチ、国内外の航空券が片道3000円～のタイムセール。燃油サーチャージなし",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE41U1Fjdm8zYzdjTF9zUnFjZ1U1R0pJQjJoUXRSeXNBTmFYT2F6cFZpVW9sXzB3UXZxRVBXcy1GSm9uQk00bV81NUdFUF9mWWFKNUV1M1pXM2x1R28yemR0aFg1dmJDNzk0?oc=5"
   },
   {
    "also": [],
@@ -3697,11 +3695,11 @@
   }
  ],
  "stats": {
-  "articles": 1439,
+  "articles": 1393,
   "deals": 223,
   "failed": 2,
   "fetched": 19,
   "images": 27
  },
- "updated": "2026-10-14 07:14"
+ "updated": "2026-10-14 12:18"
 }
