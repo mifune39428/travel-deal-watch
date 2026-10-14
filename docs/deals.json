@@ -83,7 +83,7 @@
   },
   {
    "also": [
-    "千葉テレビ放送"
+    "千葉テレビ放送株式会社"
    ],
    "ends": null,
    "home": false,
@@ -100,8 +100,7 @@
   },
   {
    "also": [
-    "千葉テレビ放送株式会社",
-    "千葉テレビ放送"
+    "千葉テレビ放送株式会社"
    ],
    "ends": null,
    "home": false,
@@ -244,6 +243,21 @@
    "starts": null,
    "title": "【2026年10月】ヤフートラベルのクーポン最新まとめ JAL早期予約 最大5,000円引き・宿クーポン・超得セール！",
    "url": "https://airstair.jp/yahoo-travel/"
+  },
+  {
+   "also": [],
+   "ends": null,
+   "home": false,
+   "kind": "宿",
+   "nationwide": false,
+   "published": "2026-10-15",
+   "score": 67,
+   "service": "Yahoo!トラベル",
+   "size": "最大60%OFF",
+   "source": "トラベル Watch",
+   "starts": null,
+   "title": "Yahoo!トラベル、熊本県の「九州ふっこう応援割」本日12時予約スタート。宿泊代が最大60％オフ、＋誰でも10％オフ",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1KQnExaTNxUlNUVzZpcENlMzVncWEtMWhxNFU3YXBrYU1QR1EwbmV5SFNyR0RpdUNTb3hZcWZMeE1CM2lwYTB2NElyaTBkMVBuaDhLaDVkWC1OOURHbXdsTzFiUEtCRUYt?oc=5"
   },
   {
    "also": [
@@ -509,6 +523,21 @@
    "url": "https://www.traicy.com/posts/20261014384871/"
   },
   {
+   "also": [],
+   "ends": null,
+   "home": false,
+   "kind": "宿",
+   "nationwide": false,
+   "published": "2026-10-14",
+   "score": 57,
+   "service": "ふるさと納税",
+   "size": "",
+   "source": "Dellows News",
+   "starts": null,
+   "title": "グットリ、ふるさと納税クーポン対象に奄美市を追加 宿泊単体でも利用可能に",
+   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1xc2lfRTIxSmR5WWN3MnZ2aWQ0b3Vfb2JKOHB6MEoxYUVoWGd0RG92c2ZaWGF3MDQ3cG14empicThlekZ6a3c?oc=5"
+  },
+  {
    "also": [
     "Aviation Wire"
    ],
@@ -559,8 +588,7 @@
   },
   {
    "also": [
-    "千葉テレビ放送株式会社",
-    "Excite エキサイト"
+    "千葉テレビ放送株式会社"
    ],
    "ends": null,
    "home": false,
@@ -794,23 +822,6 @@
    "starts": "2026-10-01",
    "title": "さとふる、株式会社リクルートとともに旅行に使えるお礼品「じゃらんふるさと納税クーポン」を10月1日より提供開始",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9mbkI2VlNGWHItdUNCaGZIZ2FnMU1OZWY4Tm5DTVBvck5nQV81MU9nSF9iTkRTNW13UWhwX2FwbnNIZkxURXhMQ2RXLWk1YURfMWZuMEE1Rk5lMGNEZkl1bHl5eG83UVA2Y3BXNnVsR3RVdw?oc=5"
-  },
-  {
-   "also": [
-    "千葉テレビ放送株式会社"
-   ],
-   "ends": null,
-   "home": false,
-   "kind": "宿",
-   "nationwide": false,
-   "published": "2026-10-05",
-   "score": 47,
-   "service": "じゃらん",
-   "size": "",
-   "source": "TRAICY（トライシー）",
-   "starts": "2026-10-05",
-   "title": "じゃらんnet、「じゃらんスペシャルウィーク」を10月5日開始 特別プランやクーポンも",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA4Tk1iY21Wa2c5OS1mTkhRcGhFMFJ1VjFrbU5ma3FERUlkNlJWY1lPOElVRzJTZVBMNV95UkxnVzRHcEw4VWpEWFd3MjA4S2VvRFhFT3RzSQ?oc=5"
   },
   {
    "also": [
@@ -1393,21 +1404,6 @@
    "starts": null,
    "title": "得旅キャンペーン第二弾へ 宿泊事業者向けの説明会 アンケート結果をもとに体験型宿泊プランの充実進める方針 秋田",
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0tNWg2Ql8xc25GcTRQY3lzaGJ2T0Rva0tjZWtIV25sZV9DRHdpSUhpVzU3REJRREJYNE8wZ1V1eEdFN2lhQy1XdExmS1FhdzFDVHJTUmJSMFpRRF84U3c?oc=5"
-  },
-  {
-   "also": [],
-   "ends": null,
-   "home": true,
-   "kind": "宿",
-   "nationwide": false,
-   "published": "2026-08-21",
-   "score": 32,
-   "service": "",
-   "size": "",
-   "source": "東北楽天ゴールデンイーグルス",
-   "starts": null,
-   "title": "※情報更新※スポーツ観戦宿泊キャンペーン「仙台プロスポ割」キャンセル待ち受付",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE01cWdwQnBfNklfOUphZHBBenc0d0dJSWFlb09ycnBSc1FHMm45SVZSSThPZl9weEJ5N3VqZ1VZS2w4eFo5eEw1UXh6SVpxSUdIdnluak5pQWcxRUFQZ2dKejdMQkJ5SnVVaXc?oc=5"
   },
   {
    "also": [
@@ -2054,6 +2050,21 @@
    "nationwide": false,
    "published": "2026-09-14",
    "score": 27,
+   "service": "楽天トラベル",
+   "size": "5000円",
+   "source": "トラベル Watch",
+   "starts": null,
+   "title": "楽天トラベル、秋の札幌旅で5000円オフクーポン配布。定山渓の紅葉や市内散策、海鮮を楽しむモデルプランも",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA5anc4a1c2WjVrTHExTGpOQ25SMk1La19NUG1EVVlpb2tXWENkVXBGM1M4TDhvLWVIQzNJSWlDVUtBYWs0Z3pYdmMyMURUcmwtZzJKcER5TTM0X1VVaERKdG50RU5TVk9K?oc=5"
+  },
+  {
+   "also": [],
+   "ends": null,
+   "home": false,
+   "kind": "宿",
+   "nationwide": false,
+   "published": "2026-09-14",
+   "score": 27,
    "service": "じゃらん",
    "size": "50%OFF",
    "source": "トラベル Watch",
@@ -2400,6 +2411,23 @@
    "starts": null,
    "title": "“ふるさと納税クーポン”活用術！すでに予約済みの宿も“後から割引”に!? 「じゃらん×さとふる」提携で 宿泊予約がその場で安くなる【今秋スタート】",
    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBLOGhOV1AydzUxcXRxMFdJSURtUTBlYi0xRG5vNUVDbHh3d0x2RV9qeC1IMTlxM2JramJXajRvRmdkMU4xYjBTSVhNSUw?oc=5"
+  },
+  {
+   "also": [
+    "千葉テレビ放送株式会社"
+   ],
+   "ends": null,
+   "home": false,
+   "kind": "宿",
+   "nationwide": false,
+   "published": "2026-06-30",
+   "score": 22,
+   "service": "じゃらん",
+   "size": "",
+   "source": "TRAICY（トライシー）",
+   "starts": "2026-07-01",
+   "title": "じゃらんnet、「じゃらんスペシャルウィーク」を7月1日開始 特別プランやクーポンも",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1pMXVBSE5YX25rWXpIRFlaczV6WXp2TzBPZGUxbTMwQ0wxM0VBZUl3ZnpZdmNobVF0REdaS2F6TmJkdGVHVUJxcWV3OGgzRl9YN0hmSVoxaw?oc=5"
   },
   {
    "also": [
@@ -3193,21 +3221,6 @@
    "also": [],
    "ends": null,
    "home": false,
-   "kind": "宿",
-   "nationwide": false,
-   "published": "2026-09-11",
-   "score": 17,
-   "service": "JTB",
-   "size": "",
-   "source": "マイベスト",
-   "starts": null,
-   "title": "【2026年9月】JTBのクーポン・キャンペーン情報まとめ！安い日・お得な日はいつ？",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1nUzdlQnpsOHdIdkd3RUtOZDVQZFJwUElyemlMaVVZTTlyUzBzWmRQc2NZQnJfamRTVC1CMzlHMnpxcndmZGJ5SQ?oc=5"
-  },
-  {
-   "also": [],
-   "ends": null,
-   "home": false,
    "kind": "航空券",
    "nationwide": false,
    "published": "2026-07-07",
@@ -3673,11 +3686,11 @@
   }
  ],
  "stats": {
-  "articles": 1444,
-  "deals": 221,
+  "articles": 1448,
+  "deals": 222,
   "failed": 2,
   "fetched": 19,
   "images": 30
  },
- "updated": "2026-10-15 01:23"
+ "updated": "2026-10-15 06:14"
 }
