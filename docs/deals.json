@@ -117,9 +117,7 @@
   },
   {
    "also": [
-    "TRAICY（トライシー）",
-    "Ameba News [アメーバニュース]",
-    "千葉テレビ放送"
+    "千葉テレビ放送株式会社"
    ],
    "ends": null,
    "home": false,
@@ -129,10 +127,10 @@
    "score": 72,
    "service": "",
    "size": "",
-   "source": "千葉テレビ放送株式会社",
+   "source": "TRAICY（トライシー）",
    "starts": null,
    "title": "ヤフートラベル、「超得セール！ホテル・リゾートスペシャル」を開催中 全国の宿泊施設対象",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE90cV9mN29WdEwtTE41dDR1SzFDRVNoZ1k4bnBFdXEwOEEtSDhEQ3RMWWJWNzMxRmFrZVhucmt5MDRIcVpyQmszcG9VcnVDWGhMLTBjdUt1VzdPeklwY1pR?oc=5"
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1sX1N4cmJNdUR2NUdIejZsenZaSGtodHV0TERKLVdZMDE3YzRCeEpuOXpwWWgybkFJUThyb29BaHVncWMzdkRmV2ZKaEJIaGluUWlWWFRMZw?oc=5"
   },
   {
    "also": [],
@@ -277,6 +275,21 @@
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5RSjMzRHVXR0ZrQTB3TjJqRkpUUWRGUXp5R1BNNDN6WFlYNmZ6ZU91cnN2bTNzOUVOREJkR0ljNF9sS1JPMFFWS2FKR2RZOFhYZXc?oc=5"
   },
   {
+   "also": [],
+   "ends": null,
+   "home": false,
+   "kind": "ツアー",
+   "nationwide": true,
+   "published": "2026-10-15",
+   "score": 63,
+   "service": "",
+   "size": "",
+   "source": "ほんみや宮崎",
+   "starts": null,
+   "title": "【今日まで！】ANA国内ツアータイムセール10月15日23:54終了！宮崎発もチェック｜ほんみや宮崎",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQR2NaQ0FBbmtCVl9KaVdpV0xMaExyOUoweTZwLXdBQTRhaHlQUW0tMTJZUVRfbmw1ZW5uenZib0w2YWZpU1g4WTFCZlhrcmpaTjdaMjlKRW1pZndzajhUeVlSZHA1TEY2ejJlRlpKemZqVDlySzNRTmRrZ0xwOVJUOU9BNA?oc=5"
+  },
+  {
    "also": [
     "民泊専門メディア Airstair"
    ],
@@ -378,6 +391,41 @@
    "starts": null,
    "title": "JAL、国際線特典航空券のタイムセールを実施 欧米へ片道16,100マイルから",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0zakZaNXVTRjdMWlhCYWMtOWx6cGw1T0g3aXl1eEZYNlNlY05UNnFWZUNlMzlEQnJSVURiQTRJVWg1OHJxVEhKc21GNktyeU14Z1RGUnFWWQ?oc=5"
+  },
+  {
+   "also": [
+    "sky-budget スカイバジェット"
+   ],
+   "ends": null,
+   "home": false,
+   "image": "https://sky-budget.com/wp-content/uploads/2026/09/IMG_1547-scaled.jpg",
+   "kind": "航空券",
+   "nationwide": false,
+   "published": "2026-10-15",
+   "score": 58,
+   "service": "ANA",
+   "size": "",
+   "source": "sky-budget",
+   "starts": null,
+   "title": "ANA、国際線を対象に燃油サーチャージ込で往復41,700円からのタイムセールを開催中",
+   "url": "https://sky-budget.com/2026/10/15/ana-sale-oct2026/"
+  },
+  {
+   "also": [
+    "千葉テレビ放送株式会社"
+   ],
+   "ends": null,
+   "home": false,
+   "kind": "航空券",
+   "nationwide": false,
+   "published": "2026-10-15",
+   "score": 58,
+   "service": "ANA",
+   "size": "",
+   "source": "TRAICY（トライシー）",
+   "starts": null,
+   "title": "ANA、国際線でタイムセール 上海往復4.1万円、ホノルル10.5万円など",
+   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBSNlpiLWJkTHRiVmMzUUpTUURqeXBnSGhGSkxQa18tSGdNZEY1XzdwbS00LW9odEJraUhHeXdvU1JGZ253d3pB?oc=5"
   },
   {
    "also": [],
@@ -538,6 +586,21 @@
    "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1xc2lfRTIxSmR5WWN3MnZ2aWQ0b3Vfb2JKOHB6MEoxYUVoWGd0RG92c2ZaWGF3MDQ3cG14empicThlekZ6a3c?oc=5"
   },
   {
+   "also": [],
+   "ends": null,
+   "home": false,
+   "kind": "宿",
+   "nationwide": false,
+   "published": "2026-10-15",
+   "score": 57,
+   "service": "じゃらん",
+   "size": "",
+   "source": "アットプレス",
+   "starts": null,
+   "title": "近鉄グループ×JR東海「志摩にしました。」 じゃらんnetと連携したキャンペーンを展開",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1mM3UyTGZ1RUdFOW43Z25RaVhWdE9ERGVrOFZBRFhuRXpqT2ZiV2Z4Y2tKbVU2SUpBS1ZCeTlyUndwTEs4QUxCM1FmVElQZw?oc=5"
+  },
+  {
    "also": [
     "Aviation Wire"
    ],
@@ -588,7 +651,8 @@
   },
   {
    "also": [
-    "千葉テレビ放送株式会社"
+    "千葉テレビ放送株式会社",
+    "ニコニコニュース"
    ],
    "ends": null,
    "home": false,
@@ -750,7 +814,7 @@
    "image": "https://airstair.jp/images/2024/10/shutterstock_2496620331.webp",
    "kind": "航空券",
    "nationwide": false,
-   "published": "2026-10-13",
+   "published": "2026-10-15",
    "score": 48,
    "service": "",
    "size": "",
@@ -808,6 +872,7 @@
   },
   {
    "also": [
+    "時事ドットコム",
     "神戸経済新聞"
    ],
    "ends": null,
@@ -889,7 +954,7 @@
   },
   {
    "also": [
-    "sky-budget スカイバジェット",
+    "TRAICY（トライシー）",
     "トラベル Watch",
     "Aviation Wire",
     "千葉テレビ放送",
@@ -899,14 +964,14 @@
    "home": false,
    "kind": "航空券",
    "nationwide": true,
-   "published": "2026-09-24",
+   "published": "2026-09-25",
    "score": 43,
    "service": "ANA",
    "size": "",
-   "source": "TRAICY（トライシー）",
+   "source": "sky-budget スカイバジェット",
    "starts": null,
-   "title": "ANA、国内線でタイムセール実施 10月〜2月搭乗分",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBISmRLeDlteXlsSVlnRFQ1cTB3SVBWSzhuRGZtQmZua0VHYWRTaDgxUUdNazNFUTg0amxKU2JZUlRLOS1CR1VJNzNRRnFxcE4tMkRwVjhHSQ?oc=5"
+   "title": "ANA、国内線を対象としたタイムセールを開催中 2026年10月～2027年2月搭乗分",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9NSV9zVzBIN3hmYW9Qa0FxeEM3eXVHempONjdMM2o2MXZVMG9rbU1ORzZOLW43d2RKRk4tTGR5T1BNaldIeUFFeUlzNXZHV01PbnRRa201ZVltVm03Y3FLTjM1c0lPNkk?oc=5"
   },
   {
    "also": [
@@ -955,21 +1020,6 @@
    "starts": null,
    "title": "日本旅行、「96時間ファイナルタイムセール」を開催中 国内対象プランが5％オフ",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE02djllYmpMVE45c0VGUVcyT1M0NktmVzY1RGNTNTN0V0J3Z0dXVlZYOWtoM3dwd2hRVnd4M25KNk1haDhBY0pqUkJhOUtKTW5XaUx3Y1BQOA?oc=5"
-  },
-  {
-   "also": [],
-   "ends": null,
-   "home": false,
-   "kind": "宿",
-   "nationwide": true,
-   "published": "2026-09-04",
-   "score": 42,
-   "service": "楽天トラベル",
-   "size": "最大35%OFF",
-   "source": "TRAICY（トライシー）",
-   "starts": null,
-   "title": "「楽天トラベル スーパーSALE」、今夜8時から 国内宿泊は最大35％割引",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBRbGxWUFB5d3hUXzZ6dHFTNnF4YWNuUVJfcEF4QkxWQXgwU1F3NTd1SXlLQlMzWUFvOFZJaHBCLWhqT2Y5NHBMQ1h3VUtfbTRkZFBueW9yTQ?oc=5"
   },
   {
    "also": [],
@@ -1129,6 +1179,7 @@
   {
    "also": [
     "タビリス",
+    "ｄメニューニュース",
     "千葉テレビ放送株式会社"
    ],
    "ends": null,
@@ -2709,7 +2760,7 @@
    "size": "50%OFF",
    "source": "LIMO | くらしとお金の経済メディア",
    "starts": null,
-   "title": "【えきねっと半額】人気の新幹線が50%OFF「トクだ値スペシャル28」発売！どのくらいお得に乗車できるのかLIMO独自にシミュレーションしてみた はやぶさ・こまち利用時の独自シミュレーション大公開 | LIMO | くらしとお金の経済メディア",
+   "title": "【えきねっと半額】人気の新幹線が50%OFF「トクだ値スペシャル28」発売！どのくらいお得に乗車できるのかLIMO独自にシミュレーションしてみた はやぶさ・こまち利用時の独自シミュレーション大公開",
    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE00VUFPTi1GUHVtNDVlVXZvQ3FGcDNGLXQxTllhcmhaVV9ac0tGSk8tRlRKMUotQ2pSSHdUUmVGS0RvMVBzakMxSzlsQWQ?oc=5"
   },
   {
@@ -3218,6 +3269,23 @@
    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5lWTFtZ2ZsYWsyc294OUdZdVRQWWxvSHpvQ05Vak9ueVY3SjBhRkJyaU1NYjYyZzlqR3p0RWl1RWczamc0a3NCVQ?oc=5"
   },
   {
+   "also": [
+    "時事ドットコム"
+   ],
+   "ends": null,
+   "home": false,
+   "kind": "鉄道・バス",
+   "nationwide": false,
+   "published": "2026-08-07",
+   "score": 16,
+   "service": "JR東日本",
+   "size": "",
+   "source": "PR TIMES",
+   "starts": null,
+   "title": "「えきねっと」で発売するWEB限定割引商品の発売・見直し等について",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBtQlBhTTY0bkRGNVhkN0VoZW9MVURfdE5rRFIyWmQ2QllucEp0bFF4VXF3TXpRLVlFdkhKQWpTdHQxVURwbG0xMkhmalViRU12aFJMY21yb2gzZGhsVy1mYUdWRVZyNlNEc1E?oc=5"
+  },
+  {
    "also": [],
    "ends": null,
    "home": false,
@@ -3354,21 +3422,6 @@
    "starts": "2026-07-31",
    "title": "【7月31日より】JR東日本「えきねっと」精神障害者割引乗車券の取り扱いを開始",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9pMVdqaWE0WFlyNEhNOEVleW15dXR0VE9sNFdTcFNwQm5XTXBFcWJmUzFTMUN5elIxVmFHUFZiRVlsRmdWMFE4V0ZoU1pVR1Y1TjRzMWx3?oc=5"
-  },
-  {
-   "also": [],
-   "ends": null,
-   "home": false,
-   "kind": "鉄道・バス",
-   "nationwide": false,
-   "published": "2026-08-07",
-   "score": 11,
-   "service": "JR東日本",
-   "size": "",
-   "source": "PR TIMES",
-   "starts": null,
-   "title": "「えきねっと」で発売するWEB限定割引商品の発売・見直し等について",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBtQlBhTTY0bkRGNVhkN0VoZW9MVURfdE5rRFIyWmQ2QllucEp0bFF4VXF3TXpRLVlFdkhKQWpTdHQxVURwbG0xMkhmalViRU12aFJMY21yb2gzZGhsVy1mYUdWRVZyNlNEc1E?oc=5"
   },
   {
    "also": [],
@@ -3577,6 +3630,7 @@
   "https://airstair.jp/yahoo-travel-timesale/",
   "https://airstair.jp/yahoo-travel/",
   "https://airstair.jp/year-end-new/",
+  "https://sky-budget.com/2026/10/15/ana-sale-oct2026/",
   "https://www.traicy.com/posts/20261013384829/",
   "https://www.traicy.com/posts/20261013384861/",
   "https://www.traicy.com/posts/20261014384588/",
@@ -3687,10 +3741,10 @@
  ],
  "stats": {
   "articles": 1448,
-  "deals": 222,
+  "deals": 225,
   "failed": 2,
   "fetched": 19,
-  "images": 30
+  "images": 31
  },
- "updated": "2026-10-15 06:14"
+ "updated": "2026-10-15 11:56"
 }
