@@ -333,8 +333,7 @@
   },
   {
    "also": [
-    "千葉テレビ放送株式会社",
-    "Ameba News [アメーバニュース]"
+    "千葉テレビ放送株式会社"
    ],
    "ends": null,
    "home": false,
@@ -446,7 +445,6 @@
   },
   {
    "also": [
-    "ニコニコニュース",
     "千葉テレビ放送株式会社"
    ],
    "ends": null,
@@ -724,7 +722,7 @@
   },
   {
    "also": [
-    "秋田経済新聞"
+    "PR TIMES"
    ],
    "ends": null,
    "home": true,
@@ -734,10 +732,10 @@
    "score": 47,
    "service": "",
    "size": "",
-   "source": "PR TIMES",
+   "source": "秋田経済新聞",
    "starts": "2026-10-01",
    "title": "「まだバレていない秋田県。得旅キャンペーン第2弾」が10月１日よりスタート 休暇村乳頭温泉郷では、「温泉ソムリエが語る 乳頭温泉郷案内付きプラン」をお日にち限定で販売",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBFRHNzSkhsVTRteEF1VUlQdmloYTdRSGdMT053bGkySmN2VjRHU1VTc09JeWUtZGpKN0xiWnlKWmJQcmd2dnN2VDdReVF2YV83a3MySnBZMkZxWWw2RjJWVGg2Yl9IZjNmSlE?oc=5"
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBDZnJYV2RSU3VyRjF6bWFJdTFMYXNFWjYya3NVRTRtMVZZM1hjdTY2UFFWRU9oa3ZBZXg2N3ZjaEJUelBqSlozdWVBb2cyWlZRZnc?oc=5"
   },
   {
    "also": [
@@ -1937,6 +1935,21 @@
    "nationwide": false,
    "published": "2026-09-14",
    "score": 27,
+   "service": "楽天トラベル",
+   "size": "5000円",
+   "source": "トラベル Watch",
+   "starts": null,
+   "title": "楽天トラベル、秋の札幌旅で5000円オフクーポン配布。定山渓の紅葉や市内散策、海鮮を楽しむモデルプランも",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA5anc4a1c2WjVrTHExTGpOQ25SMk1La19NUG1EVVlpb2tXWENkVXBGM1M4TDhvLWVIQzNJSWlDVUtBYWs0Z3pYdmMyMURUcmwtZzJKcER5TTM0X1VVaERKdG50RU5TVk9K?oc=5"
+  },
+  {
+   "also": [],
+   "ends": null,
+   "home": false,
+   "kind": "宿",
+   "nationwide": false,
+   "published": "2026-09-14",
+   "score": 27,
    "service": "じゃらん",
    "size": "50%OFF",
    "source": "トラベル Watch",
@@ -2239,6 +2252,21 @@
    "also": [],
    "ends": null,
    "home": false,
+   "kind": "航空券",
+   "nationwide": true,
+   "published": "2026-08-26",
+   "score": 23,
+   "service": "",
+   "size": "",
+   "source": "ほんみや宮崎",
+   "starts": null,
+   "title": "【宮崎8月26日】ANA国内線タイムセール開始！伊丹9,350円〜・那覇11,000円〜・羽田11,330円〜｜ほんみや宮崎",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSk9yS3FISDlUWVpaczNxeVlsei1IMWxBa2hzNkZlNjRyMUVuRWhHRkk0ZGdwNHZnb0xIVWVhQndCUTMyUTBCR2tRaF8zSWl5Y01zV1lUaDZEMzFlZFNJNVNFcmhPamtGd2tIMy1sVmZldFNmY2lRWUx0V19uY3R2Q1M1Z0NldTA?oc=5"
+  },
+  {
+   "also": [],
+   "ends": null,
+   "home": false,
    "kind": "ツアー",
    "nationwide": false,
    "published": "2026-08-26",
@@ -2396,8 +2424,7 @@
   },
   {
    "also": [
-    "CLASSY.[クラッシィ]",
-    "MANTANWEB"
+    "CLASSY.[クラッシィ]"
    ],
    "ends": null,
    "home": false,
@@ -2880,7 +2907,7 @@
    "score": 17,
    "service": "一休.com",
    "size": "",
-   "source": "airstair.jp",
+   "source": "民泊専門メディア Airstair",
    "starts": null,
    "title": "一休.comのセールはいつ？ 毎月1日・9日・19日の周期と2026年8月の開催スケジュール",
    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFB0S0pOOXFsQ1VxTXdjNjJGdGVHYUhSM1JDbnp5SWpQTUprS0dVaExzY0hqbXB5U21oeGxETnlUOHVUVmdZTnBv?oc=5"
@@ -3603,11 +3630,11 @@
   }
  ],
  "stats": {
-  "articles": 1446,
-  "deals": 217,
+  "articles": 1444,
+  "deals": 219,
   "failed": 2,
   "fetched": 19,
   "images": 29
  },
- "updated": "2026-10-17 19:03"
+ "updated": "2026-10-17 23:51"
 }
