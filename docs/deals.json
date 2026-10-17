@@ -187,21 +187,6 @@
   {
    "also": [],
    "ends": null,
-   "home": false,
-   "kind": "宿",
-   "nationwide": true,
-   "published": "2026-10-05",
-   "score": 67,
-   "service": "JTB",
-   "size": "最大50%OFF",
-   "source": "トラベル Watch",
-   "starts": null,
-   "title": "JTB「九州ふっこう応援割」まもなく宮崎県の予約スタート。国内ツアー（交通＋宿泊）が最大50％オフ",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0xY25HTG5NMDdsWDhJZXZYVTBNT1d1NXkxbEtVOXJSajVoeVlSZmh0ZFBqUlUzVXBFQ2FRMWNUUnc0R1hkQ3lwMnhjNGdIdDlxUUdoY1VJa1N6U19BVmF1ODQzcTE3bE94?oc=5"
-  },
-  {
-   "also": [],
-   "ends": null,
    "home": true,
    "image": "https://airstair.jp/images/2023/10/shutterstock_2066672006.webp",
    "kind": "宿",
@@ -232,6 +217,21 @@
    "starts": null,
    "title": "【2026年10月】ヤフートラベルのクーポン最新まとめ JAL早期予約 最大5,000円引き・宿クーポン・超得セール！",
    "url": "https://airstair.jp/yahoo-travel/"
+  },
+  {
+   "also": [],
+   "ends": null,
+   "home": false,
+   "kind": "宿",
+   "nationwide": true,
+   "published": "2026-10-14",
+   "score": 67,
+   "service": "",
+   "size": "",
+   "source": "るるぶWeb",
+   "starts": null,
+   "title": "全国自治体のお得な旅行クーポン・宿泊割引やふっこう割の最新情報！（10/14更新）",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA0OWtEeEpQd2RndWxfWFctV1lHWVhXaFNrVEI0dDRXbHVkV25ZTVFmTl83LVV5QzV2U0x6R1FuX3hhak15ak9nOXpIa25BUEZs?oc=5"
   },
   {
    "also": [],
@@ -270,7 +270,7 @@
    "home": false,
    "kind": "航空券",
    "nationwide": true,
-   "published": "2026-10-16",
+   "published": "2026-10-17",
    "score": 63,
    "service": "",
    "size": "",
@@ -382,6 +382,23 @@
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1uU05POXV4UUkxbVdQaXlzTnp1bDlhM1JTeUZSeXR2N2ZaWlhFSk9VU0laOW44dUh0OVVLSkhfSFZocGNRckVFeFM3V3Vla3gtTk15QUZRZw?oc=5"
   },
   {
+   "also": [
+    "千葉テレビ放送株式会社"
+   ],
+   "ends": null,
+   "home": false,
+   "kind": "宿",
+   "nationwide": false,
+   "published": "2026-10-07",
+   "score": 57,
+   "service": "じゃらん",
+   "size": "最大3万円",
+   "source": "トラベル Watch",
+   "starts": null,
+   "title": "じゃらん「九州ふっこう応援割」福岡県は明日予約スタート。最大3万円引き、セール併用でさらにお得",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBINldYcVVzVnJ6TWdKVXp2U3daWXlmTndNejlkbVo1OVVUVGoyRlBxQXBsMTFJUHpVNWNGc2NvNUE0R2tYcWZXbU8zNFBaLVhaRVViY2FGcjQ0MzFZNEJWakZURDMwM1Bm?oc=5"
+  },
+  {
    "also": [],
    "ends": null,
    "home": false,
@@ -443,7 +460,8 @@
   },
   {
    "also": [
-    "千葉テレビ放送株式会社"
+    "千葉テレビ放送株式会社",
+    "ニコニコニュース"
    ],
    "ends": null,
    "home": false,
@@ -518,21 +536,6 @@
    "starts": null,
    "title": "この夏、“まだバレてない秋田県”を楽しもう！宿泊料金が最大1万2000円割引になる「得旅キャンペーン」がスタート",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9pa2QzRnlFS0pmbS1tY0tYa2JneFlfall6UDJET3U4T25fUmY4ZG9YSWthdGM4WEJud3k5TkpTai1ic0xuMWNaaVRiOEIxa1FsZHotdWFB0gFbQVVfeXFMTzAwVEgzVDI1a0FxWWk1X3E4akx1RVVEeE5rZWtlWDdRTUgzbWhOckRzcklEYUJqaGpxOWlhWXUyOHZ6N1o5ZWtNSUpYVmxBbnRFYmJ0SGdSa2ZKVQ?oc=5"
-  },
-  {
-   "also": [],
-   "ends": null,
-   "home": false,
-   "kind": "宿",
-   "nationwide": false,
-   "published": "2026-10-08",
-   "score": 52,
-   "service": "るるぶトラベル",
-   "size": "最大60%OFF",
-   "source": "トラベル Watch",
-   "starts": null,
-   "title": "るるぶトラベル「九州ふっこう応援割」熊本県の予約スタート。宿泊料金が最大60％オフ、クーポンは自動適用",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4yLTFPT1lzU1o3OVFsNDVlM3BiZHg5b09JQnA2Y3V0VzZZTVRGMjAtS2NWZmdkTnd0ejRrUmc4Z2htSzVySkJkd2FQekVlNzB2LW5acVl1cWRPenVlOVBocmdORjh4Vmkw?oc=5"
   },
   {
    "also": [],
@@ -806,7 +809,6 @@
   },
   {
    "also": [
-    "千葉テレビ放送",
     "千葉テレビ放送株式会社"
    ],
    "ends": null,
@@ -824,8 +826,7 @@
   },
   {
    "also": [
-    "千葉テレビ放送株式会社",
-    "千葉テレビ放送"
+    "千葉テレビ放送株式会社"
    ],
    "ends": null,
    "home": false,
@@ -901,23 +902,6 @@
    "starts": "2026-10-05",
    "title": "旅行予約セール「じゃらんスペシャルウィーク」10月5日から。最大半額、九州ふっこう応援割との併用も一部可能",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB3REFFYmh4dklHdFVvdGNoeDR6aG9hT0hrZHcxWXhlekl1OEhEX1FNLXpabm9VVF80c2Y3eExKN04tM21kQ1Eycmc1M2hCZVM1T2VIQlp2Wlp2ZlF2bFdxZk0wVW5wVmxN?oc=5"
-  },
-  {
-   "also": [
-    "千葉テレビ放送株式会社"
-   ],
-   "ends": null,
-   "home": false,
-   "kind": "宿",
-   "nationwide": false,
-   "published": "2026-10-01",
-   "score": 42,
-   "service": "じゃらん",
-   "size": "最大2万円",
-   "source": "トラベル Watch",
-   "starts": null,
-   "title": "じゃらん「九州ふっこう応援割」福岡県は10月8日予約スタート。最大2万円引き、セール併用でさらにお得",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4xMHVNSzg4WGJ5dnpKeXJNRjF3Q3N5V2FXZ2tVQklPQmpBeVJMc2FoMXV4NGl1Z003TE9JNGxKWm1vQkRzQWs0Rm9QQlhrejZXWjlZR3pOUkNEM2UwYU5kMzBWTVIyR190?oc=5"
   },
   {
    "also": [],
@@ -1310,21 +1294,6 @@
    "starts": "2026-10-01",
    "title": "さとふる、株式会社リクルートとともに旅行に使えるお礼品「じゃらんふるさと納税クーポン」を10月1日より提供開始",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9mbkI2VlNGWHItdUNCaGZIZ2FnMU1OZWY4Tm5DTVBvck5nQV81MU9nSF9iTkRTNW13UWhwX2FwbnNIZkxURXhMQ2RXLWk1YURfMWZuMEE1Rk5lMGNEZkl1bHl5eG83UVA2Y3BXNnVsR3RVdw?oc=5"
-  },
-  {
-   "also": [],
-   "ends": null,
-   "home": false,
-   "kind": "鉄道・バス",
-   "nationwide": false,
-   "published": "2026-09-27",
-   "score": 31,
-   "service": "JR東日本",
-   "size": "50%OFF",
-   "source": "ファイナンシャルフィールド",
-   "starts": null,
-   "title": "【JR東日本】新幹線が「期間限定50％オフ」に!?“東京－新函館北斗”なら「2万4000円→1万1990円」に…ただし平日しか使えない？「トクだ値スペシャル28」の割引額・利用条件とは",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE11VGtnbkJ4Wl9ZUXJTS2s3R0o0RmxmWDhKRGtSSE9jNDhtYUc1b0s5ck1iaEJhYWtQbzViRm1XM19fV2xIeXl1TWVWaVBuZjd5NXFlZ29HSldQZkE?oc=5"
   },
   {
    "also": [],
@@ -1928,21 +1897,6 @@
    "starts": null,
    "title": "楽天トラベル、秋の湯河原旅行が最大5000円オフのクーポン配布中。ひとり旅も設定アリ",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBmRXZxQlBGQWF3cjB0UjRhYXhJeFBzenhQdUwxZEJwVHpVdW5fejUwRGtEN25mRHRxMHVMaG9rNi14RzhKWUs5NVRnYWhJYndQSXJjejJuZTRVN1M0TGRfdFZkWlNzdzdU?oc=5"
-  },
-  {
-   "also": [],
-   "ends": null,
-   "home": false,
-   "kind": "宿",
-   "nationwide": false,
-   "published": "2026-09-14",
-   "score": 27,
-   "service": "楽天トラベル",
-   "size": "5000円",
-   "source": "トラベル Watch",
-   "starts": null,
-   "title": "楽天トラベル、秋の札幌旅で5000円オフクーポン配布。定山渓の紅葉や市内散策、海鮮を楽しむモデルプランも",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA5anc4a1c2WjVrTHExTGpOQ25SMk1La19NUG1EVVlpb2tXWENkVXBGM1M4TDhvLWVIQzNJSWlDVUtBYWs0Z3pYdmMyMURUcmwtZzJKcER5TTM0X1VVaERKdG50RU5TVk9K?oc=5"
   },
   {
    "also": [],
@@ -3633,11 +3587,11 @@
   }
  ],
  "stats": {
-  "articles": 1451,
-  "deals": 219,
+  "articles": 1448,
+  "deals": 216,
   "failed": 2,
   "fetched": 19,
   "images": 29
  },
- "updated": "2026-10-17 05:26"
+ "updated": "2026-10-17 11:45"
 }
