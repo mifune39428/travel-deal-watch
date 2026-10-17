@@ -333,7 +333,8 @@
   },
   {
    "also": [
-    "千葉テレビ放送株式会社"
+    "千葉テレビ放送株式会社",
+    "Ameba News [アメーバニュース]"
    ],
    "ends": null,
    "home": false,
@@ -406,21 +407,6 @@
    "nationwide": false,
    "published": "2026-10-13",
    "score": 57,
-   "service": "じゃらん",
-   "size": "",
-   "source": "Dellows News",
-   "starts": null,
-   "title": "南あわじ市が宿泊予約に使えるじゃらんふるさと納税クーポンを提供",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE01aUsxc1AwWU1CVVVkVlBVa2lCRkY5Yk1JZHNHUE56d2Z4bGZ6X1RyV1lDVW5Rb1hyMEtybE56TUxJVW51UUFqSWJlUU9XVHRySGhKRlNqbGdYeFAyUTN0emQ3djk?oc=5"
-  },
-  {
-   "also": [],
-   "ends": null,
-   "home": false,
-   "kind": "宿",
-   "nationwide": false,
-   "published": "2026-10-13",
-   "score": 57,
    "service": "一休.com",
    "size": "",
    "source": "もとりょこblog -",
@@ -460,8 +446,8 @@
   },
   {
    "also": [
-    "千葉テレビ放送株式会社",
-    "ニコニコニュース"
+    "ニコニコニュース",
+    "千葉テレビ放送株式会社"
    ],
    "ends": null,
    "home": false,
@@ -490,6 +476,21 @@
    "starts": null,
    "title": "JAL、12月〜1月の国内線でタイムセール あすからJMB会員先行予約開始",
    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBxdHdJeU9mWTNmVG1CWUpHY1VUcGFobTdVV1JPeDNySFZEZ3p4OXM3aW5hSlc5T3B6TnN4blJabkRpcUZlWXhXRjVmWHNLUDY3VjRwTnZaYloyMEluT3hJ?oc=5"
+  },
+  {
+   "also": [],
+   "ends": null,
+   "home": false,
+   "kind": "航空券",
+   "nationwide": false,
+   "published": "2026-10-11",
+   "score": 53,
+   "service": "JAL",
+   "size": "",
+   "source": "Ameba News [アメーバニュース]",
+   "starts": null,
+   "title": "JAL、国際線特典航空券のタイムセールを実施欧米へ片道16,100マイルから",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5kZXBNQ1I1VHh3VUxLMXpDbEE5REFWazZxODhMdEFfWTI2U252eFBGZzFVZUJhQ2FnMFBiVnJtanp3VWhILTZjeXdGM3FEMXpySENQcmpPRXk?oc=5"
   },
   {
    "also": [],
@@ -536,6 +537,21 @@
    "starts": null,
    "title": "この夏、“まだバレてない秋田県”を楽しもう！宿泊料金が最大1万2000円割引になる「得旅キャンペーン」がスタート",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9pa2QzRnlFS0pmbS1tY0tYa2JneFlfall6UDJET3U4T25fUmY4ZG9YSWthdGM4WEJud3k5TkpTai1ic0xuMWNaaVRiOEIxa1FsZHotdWFB0gFbQVVfeXFMTzAwVEgzVDI1a0FxWWk1X3E4akx1RVVEeE5rZWtlWDdRTUgzbWhOckRzcklEYUJqaGpxOWlhWXUyOHZ6N1o5ZWtNSUpYVmxBbnRFYmJ0SGdSa2ZKVQ?oc=5"
+  },
+  {
+   "also": [],
+   "ends": null,
+   "home": false,
+   "kind": "宿",
+   "nationwide": false,
+   "published": "2026-10-08",
+   "score": 52,
+   "service": "るるぶトラベル",
+   "size": "最大60%OFF",
+   "source": "トラベル Watch",
+   "starts": null,
+   "title": "るるぶトラベル「九州ふっこう応援割」熊本県の予約スタート。宿泊料金が最大60％オフ、クーポンは自動適用",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4yLTFPT1lzU1o3OVFsNDVlM3BiZHg5b09JQnA2Y3V0VzZZTVRGMjAtS2NWZmdkTnd0ejRrUmc4Z2htSzVySkJkd2FQekVlNzB2LW5acVl1cWRPenVlOVBocmdORjh4Vmkw?oc=5"
   },
   {
    "also": [],
@@ -880,6 +896,21 @@
    "published": "2026-09-04",
    "score": 42,
    "service": "楽天トラベル",
+   "size": "最大35%OFF",
+   "source": "TRAICY（トライシー）",
+   "starts": null,
+   "title": "「楽天トラベル スーパーSALE」、今夜8時から 国内宿泊は最大35％割引",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBRbGxWUFB5d3hUXzZ6dHFTNnF4YWNuUVJfcEF4QkxWQXgwU1F3NTd1SXlLQlMzWUFvOFZJaHBCLWhqT2Y5NHBMQ1h3VUtfbTRkZFBueW9yTQ?oc=5"
+  },
+  {
+   "also": [],
+   "ends": null,
+   "home": false,
+   "kind": "宿",
+   "nationwide": true,
+   "published": "2026-09-04",
+   "score": 42,
+   "service": "楽天トラベル",
    "size": "30%OFF",
    "source": "東京バーゲンマニア",
    "starts": null,
@@ -1165,21 +1196,6 @@
    "starts": null,
    "title": "【2026年】宮崎県の旅行支援「ひなタビ」みやざき宿泊キャンペーン 第2期は2027年1月4日宿泊分からに変更、第1期は9月30日宿泊分で終了",
    "url": "https://airstair.jp/miyazaki-campaign/"
-  },
-  {
-   "also": [],
-   "ends": null,
-   "home": false,
-   "kind": "航空券",
-   "nationwide": true,
-   "published": "2026-09-23",
-   "score": 33,
-   "service": "",
-   "size": "",
-   "source": "アジアトラベルノート",
-   "starts": null,
-   "title": "タイ国際航空、国内線セールを10月まで延長 諸税込み1700バーツ～",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPOU5za3lGVUFBVzZfcy1pMDBZcVdVVjVDUEpBTDJORHNOc3N3T3EtWUJYN0J4X0lVWnVzUlF1WkU1R3hyR1JTdVcxNHp4YkM2dVlNNWZMZzI1T0hJT0FLUFNRaWpNaDA1bDZiZWdrS1JEOFltT0x4b3lUUVdXbGFQeXpn?oc=5"
   },
   {
    "also": [],
@@ -1536,6 +1552,21 @@
    "starts": null,
    "title": "楽天トラベル観光体験でUSJのスタジオ・パスが販売開始。宿泊は最大25%オフ",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBaWDBIRlh6VURKa0JFdW85NEEtRng1YXRsZU9mSjRPZDBHbVBiWHBCZkQ1NzliY1NkV0F1cUxmaTM4aU9jdmZkU0JqQ3VCelBYYWxFR1luSW5tVkxqdkctZGVQaHI0UQ?oc=5"
+  },
+  {
+   "also": [],
+   "ends": null,
+   "home": false,
+   "kind": "宿",
+   "nationwide": false,
+   "published": "2026-07-14",
+   "score": 27,
+   "service": "JTB",
+   "size": "半額級",
+   "source": "ねとらぼ",
+   "starts": null,
+   "title": "【付録】宝島チャンネルで「大創業祭」開催中 人気の付録アイテムが半額に！ 話題の“JTB旅バッグ”もお買い得【2024年9月】（1/2） | 雑誌・ムック Fav-Log by ITmedia",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1Qa1JyMGJ3czhpMFBBWnpwb0tvdGppMXdsUXExcUFaMmUxVkxwWDdNdXJfZGprUlVuVkJ1alFXejg4b3VyMDlWM3BRcmJUQ2RiZVlXaGlsS1R4c1dL0gFiQVVfeXFMTWl4TjVIY05qUEcyVXhFUlpxUnpwTXBieV83akhKTWxLU2ZpenJfT2pZT0NxZlNvRUFFNTd5SUhrTVRsY2NoaFB0UTNLT29PelQxNVdsUE1zQTQ1ZFM4eVRFckE?oc=5"
   },
   {
    "also": [],
@@ -2208,21 +2239,6 @@
    "also": [],
    "ends": null,
    "home": false,
-   "kind": "航空券",
-   "nationwide": true,
-   "published": "2026-08-26",
-   "score": 23,
-   "service": "",
-   "size": "",
-   "source": "ほんみや宮崎",
-   "starts": null,
-   "title": "【宮崎8月26日】ANA国内線タイムセール開始！伊丹9,350円〜・那覇11,000円〜・羽田11,330円〜｜ほんみや宮崎",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSk9yS3FISDlUWVpaczNxeVlsei1IMWxBa2hzNkZlNjRyMUVuRWhHRkk0ZGdwNHZnb0xIVWVhQndCUTMyUTBCR2tRaF8zSWl5Y01zV1lUaDZEMzFlZFNJNVNFcmhPamtGd2tIMy1sVmZldFNmY2lRWUx0V19uY3R2Q1M1Z0NldTA?oc=5"
-  },
-  {
-   "also": [],
-   "ends": null,
-   "home": false,
    "kind": "ツアー",
    "nationwide": false,
    "published": "2026-08-26",
@@ -2607,7 +2623,7 @@
    "size": "50%OFF",
    "source": "LIMO | くらしとお金の経済メディア",
    "starts": null,
-   "title": "【えきねっと半額】人気の新幹線が50%OFF「トクだ値スペシャル28」発売！どのくらいお得に乗車できるのかLIMO独自にシミュレーションしてみた はやぶさ・こまち利用時の独自シミュレーション大公開 | LIMO | くらしとお金の経済メディア",
+   "title": "【えきねっと半額】人気の新幹線が50%OFF「トクだ値スペシャル28」発売！どのくらいお得に乗車できるのかLIMO独自にシミュレーションしてみた はやぶさ・こまち利用時の独自シミュレーション大公開",
    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE00VUFPTi1GUHVtNDVlVXZvQ3FGcDNGLXQxTllhcmhaVV9ac0tGSk8tRlRKMUotQ2pSSHdUUmVGS0RvMVBzakMxSzlsQWQ?oc=5"
   },
   {
@@ -2864,7 +2880,7 @@
    "score": 17,
    "service": "一休.com",
    "size": "",
-   "source": "民泊専門メディア Airstair",
+   "source": "airstair.jp",
    "starts": null,
    "title": "一休.comのセールはいつ？ 毎月1日・9日・19日の周期と2026年8月の開催スケジュール",
    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFB0S0pOOXFsQ1VxTXdjNjJGdGVHYUhSM1JDbnp5SWpQTUprS0dVaExzY0hqbXB5U21oeGxETnlUOHVUVmdZTnBv?oc=5"
@@ -3587,11 +3603,11 @@
   }
  ],
  "stats": {
-  "articles": 1448,
-  "deals": 216,
+  "articles": 1446,
+  "deals": 217,
   "failed": 2,
   "fetched": 19,
   "images": 29
  },
- "updated": "2026-10-17 11:45"
+ "updated": "2026-10-17 19:03"
 }
