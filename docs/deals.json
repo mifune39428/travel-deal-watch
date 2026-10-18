@@ -168,21 +168,6 @@
   {
    "also": [],
    "ends": null,
-   "home": false,
-   "kind": "宿",
-   "nationwide": true,
-   "published": "2026-10-05",
-   "score": 67,
-   "service": "JTB",
-   "size": "最大50%OFF",
-   "source": "トラベル Watch",
-   "starts": null,
-   "title": "JTB「九州ふっこう応援割」まもなく宮崎県の予約スタート。国内ツアー（交通＋宿泊）が最大50％オフ",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0xY25HTG5NMDdsWDhJZXZYVTBNT1d1NXkxbEtVOXJSajVoeVlSZmh0ZFBqUlUzVXBFQ2FRMWNUUnc0R1hkQ3lwMnhjNGdIdDlxUUdoY1VJa1N6U19BVmF1ODQzcTE3bE94?oc=5"
-  },
-  {
-   "also": [],
-   "ends": null,
    "home": true,
    "image": "https://airstair.jp/images/2023/10/shutterstock_2066672006.webp",
    "kind": "宿",
@@ -671,23 +656,6 @@
   },
   {
    "also": [
-    "秋田経済新聞"
-   ],
-   "ends": null,
-   "home": true,
-   "kind": "宿",
-   "nationwide": false,
-   "published": "2026-09-28",
-   "score": 47,
-   "service": "",
-   "size": "",
-   "source": "PR TIMES",
-   "starts": "2026-10-01",
-   "title": "「まだバレていない秋田県。得旅キャンペーン第2弾」が10月１日よりスタート 休暇村乳頭温泉郷では、「温泉ソムリエが語る 乳頭温泉郷案内付きプラン」をお日にち限定で販売",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBFRHNzSkhsVTRteEF1VUlQdmloYTdRSGdMT053bGkySmN2VjRHU1VTc09JeWUtZGpKN0xiWnlKWmJQcmd2dnN2VDdReVF2YV83a3MySnBZMkZxWWw2RjJWVGg2Yl9IZjNmSlE?oc=5"
-  },
-  {
-   "also": [
     "民泊専門メディア Airstair"
    ],
    "ends": null,
@@ -882,6 +850,21 @@
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE90a1QyOEZCRUgwYzNxb1N6NVZCRGx0R3cwN3ppZnV1X1lOZUF6SjgwbXFsSDFlVlhqQVVxU20yaHZDLU9vaEJfbFBNVURlTHlBSkt3?oc=5"
   },
   {
+   "also": [],
+   "ends": null,
+   "home": true,
+   "kind": "宿",
+   "nationwide": false,
+   "published": "2026-09-28",
+   "score": 42,
+   "service": "",
+   "size": "",
+   "source": "秋田経済新聞",
+   "starts": "2026-10-01",
+   "title": "「まだバレていない秋田県。得旅キャンペーン第2弾」が10月１日よりスタート 休暇村乳頭温泉郷では、「温泉ソムリエが語る 乳頭温泉郷案内付きプラン」をお日にち限定で販売",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBDZnJYV2RSU3VyRjF6bWFJdTFMYXNFWjYya3NVRTRtMVZZM1hjdTY2UFFWRU9oa3ZBZXg2N3ZjaEJUelBqSlozdWVBb2cyWlZRZnc?oc=5"
+  },
+  {
    "also": [
     "千葉テレビ放送株式会社"
    ],
@@ -928,21 +911,6 @@
    "starts": null,
    "title": "楽天トラベル「5と0のつく日」次回いつ？ エントリーやお得な予約方法、クーポン併用など",
    "url": "https://airstair.jp/rakuten-50luxday/"
-  },
-  {
-   "also": [],
-   "ends": null,
-   "home": false,
-   "kind": "宿",
-   "nationwide": false,
-   "published": "2026-10-08",
-   "score": 42,
-   "service": "日本旅行",
-   "size": "",
-   "source": "ライブドアニュース",
-   "starts": null,
-   "title": "日本旅行、「九州ふっこう応援割」を10月8日午後2時販売開始 長崎県対象",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBzVFZtbjJMVHd0MHFKRy1zcGVfZXpiS2IwRXQydjRWcHhhVnhucUVMc1pqbHFkME1GX3Z4YzFqaHQ1bjBWaEhhVXFka3pmTWtkeWVtcDFsNXV0N3dtV2Iw?oc=5"
   },
   {
    "also": [
@@ -1163,6 +1131,23 @@
    "url": "https://airstair.jp/miyazaki-campaign/"
   },
   {
+   "also": [
+    "ポイ探ニュース"
+   ],
+   "ends": null,
+   "home": false,
+   "kind": "鉄道・バス",
+   "nationwide": false,
+   "published": "2026-10-02",
+   "score": 36,
+   "service": "JR東日本",
+   "size": "半額級",
+   "source": "トラベル Watch",
+   "starts": null,
+   "title": "上越・北陸新幹線が半額「新幹線eチケット（トクだ値スペシャル28）」発売。東京～金沢は片道1万4400円→7200円に",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1nSWRJcllhaVhfOEdMWmh4RE1JNjc2WlppOTVDVmU4T3hNbi1Tb01veHppU3BFalJ5bEZERDBmdDU4TGkzeU9wTWZGSF9DTGg1dFRIU0tfaF9NMW9wRVllMmEzZjczc2kx?oc=5"
+  },
+  {
    "also": [],
    "ends": null,
    "home": false,
@@ -1276,8 +1261,8 @@
   },
   {
    "also": [
-    "神戸経済新聞",
-    "MANTANWEB"
+    "時事ドットコム",
+    "神戸経済新聞"
    ],
    "ends": null,
    "home": false,
@@ -1298,14 +1283,14 @@
    "home": false,
    "kind": "鉄道・バス",
    "nationwide": false,
-   "published": "2026-10-02",
+   "published": "2026-09-27",
    "score": 31,
    "service": "JR東日本",
-   "size": "半額級",
-   "source": "トラベル Watch",
+   "size": "50%OFF",
+   "source": "ファイナンシャルフィールド",
    "starts": null,
-   "title": "上越・北陸新幹線が半額「新幹線eチケット（トクだ値スペシャル28）」発売。東京～金沢は片道1万4400円→7200円に",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1nSWRJcllhaVhfOEdMWmh4RE1JNjc2WlppOTVDVmU4T3hNbi1Tb01veHppU3BFalJ5bEZERDBmdDU4TGkzeU9wTWZGSF9DTGg1dFRIU0tfaF9NMW9wRVllMmEzZjczc2kx?oc=5"
+   "title": "【JR東日本】新幹線が「期間限定50％オフ」に!?“東京－新函館北斗”なら「2万4000円→1万1990円」に…ただし平日しか使えない？「トクだ値スペシャル28」の割引額・利用条件とは",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE11VGtnbkJ4Wl9ZUXJTS2s3R0o0RmxmWDhKRGtSSE9jNDhtYUc1b0s5ck1iaEJhYWtQbzViRm1XM19fV2xIeXl1TWVWaVBuZjd5NXFlZ29HSldQZkE?oc=5"
   },
   {
    "also": [],
@@ -1939,21 +1924,6 @@
    "starts": null,
    "title": "じゃらんnet「九州ふっこう応援割」予約スタート。熊本・鹿児島は最大60％オフ、そのほか5県は最大50％オフ",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1jRjJSN1R6Tkp0Mmd6RkVNc1FkeW5yRHhma2p1TTJCdlRIVTRrTlZqSTV5bk5YODFubXRoS2hYMm54ZEhZbHlXV0JrN0k2NWxRTnVuVzJ4Q1dIUGllaG9maTN0c2Q3ckx0?oc=5"
-  },
-  {
-   "also": [],
-   "ends": null,
-   "home": false,
-   "kind": "宿",
-   "nationwide": false,
-   "published": "2026-09-16",
-   "score": 27,
-   "service": "じゃらん",
-   "size": "最大60%OFF",
-   "source": "トラベル Watch",
-   "starts": null,
-   "title": "じゃらんnet「九州ふっこう応援割」熊本の予約受付を再開。このあと10時ごろ、県内の宿泊が最大60％オフ",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9DekdCX1JqVlRPalQ0RUE5YUlLc2RtYXZBT21sRUVQaWtKMFVFOVZpMGlMLU5GcGRhU1lVQnFDajJtOWo2RG9tSTdJNEhKSzBkU1hiZU1ER3luZVJoWmlENkhwUHVtNHI1?oc=5"
   },
   {
    "also": [],
@@ -3584,11 +3554,11 @@
   }
  ],
  "stats": {
-  "articles": 1448,
-  "deals": 216,
+  "articles": 1447,
+  "deals": 214,
   "failed": 2,
   "fetched": 19,
   "images": 26
  },
- "updated": "2026-10-19 00:17"
+ "updated": "2026-10-19 05:00"
 }
