@@ -131,7 +131,8 @@
   },
   {
    "also": [
-    "千葉テレビ放送株式会社"
+    "千葉テレビ放送株式会社",
+    "ライブドアニュース"
    ],
    "ends": "2026-10-21",
    "home": false,
@@ -1190,6 +1191,21 @@
    "starts": null,
    "title": "【2ページ目】全国自治体のお得な旅行クーポン・宿泊割引最新情報！（9/30更新）",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBsaDdJeVcxZlV4Wm5mQWtfU3paSml4aFV3bGRBWXhJS2JGam1KUTZhZ2JtbnZKZjhITENDdndxYjZwREVnY0xYOFFxb1RDd2RBRmtXX0pFRF9qUQ?oc=5"
+  },
+  {
+   "also": [],
+   "ends": null,
+   "home": false,
+   "kind": "宿",
+   "nationwide": false,
+   "published": "2026-10-01",
+   "score": 37,
+   "service": "楽天トラベル",
+   "size": "最大30%OFF",
+   "source": "トラベル Watch",
+   "starts": null,
+   "title": "楽天トラベル、毎日最大30％オフ「オータムSALE」。九州ふっこう応援割とあわせて要チェック！ レンタカー最大45％オフほか",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9oQzZHa1BybmNHTVRnSHpwUXVRbUpHdVN5TDVrTUkwMERZX3BpaXBmUmphT1QxVzBYOXdiWjhydU9tVUFWbk12eXJDWFpKTFBwSnRkYVRRa1FOeUFjTFA3Z1dzOW5sZWZD?oc=5"
   },
   {
    "also": [],
@@ -2507,23 +2523,6 @@
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5CU19DcnE1dWxmZmg1Unk1TTBWdW1KckRnNy0yNzRLd2JYS05JaUg2enB3UU5uVkN0SlRTTDBIcGZXQ1RaWXhURkRjZ0pvZnlOT0ZmcV96RQ?oc=5"
   },
   {
-   "also": [
-    "ライブドアニュース"
-   ],
-   "ends": null,
-   "home": false,
-   "kind": "宿",
-   "nationwide": false,
-   "published": "2026-09-04",
-   "score": 22,
-   "service": "JTB",
-   "size": "",
-   "source": "るるぶWeb",
-   "starts": null,
-   "title": "【2026年10月最新】JTBのクーポンコード一覧！｜初回・2回目以降の割引情報＆使い方をまとめて紹介",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1FME1hOG5xd3pOZmkyUUk3dU5ZNkRUa1NwTi01MzdfM1o4cmh1aUkyLXgyWmZ0WlBFNXBkT282R09GYWtSOW5JUWlNU1BqeUhh?oc=5"
-  },
-  {
    "also": [],
    "ends": null,
    "home": false,
@@ -3140,6 +3139,21 @@
    "home": false,
    "kind": "宿",
    "nationwide": false,
+   "published": "2026-09-04",
+   "score": 17,
+   "service": "JTB",
+   "size": "",
+   "source": "るるぶWeb",
+   "starts": null,
+   "title": "【2026年10月最新】JTBのクーポンコード一覧！｜初回・2回目以降の割引情報＆使い方をまとめて紹介",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1FME1hOG5xd3pOZmkyUUk3dU5ZNkRUa1NwTi01MzdfM1o4cmh1aUkyLXgyWmZ0WlBFNXBkT282R09GYWtSOW5JUWlNU1BqeUhh?oc=5"
+  },
+  {
+   "also": [],
+   "ends": null,
+   "home": false,
+   "kind": "宿",
+   "nationwide": false,
    "published": "2026-09-07",
    "score": 17,
    "service": "Yahoo!トラベル",
@@ -3726,11 +3740,11 @@
   }
  ],
  "stats": {
-  "articles": 1440,
-  "deals": 224,
+  "articles": 1437,
+  "deals": 225,
   "failed": 2,
   "fetched": 19,
   "images": 32
  },
- "updated": "2026-10-21 01:15"
+ "updated": "2026-10-21 06:10"
 }
