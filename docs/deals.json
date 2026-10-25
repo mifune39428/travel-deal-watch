@@ -64,24 +64,6 @@
  ],
  "deals": [
   {
-   "also": [
-    "sky-budget スカイバジェット"
-   ],
-   "ends": null,
-   "home": false,
-   "image": "https://sky-budget.com/wp-content/uploads/2026/08/IMG_0181-scaled.jpg",
-   "kind": "ツアー",
-   "nationwide": true,
-   "published": "2026-10-23",
-   "score": 83,
-   "service": "JAL",
-   "size": "最大3万円",
-   "source": "sky-budget",
-   "starts": null,
-   "title": "JAL、国内ツアー「ダイナミックパッケージ」の期間限定タイムセールを開始 最大3万円引きクーポンも配布",
-   "url": "https://sky-budget.com/2026/10/23/jal-time-sale-2026/"
-  },
-  {
    "also": [],
    "ends": null,
    "home": true,
@@ -129,6 +111,21 @@
   {
    "also": [],
    "ends": null,
+   "home": false,
+   "kind": "ツアー",
+   "nationwide": true,
+   "published": "2026-10-23",
+   "score": 78,
+   "service": "JAL",
+   "size": "最大3万円",
+   "source": "sky-budget スカイバジェット",
+   "starts": null,
+   "title": "JAL、国内ツアー「ダイナミックパッケージ」の期間限定タイムセールを開始 最大3万円引きクーポンも配布",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9EUWxIcjhlaTlUMEp3dF84cDh5M3hYOUQ0RHp2UUVxMzZXRlV6c2k4ei1ZbmV3aGhYaW5UanNLUDAtZ0hKdVQ5b2V4OWJXSElfLXZ0dnRvNndvbWhaNGx0bzFqSQ?oc=5"
+  },
+  {
+   "also": [],
+   "ends": null,
    "home": true,
    "kind": "宿",
    "nationwide": false,
@@ -156,7 +153,7 @@
    "source": "TRAICY（トライシー）",
    "starts": null,
    "title": "じゃらんnet、「じゃらんのお得な10日間」開催 最大36％お得に",
-   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFB4cWphNzYySDVvQVVMZWtMdnVfZy1zRlFXclVJYUlOS2xXOTU2VDVOMVphZ3RUblpCT2laNU9ZeXJ5LXkzclNB?oc=5"
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9fQkZPVjYzcEEzMC1KZ3Z5S1J1ZFhIY2ZuSTg2c3dDRVNlajA1VE1vSlZobnlPejNpUzR3R3lhZDA5T3BhbVc2VWpoaHJMMER5S0lNS1Vlbw?oc=5"
   },
   {
    "also": [],
@@ -176,7 +173,7 @@
   {
    "also": [
     "Ameba News [アメーバニュース]",
-    "千葉テレビ放送"
+    "千葉テレビ放送株式会社"
    ],
    "ends": "2026-10-29",
    "home": false,
@@ -208,7 +205,8 @@
   },
   {
    "also": [
-    "TRAICY（トライシー）"
+    "TRAICY（トライシー）",
+    "Ameba News [アメーバニュース]"
    ],
    "ends": null,
    "home": false,
@@ -312,11 +310,11 @@
    "published": "2026-10-20",
    "score": 67,
    "service": "じゃらん",
-   "size": "半額級",
+   "size": "最大2万円",
    "source": "トラベラーズナビ",
    "starts": null,
-   "title": "じゃらんスペシャルウィーク、次回開催時も速報！宿泊半額プランや高額旅行クーポン・旅行支援併用でお得",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE53akh5UDV5YV9KaWpWdnJ0bVRUM2hOa1ZhMDlZVU9qeExfdHZjMFFRamEzNjQ1NGRPQjMwNWFENF85S0lPSkZaOXlJNTVuQTJBTDBycWRRNVpQN001TGc?oc=5"
+   "title": "じゃらんクーポンフェス、次回開催時も速報！宿泊最大2万円割引、旅行支援やポイント還元と併用可",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5mTThJSXhaY295aGplb2hWUWhWYTVLOW9XTGdVTmpIV0NRdmdVTzRLdHIzS0Y4UTU5NkVQTG9qaWZ2aFRjZWtnOXFwQnRBdzczZjBV?oc=5"
   },
   {
    "also": [],
@@ -327,11 +325,11 @@
    "published": "2026-10-20",
    "score": 67,
    "service": "じゃらん",
-   "size": "最大2万円",
+   "size": "半額級",
    "source": "トラベラーズナビ",
    "starts": null,
-   "title": "じゃらんクーポンフェス、次回開催時も速報！宿泊最大2万円割引、旅行支援やポイント還元と併用可",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5mTThJSXhaY295aGplb2hWUWhWYTVLOW9XTGdVTmpIV0NRdmdVTzRLdHIzS0Y4UTU5NkVQTG9qaWZ2aFRjZWtnOXFwQnRBdzczZjBV?oc=5"
+   "title": "じゃらんスペシャルウィーク、次回開催時も速報！宿泊半額プランや高額旅行クーポン・旅行支援併用でお得",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE53akh5UDV5YV9KaWpWdnJ0bVRUM2hOa1ZhMDlZVU9qeExfdHZjMFFRamEzNjQ1NGRPQjMwNWFENF85S0lPSkZaOXlJNTVuQTJBTDBycWRRNVpQN001TGc?oc=5"
   },
   {
    "also": [],
@@ -844,6 +842,21 @@
    "home": false,
    "kind": "宿",
    "nationwide": false,
+   "published": "2026-10-22",
+   "score": 52,
+   "service": "",
+   "size": "",
+   "source": "トラベラーズナビ",
+   "starts": null,
+   "title": "山口県の宿泊割引クーポン・旅行支援情報まとめ｜GoToやまぐち、旅々やまぐち割など観光キャンペーン一覧",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBuUnhGVm55Z3R6RFhUb3lLOVZsa2ZrX0dPUlZyZzVNNFh4bVg2WDBpQVZBZy1TT2J4QWZHQWM3ZC1Sdk1aQVVnQVhHbHRTc1JIdHFwRV9pYkc3OEJvTnNwcjlQZw?oc=5"
+  },
+  {
+   "also": [],
+   "ends": null,
+   "home": false,
+   "kind": "宿",
+   "nationwide": false,
    "published": "2026-10-25",
    "score": 52,
    "service": "",
@@ -912,21 +925,6 @@
    "starts": null,
    "title": "【10月16日12時開始】Peach国内線セール！宮崎〜大阪（関西）も対象、19日まで｜ほんみや宮崎",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdmdfME5oVGhiWnpfSWZoNXhOOVBzaEg2WmUza1FpSDdRdzE0azMyZ1R1aWR3M2dRY0hQVF9Ub3BJYnllZm9UQktnOUJjRktURnFsaVpMMFAxbjRWS21vZTBONjc2MzVNcktVUUtDUUVDaGh0WVgwcWRwazNqM3NjTXhnNDQwRmZi?oc=5"
-  },
-  {
-   "also": [],
-   "ends": null,
-   "home": false,
-   "kind": "航空券",
-   "nationwide": true,
-   "published": "2026-10-17",
-   "score": 48,
-   "service": "",
-   "size": "",
-   "source": "ほんみや宮崎",
-   "starts": "2026-10-16",
-   "title": "【10月16日開始】ANA国内線タイムセール！宮崎→大阪9,350円～、東京11,000円～、沖縄11,550円～｜ほんみや宮崎",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQemJ1aXBXZXVZaXBoTktyQnVibFRzaHZvN1FjeHF0NHcyS3N5dlhmdG4zbVZEZHhpUmRVb3pFMGVzenRvNnMzQXVUY01MSm10QXVfWjh5emZIcnY0bTJfS183M0hiRzlXWDVIbk1JaDg2WkFxcVBzVURqUWZDSmF6VzdXT2t2MXpiQUNxMnplOVZDZw?oc=5"
   },
   {
    "also": [],
@@ -1063,10 +1061,10 @@
    "score": 47,
    "service": "",
    "size": "",
-   "source": "ニコニコニュース",
+   "source": "岩手日報",
    "starts": "2026-10-01",
-   "title": "「まだバレていない秋田県。得旅キャンペーン第2弾」が10月１日よりスタート 休暇村乳頭温泉郷では、「温泉ソムリエが語る",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1LSFdHM3pRTmxPYzVMeXRESGlkRmdOdEUtcjItV3hjZ1ZDTXExMWRoVjNGbWRxUG1pa2Z0R1Fyak96cHFwOWpnSW1KOEQ2cG5HOGZ2eg?oc=5"
+   "title": "「まだバレていない秋田県。得旅キャンペーン第2弾」が10月１日よりスタート 休暇村乳頭温泉郷では、「温泉ソムリエが語る 乳頭温泉郷案内付きプラン」をお日にち限定で販売",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBZNzdmQm5tTjltMnNHMG5QQ3JhWFg1N204eGtjNGp1WjRSejJlM3lDeEpQR0xLM1J4Y0gteFJpdHZvV2pqY2ZSQjI5MTNGUVpwek45Mmhn?oc=5"
   },
   {
    "also": [
@@ -2804,6 +2802,21 @@
    "ends": null,
    "home": false,
    "kind": "航空券",
+   "nationwide": true,
+   "published": "2026-09-09",
+   "score": 23,
+   "service": "",
+   "size": "",
+   "source": "ほんみや宮崎",
+   "starts": null,
+   "title": "JAL国内線タイムセール一般販売は9月9日だけ！宮崎－福岡5,940円、羽田11,990円｜ほんみや宮崎",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOS2pCNkg5OWw1VkRsMWt2dE0zTjJvWWo3enFYd3E3YzBVTWg2RHpUZWZxaUVjQkdjUmVYUHRJVXNYWWxzb1lYZXJxSGlmTHZVaEF6OTRob0lLQVhleV91eFlsWTJNNUZFa0l3SnlPVFBYWDhUYk5SZV9qR01xTDhXT2Z1S0l5SG9PNDR2V2RQQXo?oc=5"
+  },
+  {
+   "also": [],
+   "ends": null,
+   "home": false,
+   "kind": "航空券",
    "nationwide": false,
    "published": "2026-10-02",
    "score": 23,
@@ -2930,6 +2943,21 @@
    "home": false,
    "kind": "宿",
    "nationwide": false,
+   "published": "2026-09-10",
+   "score": 22,
+   "service": "",
+   "size": "最大8,000円",
+   "source": "トラベラーズナビ",
+   "starts": null,
+   "title": "鹿児島県「夏のかごしま宿泊割2026」最大8,000円OFF（南の宝箱）",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA0ZDJsLXV3V29ybUgzSm9YZVpwQVF6NkdpbU9vUkx0aEczNWt6azRmalF4OE9aUk4xS01WSVBpUks2cXRzTnNaX2R3UEhzNFVxYTNCZmZYZw?oc=5"
+  },
+  {
+   "also": [],
+   "ends": null,
+   "home": false,
+   "kind": "宿",
+   "nationwide": false,
    "published": "2026-09-14",
    "score": 22,
    "service": "",
@@ -2938,6 +2966,21 @@
    "starts": null,
    "title": "鹿児島県内の宿泊が最大60％オフ「かごしま観光応援割」本日予約スタート。九州ふっこう応援割とは別の旅行支援策",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1HZzUyQ3pHS0g2RmtXdUUxcDJ4ZjF0UGd5aFQ4a25idGhQTXZVVDdmLTZUNFpVYkpOYmVQLUZkQmJ0dnMyVEdDbVBKU1FHUG5CVTNqRHZ0OXlYYXhtMlVxNGZHOHFTWmJ5?oc=5"
+  },
+  {
+   "also": [],
+   "ends": null,
+   "home": false,
+   "kind": "宿",
+   "nationwide": false,
+   "published": "2026-09-27",
+   "score": 22,
+   "service": "",
+   "size": "",
+   "source": "トラベラーズナビ",
+   "starts": null,
+   "title": "宮崎県の宿泊割引クーポン・旅行支援情報まとめ｜みやざき割など観光キャンペーン一覧",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE03V255RGtmNy02eXJzVTQ4cHdyZlJ0bnpJdlRrZzBIY0RvelZJRmwwZjFoM0dCV3JPdXJIY1ExcUdteVhpNXQzcERqdXNlcDRROGN4eHdtRER5cGJReVlXa0hB?oc=5"
   },
   {
    "also": [],
@@ -2960,6 +3003,21 @@
    "home": false,
    "kind": "宿",
    "nationwide": false,
+   "published": "2026-09-28",
+   "score": 22,
+   "service": "",
+   "size": "",
+   "source": "トラベラーズナビ",
+   "starts": null,
+   "title": "千葉県の宿泊割引クーポン・旅行支援情報まとめ！GoToトラベルや千葉とく旅など観光キャンペーン一覧",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB5Y3FXaFVYa1hXVld1OVJqcG8wVWFzc0VRdzdpM0l6NkFJd0N2cUNVTG0tMjYtTmZJbXRDV25taHF1R0NKMEcwWi0tdkw2YkNnT0E?oc=5"
+  },
+  {
+   "also": [],
+   "ends": null,
+   "home": false,
+   "kind": "宿",
+   "nationwide": false,
    "published": "2026-10-01",
    "score": 22,
    "service": "",
@@ -2968,6 +3026,36 @@
    "starts": null,
    "title": "東京都「八丈島・青ヶ島の観光復興キャンペーン」ツアーや宿泊割引クーポンで誘客促進",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE43Z2drLVBOdm5LX3hEZklLLUxMc2pObUtCUkhIMU5lMkpzYkdDZnoxNUg1WTA0ck5MY2dPdFBLZFpIRmtPUV9xNWdUVUlqd3RtMkpBemtrOW1ZenplcWRrZV91Sm5pS2JJ?oc=5"
+  },
+  {
+   "also": [],
+   "ends": null,
+   "home": false,
+   "kind": "宿",
+   "nationwide": false,
+   "published": "2026-10-01",
+   "score": 22,
+   "service": "",
+   "size": "",
+   "source": "トラベラーズナビ",
+   "starts": null,
+   "title": "新潟県の宿泊割引クーポン・旅行支援情報まとめ！にいがたGoToトラベル・GoToイートなど観光キャンペーン一覧",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5YNW5udXB3MGJCUVhhM2FrX0FRemhFVlY3UmN5MG1ILTBLLW50MzVUYnZNdEdtUklEZ0VKck1OVV9KQ0pTcjlidG1Pb3BFUlRmaGdsYlVB?oc=5"
+  },
+  {
+   "also": [],
+   "ends": null,
+   "home": false,
+   "kind": "宿",
+   "nationwide": false,
+   "published": "2026-10-05",
+   "score": 22,
+   "service": "",
+   "size": "",
+   "source": "トラベラーズナビ",
+   "starts": null,
+   "title": "熊本県の宿泊割引クーポン・旅行支援情報まとめ｜くまもと観光応援割・GoToトラベルなど観光キャンペーン一覧",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1LMUNsMUVEbVlQM05vaWM5NGh5UlJ3cFNoU2RSbUtmNk1NMnNUNzR5aVg3TTJCU2dyV0twdXA0eFotMldoUmlFWTVpN0F6Z0ZWZXg4N1pZU18?oc=5"
   },
   {
    "also": [],
@@ -2984,21 +3072,6 @@
    "starts": null,
    "title": "【2026年】宮崎県の旅行支援「ひなタビ」みやざき宿泊キャンペーン 第2期は2027年1月4日宿泊分からに変更、第1期は9月30日宿泊分で終了",
    "url": "https://airstair.jp/miyazaki-campaign/"
-  },
-  {
-   "also": [],
-   "ends": null,
-   "home": false,
-   "kind": "鉄道・バス",
-   "nationwide": false,
-   "published": "2026-08-07",
-   "score": 21,
-   "service": "JR東日本",
-   "size": "50%OFF",
-   "source": "トラベル Watch",
-   "starts": null,
-   "title": "はやぶさ50％オフの「新幹線eチケット（トクだ値スペシャル28）」発売。秋冬乗車分、えきねっと限定",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9VNWwtQ2NYVGVYTmJBM2J6R050RExTdW1GZDJrX3VuaThuYlZiUEJKQk9VUFdYQV9Db2lGZ0dBNUJoeGwtYW5kY3JyYWhMdnpFQmFZQk9FVkhLRHhOend1Ymd0aFdmYW5m?oc=5"
   },
   {
    "also": [],
@@ -3085,10 +3158,10 @@
    "score": 21,
    "service": "JR東日本",
    "size": "50%OFF",
-   "source": "ASCII.jp",
+   "source": "週刊アスキー",
    "starts": null,
-   "title": "えきねっと改定で何が変わる？ 新幹線50％OFFの新割引と終了するサービスまとめ (1/2)",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBBdGdHNTJfenFiMVdheU9hWHZ2U2UtckkwQ043MC05RTRveVI1VGdmeFVLOS1JNlJZNHVEYV9QamRpd2FFdHBfN1hkMDhZNmw3dk9XTg?oc=5"
+   "title": "えきねっと改定で何が変わる？ 新幹線50％OFFの新割引と終了するサービスまとめ",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5IdzdkTHdiRTh1NGx1SDktd1hfTDJSZDlRU2xRdUwyT2dMWnRwc003VmlFczBENVpxZkl2eUE0OGZqckF3b3VkRXlEVFNJZTNVN2lOcDhBLXIzd2RQTmc?oc=5"
   },
   {
    "also": [],
@@ -3165,6 +3238,21 @@
    "starts": null,
    "title": "【えきねっと半額】人気の新幹線が50%OFF「トクだ値スペシャル28」発売！どのくらいお得に乗車できるのかLIMO独自にシミュレーションしてみた はやぶさ・こまち利用時の独自シミュレーション大公開",
    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE00VUFPTi1GUHVtNDVlVXZvQ3FGcDNGLXQxTllhcmhaVV9ac0tGSk8tRlRKMUotQ2pSSHdUUmVGS0RvMVBzakMxSzlsQWQ?oc=5"
+  },
+  {
+   "also": [],
+   "ends": null,
+   "home": false,
+   "kind": "鉄道・バス",
+   "nationwide": false,
+   "published": "2026-09-14",
+   "score": 21,
+   "service": "JR東日本",
+   "size": "50%OFF",
+   "source": "トラベル Watch",
+   "starts": null,
+   "title": "はやぶさ50％オフの新幹線eチケット「トクだ値スペシャル28」本日から発売。平日乗車分、えきねっと限定",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9fel92aVc2WnZYa1N1aTBlSEktbUE4SmJpR3A5TzNEQmhmQi1yblhqN2RZblhSMEoxQXE4WlZvRGpJcWNxXzhiNXhjWnVaS0FmSy1kY3pyaXBuODA5dmJwLUVkNmx5aFBM?oc=5"
   },
   {
    "also": [],
@@ -3371,6 +3459,21 @@
    "home": false,
    "kind": "宿",
    "nationwide": false,
+   "published": "2026-08-05",
+   "score": 17,
+   "service": "楽天トラベル",
+   "size": "",
+   "source": "楽天グループ株式会社",
+   "starts": null,
+   "title": "「楽天トラベル」、ロイヤリティプログラム「楽天トラベル ボーナスプログラム」における予約時の即時割引に対応",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5CUUlTRGdfTDhoRVRMX01WbEtRdERod3h1UkpQdVVrWkZNLW13RFFrMHpfenFHcW1jOVJpajFBRXlCQTc3dERVOGh1QVhOVER4d2xiWmxDSENBQk84VS1pTWpZVFNBZw?oc=5"
+  },
+  {
+   "also": [],
+   "ends": null,
+   "home": false,
+   "kind": "宿",
+   "nationwide": false,
    "published": "2026-08-06",
    "score": 17,
    "service": "JTB",
@@ -3439,6 +3542,21 @@
    "starts": null,
    "title": "一休.comのセールはいつ？ 毎月1日・9日・19日の周期と2026年8月の開催スケジュール",
    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFB0S0pOOXFsQ1VxTXdjNjJGdGVHYUhSM1JDbnp5SWpQTUprS0dVaExzY0hqbXB5U21oeGxETnlUOHVUVmdZTnBv?oc=5"
+  },
+  {
+   "also": [],
+   "ends": null,
+   "home": false,
+   "kind": "宿",
+   "nationwide": false,
+   "published": "2026-08-08",
+   "score": 17,
+   "service": "JTB",
+   "size": "",
+   "source": "民泊専門メディア Airstair",
+   "starts": null,
+   "title": "【2026年8月】JTBの割引クーポン一覧 福春は終了・次の新春初売りはいつ？",
+   "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBSRnFoTndNX3UwMm92OUdldU9BMjNNM1JtcktEUzJveVdPZWlNYXlsWE1faTQzdTRzLXpiUHVjblRra3c?oc=5"
   },
   {
    "also": [],
@@ -3883,23 +4001,6 @@
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB2WE1jcUYyVFo1SjREc1JmaGxlSlFDTnh2S3BIMkY2Q0pPemtqWWUxZnlreTdLRW5paV81VTZfbFRxMl9GLXhiRjR0UklaXzJ1S1NLYlpkZ1N1MV9WQ01DY2J3clhQb0I0?oc=5"
   },
   {
-   "also": [
-    "時事ドットコム"
-   ],
-   "ends": null,
-   "home": false,
-   "kind": "鉄道・バス",
-   "nationwide": false,
-   "published": "2026-08-07",
-   "score": 16,
-   "service": "JR東日本",
-   "size": "",
-   "source": "PR TIMES",
-   "starts": null,
-   "title": "「えきねっと」で発売するWEB限定割引商品の発売・見直し等について",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBtQlBhTTY0bkRGNVhkN0VoZW9MVURfdE5rRFIyWmQ2QllucEp0bFF4VXF3TXpRLVlFdkhKQWpTdHQxVURwbG0xMkhmalViRU12aFJMY21yb2gzZGhsVy1mYUdWRVZyNlNEc1E?oc=5"
-  },
-  {
    "also": [],
    "ends": null,
    "home": false,
@@ -3931,7 +4032,7 @@
   },
   {
    "also": [
-    "千葉テレビ放送"
+    "千葉テレビ放送株式会社"
    ],
    "ends": null,
    "home": false,
@@ -4028,6 +4129,21 @@
    "home": false,
    "kind": "宿",
    "nationwide": false,
+   "published": "2026-08-21",
+   "score": 12,
+   "service": "",
+   "size": "",
+   "source": "トラベラーズナビ",
+   "starts": null,
+   "title": "京都府の宿泊割引クーポン・旅行支援情報まとめ｜GoToトラベル、きょうと魅力再発見旅など観光キャンペーン一覧",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE15VTJlaklSRlBUdFpsMFI3Z3U0TzQ3dC14cHNJc0RRbGJYVVdIZzd6ajFnOFE3Z29ZOF9BdEhibGdLcVBzWkFwWHJtaklKb2d6N0E?oc=5"
+  },
+  {
+   "also": [],
+   "ends": null,
+   "home": false,
+   "kind": "宿",
+   "nationwide": false,
    "published": "2026-08-26",
    "score": 12,
    "service": "",
@@ -4036,6 +4152,36 @@
    "starts": "2026-09-09",
    "title": "【9月9日から1週間限定タイムセールを開催】列車＋宿泊または日帰りプランがおトクに！",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE44OFdIOUphREE5UDkxcGV5WWxkV3JqS2tDYmJscG5JWmVIX2F4X0dRcUlFb0ZqZmdsRGdLYl8xNTFsYUVYRm8wN0ttUlJrTU9Td0pPWUNaYVdTeTJCb0xHOWNiUEYwMlcza1E?oc=5"
+  },
+  {
+   "also": [],
+   "ends": null,
+   "home": false,
+   "kind": "宿",
+   "nationwide": false,
+   "published": "2026-09-07",
+   "score": 12,
+   "service": "",
+   "size": "",
+   "source": "トラベラーズナビ",
+   "starts": null,
+   "title": "広島県の宿泊割引クーポン・旅行支援情報まとめ｜GoToトラベルや広島県宿泊促進キャンペーンなどの割引情報",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAtQUpFSVNucW1RLVNmdzNGdjlyMkt6NlYyTTJDMjl1bnVXWmg1ejlGRlVaUWJudmR5RV9hbnBGdHNUN21oc0JKN1RtSG5qdzR6NE5aaGJPa096VzZrV25R?oc=5"
+  },
+  {
+   "also": [],
+   "ends": null,
+   "home": false,
+   "kind": "宿",
+   "nationwide": false,
+   "published": "2026-09-09",
+   "score": 12,
+   "service": "",
+   "size": "",
+   "source": "トラベラーズナビ",
+   "starts": null,
+   "title": "静岡県の宿泊割引クーポン・旅行支援情報まとめ｜GoToトラベルや今こそ静岡元気旅など観光キャンペーン一覧",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE03Vzl0cnpCNkt6ZHRucWIxX2hYaUR1TklqSnB1bld5QktIa0x3ZEFuMkJoNjNfajF3clBmeUJmM3JhNDZ2SXc4RVU2X18zVEp2QkpLdm1jZHVZb042eERN?oc=5"
   },
   {
    "also": [],
@@ -4056,6 +4202,51 @@
    "also": [],
    "ends": null,
    "home": false,
+   "kind": "宿",
+   "nationwide": false,
+   "published": "2026-09-16",
+   "score": 12,
+   "service": "",
+   "size": "",
+   "source": "トラベラーズナビ",
+   "starts": null,
+   "title": "沖縄県の宿泊割引クーポン・旅行支援情報まとめ｜GoToトラベル、おきなわ彩発見などの観光キャンペーン一覧",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE05eFQwdlcyQlUwWEpEMHlIdUpyUVl2WDg4RlZFbmhuMFdyUHlBM1NRaE5peWd2djNENzExNlRfU29sbW5HSkFOb1RIZnZVbzZ1WHZhZTdHUQ?oc=5"
+  },
+  {
+   "also": [],
+   "ends": null,
+   "home": false,
+   "kind": "宿",
+   "nationwide": false,
+   "published": "2026-09-17",
+   "score": 12,
+   "service": "",
+   "size": "",
+   "source": "トラベラーズナビ",
+   "starts": null,
+   "title": "「岡山県ハレ旅宿泊割引プラン」1人1泊につき5千円割引する旅行支援（大阪関西万博周遊促進助成）",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1tdzZWS0FmSUcwU1VUa2x3ekFXVFFDZVJLUnl3MkRBZXNYMUNrQjQyVlVoZ0hnenVndVhqaThFN3BKWDZrcm5JV3dBcXBGMkQ3UDBkTm91UUl0VHFiRFE?oc=5"
+  },
+  {
+   "also": [],
+   "ends": null,
+   "home": false,
+   "kind": "宿",
+   "nationwide": false,
+   "published": "2026-09-17",
+   "score": 12,
+   "service": "",
+   "size": "",
+   "source": "トラベラーズナビ",
+   "starts": null,
+   "title": "岡山県の宿泊割引クーポン・旅行支援情報まとめ｜GoToトラベル、おかやまハレ旅応援割など観光キャンペーン一覧",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5telktYklHaGlOY3lhcVBxa3BoeDRXRFdNOTNnSXc3c0JpVmJMT2RubzlDU1hVbTdjVzk1aUtZWjFXelpvVGxKbng0VW04dkZKZVRJZWhn?oc=5"
+  },
+  {
+   "also": [],
+   "ends": null,
+   "home": false,
    "kind": "鉄道・バス",
    "nationwide": false,
    "published": "2026-07-30",
@@ -4066,6 +4257,21 @@
    "starts": "2026-07-31",
    "title": "【7月31日より】JR東日本「えきねっと」精神障害者割引乗車券の取り扱いを開始",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9pMVdqaWE0WFlyNEhNOEVleW15dXR0VE9sNFdTcFNwQm5XTXBFcWJmUzFTMUN5elIxVmFHUFZiRVlsRmdWMFE4V0ZoU1pVR1Y1TjRzMWx3?oc=5"
+  },
+  {
+   "also": [],
+   "ends": null,
+   "home": false,
+   "kind": "鉄道・バス",
+   "nationwide": false,
+   "published": "2026-08-07",
+   "score": 11,
+   "service": "JR東日本",
+   "size": "",
+   "source": "PR TIMES",
+   "starts": null,
+   "title": "「えきねっと」で発売するWEB限定割引商品の発売・見直し等について",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBtQlBhTTY0bkRGNVhkN0VoZW9MVURfdE5rRFIyWmQ2QllucEp0bFF4VXF3TXpRLVlFdkhKQWpTdHQxVURwbG0xMkhmalViRU12aFJMY21yb2gzZGhsVy1mYUdWRVZyNlNEc1E?oc=5"
   },
   {
    "also": [],
@@ -4202,7 +4408,6 @@
   "https://airstair.jp/yahoo-travel-timesale/",
   "https://airstair.jp/yahoo-travel/",
   "https://airstair.jp/year-end-new/",
-  "https://sky-budget.com/2026/10/23/jal-time-sale-2026/",
   "https://www.traicy.com/posts/20261023384126/",
   "https://www.traicy.com/posts/20261023385521/",
   "https://www.traicy.com/posts/20261024385136/",
@@ -4311,11 +4516,11 @@
   }
  ],
  "stats": {
-  "articles": 1360,
-  "deals": 265,
+  "articles": 1398,
+  "deals": 279,
   "failed": 2,
   "fetched": 19,
-  "images": 32
+  "images": 31
  },
- "updated": "2026-10-25 05:07"
+ "updated": "2026-10-25 11:57"
 }
