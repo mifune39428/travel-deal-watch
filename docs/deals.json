@@ -139,25 +139,6 @@
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE85YlFObTJOQzkzQlZ1NmYwbHNIeXRyMXhTbVVkX1cyS253QVktXzQ2QXd1eG9Vb3lCZjlOVnNOTDV0YmN2c0IyOG5zTE51MnhrbWJ6dnA2WFdMdw?oc=5"
   },
   {
-   "also": [
-    "TRAICY（トライシー）",
-    "千葉テレビ放送株式会社"
-   ],
-   "ends": "2026-11-07",
-   "home": false,
-   "image": "https://www.traicy.com/wp-content/uploads/2026/11/JL_jalanpak.jpg",
-   "kind": "宿",
-   "nationwide": false,
-   "published": "2026-11-04",
-   "score": 72,
-   "service": "じゃらん",
-   "size": "",
-   "source": "TRAICY",
-   "starts": null,
-   "title": "JALじゃらんパック、「3日間限定セール」開催中 11月7日まで",
-   "url": "https://www.traicy.com/posts/20261104386843/"
-  },
-  {
    "also": [],
    "ends": null,
    "home": true,
@@ -225,21 +206,6 @@
    "nationwide": false,
    "published": "2026-10-30",
    "score": 67,
-   "service": "じゃらん",
-   "size": "最大2万円",
-   "source": "トラベラーズナビ",
-   "starts": null,
-   "title": "じゃらんクーポンフェス、次回開催時も速報！宿泊最大2万円割引、旅行支援やポイント還元と併用可",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5mTThJSXhaY295aGplb2hWUWhWYTVLOW9XTGdVTmpIV0NRdmdVTzRLdHIzS0Y4UTU5NkVQTG9qaWZ2aFRjZWtnOXFwQnRBdzczZjBV?oc=5"
-  },
-  {
-   "also": [],
-   "ends": null,
-   "home": false,
-   "kind": "宿",
-   "nationwide": false,
-   "published": "2026-10-30",
-   "score": 67,
    "service": "日本旅行",
    "size": "最大4万円",
    "source": "トラベラーズナビ",
@@ -298,14 +264,29 @@
    "home": false,
    "kind": "宿",
    "nationwide": false,
-   "published": "2026-11-03",
+   "published": "2026-11-04",
    "score": 67,
    "service": "日本旅行",
    "size": "5%OFF",
    "source": "airstair",
    "starts": null,
-   "title": "日本旅行「創業121周年！感謝祭」の121時間限定タイムセールは2026年11月4日15:59まで お1人様あたり5%割引",
+   "title": "日本旅行「創業121周年！感謝祭」の121時間限定タイムセールの予約は2026年11月4日15:59まででした お1人様あたり5%割引",
    "url": "https://airstair.jp/nta-anniversary-timesale/"
+  },
+  {
+   "also": [],
+   "ends": "2026-11-07",
+   "home": false,
+   "kind": "宿",
+   "nationwide": false,
+   "published": "2026-11-04",
+   "score": 67,
+   "service": "じゃらん",
+   "size": "",
+   "source": "TRAICY（トライシー）",
+   "starts": null,
+   "title": "JALじゃらんパック、「3日間限定セール」開催中 11月7日まで",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5LWlVTckp1OTg3Zjk1UHJKUHhXT3dGYzRVbmRBRV9YUFdJUmtuU0tlM1VtU1MtaDU5R3NEb01HR19uY3dkTkg4ZmdEM19KZ05Pa3lJaGwtSQ?oc=5"
   },
   {
    "also": [],
@@ -323,21 +304,6 @@
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9EUWxIcjhlaTlUMEp3dF84cDh5M3hYOUQ0RHp2UUVxMzZXRlV6c2k4ei1ZbmV3aGhYaW5UanNLUDAtZ0hKdVQ5b2V4OWJXSElfLXZ0dnRvNndvbWhaNGx0bzFqSQ?oc=5"
   },
   {
-   "also": [],
-   "ends": null,
-   "home": false,
-   "kind": "航空券",
-   "nationwide": true,
-   "published": "2026-10-29",
-   "score": 63,
-   "service": "",
-   "size": "",
-   "source": "TRAICY（トライシー）",
-   "starts": null,
-   "title": "スプリング・ジャパン、「新しい風に乗ってTAKE OFF キャンペーン」を実施 国内線タイムセールや航空券が当たる抽選など",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9KSnZhdG9yTThyTm9TSllfZmZRcHlFN0pDS1FyV2p6eE5jWm1ubFJUeEJVYlVtYW40U1JvaEVlbXZ5MUpXTGlQbVN4VEE1U0FTY2w0ZlhhRQ?oc=5"
-  },
-  {
    "also": [
     "千葉テレビ放送株式会社"
    ],
@@ -353,21 +319,6 @@
    "starts": "2026-10-30",
    "title": "じゃらんnet、「じゃらんスペシャルウィーク」を10月30日開始 特別プランやクーポンも",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1FdmNWTjhMUlEzakI1bUZmVlpnaEFiU1lHUkZlaE4xS05CY3ZSbGVSbURkTnRHcmVuQmlYWDJ5dU9CYVlYeXBaV3NjLU41dm5oYXRuanZsQQ?oc=5"
-  },
-  {
-   "also": [],
-   "ends": null,
-   "home": false,
-   "kind": "宿",
-   "nationwide": false,
-   "published": "2026-10-31",
-   "score": 62,
-   "service": "",
-   "size": "4,000円",
-   "source": "トラベラーズナビ",
-   "starts": null,
-   "title": "宗像宿泊キャンペーン「ぐるり、むな旅」1セット4,000円分のクーポンが半額、1人4セットまで購入可",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1TMkZKaTZKUXhEVG1JMzYyVEpkZkptQzVuQ0M2dWRoa2U2Zy1zaVRfMy1EWTlTa3RKeUhiSl8ySkZoemtXN2VlclowbWRsNV95bWpv?oc=5"
   },
   {
    "also": [
@@ -465,22 +416,6 @@
    "also": [],
    "ends": null,
    "home": false,
-   "image": "https://www.traicy.com/wp-content/uploads/2026/09/jalan_kumamoto.jpg",
-   "kind": "宿",
-   "nationwide": false,
-   "published": "2026-11-03",
-   "score": 57,
-   "service": "じゃらん",
-   "size": "",
-   "source": "TRAICY",
-   "starts": null,
-   "title": "じゃらんnet、「九州ふっこう応援割」を11月4日午前10時再販売開始 宮崎県対象",
-   "url": "https://www.traicy.com/posts/20261103386488/"
-  },
-  {
-   "also": [],
-   "ends": null,
-   "home": false,
    "kind": "宿",
    "nationwide": false,
    "published": "2026-11-03",
@@ -491,6 +426,22 @@
    "starts": null,
    "title": "【遊び体験クーポン特集】じゃらんや楽天でホテルビュッフェも温泉も割引、旅行支援併用でお得",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1vWjJ3S25tN2FEbG5CQmZLcHNUQ1BUNmVnczlCZXpTc1JVOHJIUHpfbGdXRWs4azVpbXdVdThLMUpBcDJ2TjN5aWEwaWRMbTY2cVVGZ3dvOXZLSjg?oc=5"
+  },
+  {
+   "also": [],
+   "ends": null,
+   "home": false,
+   "image": "https://airstair.jp/images/2024/05/rakuten-5or-0.webp",
+   "kind": "宿",
+   "nationwide": false,
+   "published": "2026-11-04",
+   "score": 57,
+   "service": "楽天トラベル",
+   "size": "",
+   "source": "airstair",
+   "starts": null,
+   "title": "楽天トラベル「5と0のつく日」次回いつ？ エントリーやお得な予約方法、クーポン併用など",
+   "url": "https://airstair.jp/rakuten-50luxday/"
   },
   {
    "also": [],
@@ -2078,21 +2029,6 @@
    "home": false,
    "kind": "宿",
    "nationwide": false,
-   "published": "2026-09-30",
-   "score": 17,
-   "service": "じゃらん",
-   "size": "",
-   "source": "西武造園株式会社",
-   "starts": null,
-   "title": "じゃらん遊び・体験【草津市】遊び・体験予約に使えるクーポンで「みずの森」に来よう！",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE94cEI2WmFtVXNha0FLa19COUxzUUtVeGZUWnAtUzhJMi1rX1NrMzk2VWlINXVpaUZ4STRNNGxUNWFPdzRaZFhiZ1VwYWJoaFhZYWRsbl9Xd285OU5BUllNaGp2aGpjS3NYYWZ5NzVaWXdSOEVtcVE?oc=5"
-  },
-  {
-   "also": [],
-   "ends": null,
-   "home": false,
-   "kind": "宿",
-   "nationwide": false,
    "published": "2026-10-01",
    "score": 17,
    "service": "じゃらん",
@@ -2116,22 +2052,6 @@
    "starts": null,
    "title": "長崎しま旅割引キャンペーン2026 じゃらんの第3期クーポンは12月27日まで配布、楽天トラベルの第3期はいつ？",
    "url": "https://airstair.jp/nagasaki-shimatabi-coupon/"
-  },
-  {
-   "also": [],
-   "ends": null,
-   "home": false,
-   "image": "https://airstair.jp/images/2024/05/rakuten-5or-0.webp",
-   "kind": "宿",
-   "nationwide": false,
-   "published": "2026-10-05",
-   "score": 17,
-   "service": "楽天トラベル",
-   "size": "",
-   "source": "airstair",
-   "starts": null,
-   "title": "楽天トラベル「5と0のつく日」次回いつ？ エントリーやお得な予約方法、クーポン併用など",
-   "url": "https://airstair.jp/rakuten-50luxday/"
   },
   {
    "also": [],
@@ -2391,9 +2311,7 @@
   "https://airstair.jp/starflyer-sale/",
   "https://airstair.jp/yahoo-travel-timesale/",
   "https://airstair.jp/yahoo-travel/",
-  "https://airstair.jp/year-end-new/",
-  "https://www.traicy.com/posts/20261103386488/",
-  "https://www.traicy.com/posts/20261104386843/"
+  "https://airstair.jp/year-end-new/"
  ],
  "running": [
   {
@@ -2498,11 +2416,11 @@
   }
  ],
  "stats": {
-  "articles": 797,
-  "deals": 148,
-  "failed": 2,
-  "fetched": 19,
-  "images": 28
+  "articles": 757,
+  "deals": 143,
+  "failed": 3,
+  "fetched": 18,
+  "images": 26
  },
- "updated": "2026-11-05 08:07"
+ "updated": "2026-11-05 13:52"
 }
