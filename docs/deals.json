@@ -140,23 +140,6 @@
   },
   {
    "also": [
-    "千葉テレビ放送株式会社"
-   ],
-   "ends": "2026-11-07",
-   "home": false,
-   "kind": "宿",
-   "nationwide": false,
-   "published": "2026-11-04",
-   "score": 72,
-   "service": "じゃらん",
-   "size": "",
-   "source": "TRAICY（トライシー）",
-   "starts": null,
-   "title": "JALじゃらんパック、「3日間限定セール」開催中 11月7日まで",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5LWlVTckp1OTg3Zjk1UHJKUHhXT3dGYzRVbmRBRV9YUFdJUmtuU0tlM1VtU1MtaDU5R3NEb01HR19uY3dkTkg4ZmdEM19KZ05Pa3lJaGwtSQ?oc=5"
-  },
-  {
-   "also": [
     "sky-budget スカイバジェット"
    ],
    "ends": null,
@@ -196,12 +179,12 @@
    "nationwide": false,
    "published": "2026-10-30",
    "score": 67,
-   "service": "楽天トラベル",
-   "size": "最大50%OFF",
+   "service": "じゃらん",
+   "size": "最大3万円",
    "source": "トラベル Watch",
    "starts": null,
-   "title": "楽天トラベル、長崎の「九州ふっこう応援割」予約再開。クーポン先行公開中、最大50％オフ",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE04bXhtM1lzd1A3Vnl2LXRXcUxJcXFQUWYwUFZieEdVX3pKSDUxMHJpUkxVdVRDQWp0YjZmUWFUR0xEOTdqd1k4YUtPTWV0Ynl6RHRqekVmWWF6QlZRY3FyM2R4LWVPSGhy?oc=5"
+   "title": "じゃらん、長崎・宮崎の「九州ふっこう応援割」予約再開。宿泊＋航空券が最大3万円引き、セールクーポン併用でさらにお得",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5vaXJXNHZxOU02SHh5Z0FsaEN5aE5aZUtZbkxKN0JIckxNLVBRbHk1blpiUTJDSUVxQ1JJYjBDYW5qWFhsTnYxNXhZNUJYT1NURGZEUW5tcXpCMldiQlBCTlpMWnpvVkFs?oc=5"
   },
   {
    "also": [],
@@ -217,21 +200,6 @@
    "starts": null,
    "title": "じゃらんのお得な10日間、次回11月15日クーポン配布！宿泊最大2.5万円割引やセールプラン併用でお得",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4zWDNFT296OTRxY3VoZ28wS3RVRXpQVC1BN1o0WkNJVmF4RzRNV1dCWjVXT2cxQW9CbVk3cEFUOGJBSVZJZ1E2REtnRFdFWVhqZVc2V2Nubw?oc=5"
-  },
-  {
-   "also": [],
-   "ends": null,
-   "home": false,
-   "kind": "宿",
-   "nationwide": false,
-   "published": "2026-10-30",
-   "score": 67,
-   "service": "じゃらん",
-   "size": "最大3万円",
-   "source": "トラベル Watch",
-   "starts": null,
-   "title": "じゃらん、長崎・宮崎の「九州ふっこう応援割」予約再開。宿泊＋航空券が最大3万円引き、セールクーポン併用でさらにお得",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5vaXJXNHZxOU02SHh5Z0FsaEN5aE5aZUtZbkxKN0JIckxNLVBRbHk1blpiUTJDSUVxQ1JJYjBDYW5qWFhsTnYxNXhZNUJYT1NURGZEUW5tcXpCMldiQlBCTlpMWnpvVkFs?oc=5"
   },
   {
    "also": [],
@@ -340,6 +308,36 @@
   },
   {
    "also": [],
+   "ends": "2026-11-07",
+   "home": false,
+   "kind": "宿",
+   "nationwide": false,
+   "published": "2026-11-04",
+   "score": 67,
+   "service": "じゃらん",
+   "size": "",
+   "source": "TRAICY（トライシー）",
+   "starts": null,
+   "title": "JALじゃらんパック、「3日間限定セール」開催中 11月7日まで",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5LWlVTckp1OTg3Zjk1UHJKUHhXT3dGYzRVbmRBRV9YUFdJUmtuU0tlM1VtU1MtaDU5R3NEb01HR19uY3dkTkg4ZmdEM19KZ05Pa3lJaGwtSQ?oc=5"
+  },
+  {
+   "also": [],
+   "ends": null,
+   "home": false,
+   "kind": "宿",
+   "nationwide": false,
+   "published": "2026-11-06",
+   "score": 67,
+   "service": "楽天トラベル",
+   "size": "最大50%OFF",
+   "source": "トラベル Watch",
+   "starts": null,
+   "title": "楽天トラベル、宮崎の「九州ふっこう応援割」週明け予約再開。クーポン先行公開中、最大50％オフ",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9vbDlNZmc4MzFCUGpvbUQ5d3Fib0FXdHVtU2VmLUFCVUZ5M0RoQ0N5eUFpUFRpQ0NDRGlhXy1mNjU1WTh4Q1ZIcUdlWDE4S0hwOHphX2FBM2hCMTlCaUtfT3lReWZYTm0t?oc=5"
+  },
+  {
+   "also": [],
    "ends": null,
    "home": false,
    "kind": "ツアー",
@@ -393,14 +391,14 @@
    "home": false,
    "kind": "宿",
    "nationwide": false,
-   "published": "2026-11-02",
+   "published": "2026-10-30",
    "score": 57,
-   "service": "楽天トラベル",
+   "service": "じゃらん",
    "size": "",
-   "source": "トラベラーズナビ",
-   "starts": null,
-   "title": "楽天トラベルの九州ふっこう応援割、長崎県11月2日第2期発売！クーポン・セール併用割引まとめ",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9rX05wWTlXZnNvTVFpYTFXZzdyTENUUEFCVnhMQU9lT2V4bWlhWlB6djh5MjNQcGg2VlFESnN4Y2pHRm1IbWVhXzZ0ZmtHUjEzTEQ4NVBUYkpyUFQxSkJTOUtsRllNZw?oc=5"
+   "source": "TRAICY（トライシー）",
+   "starts": "2026-10-30",
+   "title": "じゃらんnet、「じゃらんスペシャルウィーク」を10月30日開始 特別プランやクーポンも",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1FdmNWTjhMUlEzakI1bUZmVlpnaEFiU1lHUkZlaE4xS05CY3ZSbGVSbURkTnRHcmVuQmlYWDJ5dU9CYVlYeXBaV3NjLU41dm5oYXRuanZsQQ?oc=5"
   },
   {
    "also": [],
@@ -483,6 +481,21 @@
    "ends": null,
    "home": false,
    "kind": "宿",
+   "nationwide": false,
+   "published": "2026-11-06",
+   "score": 57,
+   "service": "楽天トラベル",
+   "size": "",
+   "source": "トラベラーズナビ",
+   "starts": null,
+   "title": "楽天トラベルの九州ふっこう応援割、宮崎県11月9日予約再開！クーポン・セール併用割引まとめ",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9rX05wWTlXZnNvTVFpYTFXZzdyTENUUEFCVnhMQU9lT2V4bWlhWlB6djh5MjNQcGg2VlFESnN4Y2pHRm1IbWVhXzZ0ZmtHUjEzTEQ4NVBUYkpyUFQxSkJTOUtsRllNZw?oc=5"
+  },
+  {
+   "also": [],
+   "ends": null,
+   "home": false,
+   "kind": "宿",
    "nationwide": true,
    "published": "2026-10-20",
    "score": 52,
@@ -559,6 +572,21 @@
    "home": false,
    "kind": "宿",
    "nationwide": false,
+   "published": "2026-10-29",
+   "score": 52,
+   "service": "楽天トラベル",
+   "size": "最大50%OFF",
+   "source": "トラベル Watch",
+   "starts": null,
+   "title": "楽天トラベル、福岡・大分の「九州ふっこう応援割」予約再開。クーポン先行配布中、最大50％オフ",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBDNkFLcEdKdHBqVm0wNXVDZGNjNjNaRWZYemNrd2twYnQ1M2dmX2Zya0FGTndzU290WnFHNWxtcW9EaFFnZ3ZLRmlLMUVpMUtzaHVMNWlFcDNHV3Z5NmUtUG9pQS1pVmhz?oc=5"
+  },
+  {
+   "also": [],
+   "ends": null,
+   "home": false,
+   "kind": "宿",
+   "nationwide": false,
    "published": "2026-11-03",
    "score": 52,
    "service": "",
@@ -590,7 +618,7 @@
    "home": false,
    "kind": "宿",
    "nationwide": false,
-   "published": "2026-11-05",
+   "published": "2026-11-06",
    "score": 52,
    "service": "",
    "size": "",
@@ -879,21 +907,6 @@
    "starts": null,
    "title": "【2026】ANAタイムセール 次回いつ？早見表や運賃・買い方・年何回",
    "url": "https://airstair.jp/ana-timesale/"
-  },
-  {
-   "also": [],
-   "ends": null,
-   "home": false,
-   "kind": "航空券",
-   "nationwide": false,
-   "published": "2026-10-28",
-   "score": 38,
-   "service": "JAL",
-   "size": "",
-   "source": "sky-budget スカイバジェット",
-   "starts": "2026-11-02",
-   "title": "JAL、「どこかにマイル」10周年企画の最終弾として「3択キャンペーン」を11月2日より実施",
-   "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOZUZ4LVdxRWRqN2J5cktIekZHWEZDbmFTS3NwNHA5Q3pVdmF1amp3OXpjcHNjNE85NmFyVzFjODFRanh5cEgyMGlmRV9nNndya05kZi1fMWZsN01OWlhrbnhOUExwQnZLaWNwUmpZQ3Q3b1pQNnAya1Vud3ROaVF6SDJZdUo2azlCWFVYNnhVT1lVZ3UzbnlxWVU2bVVUWTJhNWU2Vk9rMGFPRVIzRzdGUFBqRFhIYTN0dUZBY0xwNXNIUEFDM2w1SjVOM3Z6OHZMRmoyb0NtdTBvUEFtMjBhQzFGbDdpRU53dHVjUzVHeHFUanFqWDM1MGxZbGhCSS1WQXZWMW42VGNTVldVWGZ6X1ZFUTljU3pNQVRJ?oc=5"
   },
   {
    "also": [
@@ -2503,11 +2516,11 @@
   }
  ],
  "stats": {
-  "articles": 800,
-  "deals": 148,
+  "articles": 796,
+  "deals": 149,
   "failed": 2,
   "fetched": 19,
   "images": 31
  },
- "updated": "2026-11-06 08:12"
+ "updated": "2026-11-06 13:51"
 }
