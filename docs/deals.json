@@ -140,7 +140,8 @@
   },
   {
    "also": [
-    "千葉テレビ放送株式会社"
+    "千葉テレビ放送株式会社",
+    "ライブドアニュース"
    ],
    "ends": "2026-11-07",
    "home": false,
@@ -184,21 +185,6 @@
    "starts": null,
    "title": "秋田県得旅キャンペーン、第2弾予約開始！1人宿泊最大12,000円割引クーポン配布の旅行支援",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1CNW1pMURfNGpyV0FJU254ZVRmbG5oOGEtemI1dy1SbC1aQ3VBdEJyLXNMdS1aalFTSDlrR0M5WFhJU0Z1Tm9FaXlEelBNQXJrQ2J2T1pPSENnQQ?oc=5"
-  },
-  {
-   "also": [],
-   "ends": null,
-   "home": true,
-   "kind": "宿",
-   "nationwide": false,
-   "published": "2026-10-30",
-   "score": 67,
-   "service": "",
-   "size": "半額級",
-   "source": "トラベラーズナビ",
-   "starts": null,
-   "title": "岩手県の旅行支援「おでんせ！いわて旅割キャンペーン」宿泊最大半額クーポン",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE95ci1WbXUxOU9mM0V0MHktOHozTWdlNDRNVS1yM044WXBPOVRTX2pUN2NZQTlKVUlqbURLRUUxd2lULVBWZ1lTMk5Ya3oyTzhNbUFDQmROd3g4T3c?oc=5"
   },
   {
    "also": [],
@@ -405,14 +391,14 @@
    "home": false,
    "kind": "宿",
    "nationwide": false,
-   "published": "2026-11-02",
+   "published": "2026-11-03",
    "score": 57,
-   "service": "日本旅行",
+   "service": "じゃらん",
    "size": "",
    "source": "トラベラーズナビ",
    "starts": null,
-   "title": "日本旅行の九州ふっこう応援割まとめ、宮崎県11月2日予約再開｜予約方法・予約開始日",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE01X2paUHlrZVpXTGdOb3UzaDhIWXBYRzFPdmVJY1hfc29VMmt0aWxLVjhNZW1XYWRYYk9fdEtzbUl0LVAteXcyMUg2MWFVX1VXLUtPSXlkRWh4QjA?oc=5"
+   "title": "【遊び体験クーポン特集】じゃらんや楽天でホテルビュッフェも温泉も割引、旅行支援併用でお得",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1vWjJ3S25tN2FEbG5CQmZLcHNUQ1BUNmVnczlCZXpTc1JVOHJIUHpfbGdXRWs4azVpbXdVdThLMUpBcDJ2TjN5aWEwaWRMbTY2cVVGZ3dvOXZLSjg?oc=5"
   },
   {
    "also": [],
@@ -453,12 +439,12 @@
    "nationwide": false,
    "published": "2026-11-06",
    "score": 57,
-   "service": "楽天トラベル",
+   "service": "日本旅行",
    "size": "",
    "source": "トラベラーズナビ",
    "starts": null,
-   "title": "楽天トラベルの九州ふっこう応援割、宮崎県11月9日予約再開！クーポン・セール併用割引まとめ",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9rX05wWTlXZnNvTVFpYTFXZzdyTENUUEFCVnhMQU9lT2V4bWlhWlB6djh5MjNQcGg2VlFESnN4Y2pHRm1IbWVhXzZ0ZmtHUjEzTEQ4NVBUYkpyUFQxSkJTOUtsRllNZw?oc=5"
+   "title": "日本旅行の九州ふっこう応援割まとめ、大分県11月6日予約開始｜予約方法・予約開始日",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE01X2paUHlrZVpXTGdOb3UzaDhIWXBYRzFPdmVJY1hfc29VMmt0aWxLVjhNZW1XYWRYYk9fdEtzbUl0LVAteXcyMUg2MWFVX1VXLUtPSXlkRWh4QjA?oc=5"
   },
   {
    "also": [],
@@ -534,21 +520,6 @@
    "starts": null,
    "title": "楽天トラベル、福岡・大分の「九州ふっこう応援割」予約再開。クーポン先行配布中、最大50％オフ",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBDNkFLcEdKdHBqVm0wNXVDZGNjNjNaRWZYemNrd2twYnQ1M2dmX2Zya0FGTndzU290WnFHNWxtcW9EaFFnZ3ZLRmlLMUVpMUtzaHVMNWlFcDNHV3Z5NmUtUG9pQS1pVmhz?oc=5"
-  },
-  {
-   "also": [],
-   "ends": null,
-   "home": false,
-   "kind": "宿",
-   "nationwide": false,
-   "published": "2026-10-29",
-   "score": 52,
-   "service": "楽天トラベル",
-   "size": "最大30%OFF",
-   "source": "トラベル Watch",
-   "starts": null,
-   "title": "楽天トラベル、温泉宿が毎日最大30％オフ「秋冬SALE」。レンタカー最大半額、テーマパーク入場チケットもお得に",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9aUEQxNDZBWUpCYXlNaTFrVVd4U3VfNWZxUEtpZzdBV0ZrR3JjQUZWTzBpOVotRHh5eUVnMmRzMkw2YzJzS0pqVmVpR1laV2NCaWhMNzZOVlpuMzAxbGdPb3JHQThKbm9Y?oc=5"
   },
   {
    "also": [],
@@ -703,6 +674,21 @@
    "starts": null,
    "title": "ジェットスター・ジャパン、国内16路線でセール開催 片道3,690円から",
    "url": "https://www.traicy.com/posts/20261105386920/"
+  },
+  {
+   "also": [],
+   "ends": null,
+   "home": true,
+   "kind": "宿",
+   "nationwide": false,
+   "published": "2026-08-10",
+   "score": 47,
+   "service": "じゃらん",
+   "size": "最大50%OFF",
+   "source": "TRAICY（トライシー）",
+   "starts": null,
+   "title": "岩手県一関市、じゃらんnetで宿泊割クーポン配布 最大50％割引",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1HaUc0dlZ4M2dYTzRYVWI1OERiZm5VREoxSll3OElmWHJ5YkNya2E1aEVwQkQ1MVFnNFFRazdLd19SNVN2dS1uREl5VHo2ZUs5VE5nYzFlZw?oc=5"
   },
   {
    "also": [],
@@ -1879,6 +1865,21 @@
    "home": false,
    "kind": "宿",
    "nationwide": false,
+   "published": "2026-08-07",
+   "score": 17,
+   "service": "ふるさと納税",
+   "size": "",
+   "source": "PR TIMES",
+   "starts": null,
+   "title": "＜新登場＞福岡市ふるさと納税！ホテルのみに適用できる旅行クーポンがグットリから出ました！",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1iS0gyVWVod1JKWUYzc01HSzJJZE9qT0p4dzEya1VOdm5reWNkMVR5LUhmMGZwU2piTTMtZGR4aXhRVS0xN2FWRjFqanhpQ3FCSmE1VDdwTHBfeUFwNXpxUVpWNkxwbDhZN0E?oc=5"
+  },
+  {
+   "also": [],
+   "ends": null,
+   "home": false,
+   "kind": "宿",
+   "nationwide": false,
    "published": "2026-08-08",
    "score": 17,
    "service": "じゃらん",
@@ -2001,14 +2002,14 @@
    "home": false,
    "kind": "宿",
    "nationwide": false,
-   "published": "2026-09-15",
+   "published": "2026-09-14",
    "score": 17,
    "service": "楽天トラベル",
    "size": "",
    "source": "トラベラーズナビ",
    "starts": null,
-   "title": "「今こそ伊東へ」伊東市の宿泊最大2割引、じゃらん・楽天トラベルでクーポン配布の旅行支援キャンペーン",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE94bk5KdWtyU3VoMm1ZZ00tNHNoRTdicHlzYmMydG5Sel92bVV3eElQRkpRMUdYOXBlSEh6aXdFMXA4c0lTaWJZdzVlcVNfNUp4bXZFdk93?oc=5"
+   "title": "楽天トラベルの九州ふっこう応援割、宮崎県11月9日予約再開！クーポン・セール併用割引まとめ",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9rX05wWTlXZnNvTVFpYTFXZzdyTENUUEFCVnhMQU9lT2V4bWlhWlB6djh5MjNQcGg2VlFESnN4Y2pHRm1IbWVhXzZ0ZmtHUjEzTEQ4NVBUYkpyUFQxSkJTOUtsRllNZw?oc=5"
   },
   {
    "also": [],
@@ -2039,21 +2040,6 @@
    "starts": null,
    "title": "楽天トラベル、佐賀県の九州ふっこう応援割は9月24日昼に予約スタート。クーポンは先着740枚",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBDR1ctd25GT2QzTm9Dd0owSEsya05KNGhYSVZxNXNtTlp1TDBGLTdLS3lVU2tfM0tvRHpVc3FDWW9JQVNVU0ZZdVBvaE5fNUdyUW84clZ2OGRCWUxKYkNXV200d0tXS0hm?oc=5"
-  },
-  {
-   "also": [],
-   "ends": null,
-   "home": false,
-   "kind": "宿",
-   "nationwide": false,
-   "published": "2026-09-24",
-   "score": 17,
-   "service": "楽天トラベル",
-   "size": "",
-   "source": "トラベル Watch",
-   "starts": null,
-   "title": "楽天トラベル、宮崎・大分の「九州ふっこう応援割」9月25日予約スタート。佐賀もこのあと12時から受付開始",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB2WE1jcUYyVFo1SjREc1JmaGxlSlFDTnh2S3BIMkY2Q0pPemtqWWUxZnlreTdLRW5paV81VTZfbFRxMl9GLXhiRjR0UklaXzJ1S1NLYlpkZ1N1MV9WQ01DY2J3clhQb0I0?oc=5"
   },
   {
    "also": [],
@@ -2499,11 +2485,11 @@
   }
  ],
  "stats": {
-  "articles": 806,
-  "deals": 148,
+  "articles": 803,
+  "deals": 147,
   "failed": 2,
   "fetched": 19,
   "images": 30
  },
- "updated": "2026-11-07 07:39"
+ "updated": "2026-11-07 13:23"
 }
