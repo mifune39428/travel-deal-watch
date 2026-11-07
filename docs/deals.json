@@ -80,6 +80,21 @@
   },
   {
    "also": [],
+   "ends": null,
+   "home": true,
+   "kind": "ツアー",
+   "nationwide": false,
+   "published": "2026-11-07",
+   "score": 78,
+   "service": "",
+   "size": "8,000円",
+   "source": "トラベラーズナビ",
+   "starts": null,
+   "title": "秋田県のJALふるさと応援割「未知なる秋田の冬」ツアー1人につき8,000円割引",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE94c3h0MUxXMkoxQnBsS1Mtb2dQOTIxcVBYa0FYb292QXVqMFhZNlZteVV5dm5tdHhDYnB5OWhDekJJWDlDeS1MTkw1TGludG43WmRGTmVJWDdqOWpnbWVEd0EwZi1sZUZG?oc=5"
+  },
+  {
+   "also": [],
    "ends": "2026-11-19",
    "home": false,
    "kind": "宿",
@@ -170,6 +185,23 @@
    "starts": null,
    "title": "宮城県の宿泊割引クーポン・旅行支援情報まとめ｜GoToトラベル、みやぎ宿泊割など観光キャンペーン一覧",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE14WFQyLXpQMGRKUVJ1elRmRk5td3d6TmtpSFA0eTd6Njg1UUtXZEVSUm1sM05aUExLM2hSZXgyOHBQNE9zNzZYaEFQMFBxYV96NmFXMnhoeVJJOThWWUFLcjBvQTRIaU0?oc=5"
+  },
+  {
+   "also": [
+    "ライブドアニュース"
+   ],
+   "ends": "2026-11-18",
+   "home": false,
+   "kind": "宿",
+   "nationwide": false,
+   "published": "2026-11-07",
+   "score": 72,
+   "service": "日本旅行",
+   "size": "",
+   "source": "千葉テレビ放送株式会社",
+   "starts": null,
+   "title": "日本旅行、「タイムセール」を開催中 11月18日まで",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1reU4yTVJaM3JLaDlBUXh1ZWZqbGRDaGgtdDF6a3NsZkRYWUdQXzhlUHVKR3ozQ3JwSXV0c1c5cEtSVEJfaHVLeUpTRXU1a196a0hiTXRhOWVnck5qV0FR?oc=5"
   },
   {
    "also": [],
@@ -282,6 +314,21 @@
    "home": false,
    "kind": "宿",
    "nationwide": false,
+   "published": "2026-11-05",
+   "score": 67,
+   "service": "じゃらん",
+   "size": "最大2万円",
+   "source": "トラベラーズナビ",
+   "starts": "2026-11-05",
+   "title": "じゃらんクーポンフェス、11月5日開始！宿泊最大2万円割引、旅行支援やポイント還元と併用可",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5mTThJSXhaY295aGplb2hWUWhWYTVLOW9XTGdVTmpIV0NRdmdVTzRLdHIzS0Y4UTU5NkVQTG9qaWZ2aFRjZWtnOXFwQnRBdzczZjBV?oc=5"
+  },
+  {
+   "also": [],
+   "ends": null,
+   "home": false,
+   "kind": "宿",
+   "nationwide": false,
    "published": "2026-11-06",
    "score": 67,
    "service": "楽天トラベル",
@@ -320,40 +367,6 @@
    "starts": null,
    "title": "キャンペーン：年末年始も一部対象の「ジェットスター国内線セール」 国内16路線が片道3,690円から",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA0ZjJBWmlHZ1pnOFVDVFFhNlBIeUkyc1hFTFB3U25OR0huRlZCak1aYWdaRkNlRTUzLVZjM18xQ1NUZVhYZlY4M3RUWmpOTjJoSFJJRkRoWXhVdV9ZODFVblJwTG5Za1QyZEZ0VDZOUQ?oc=5"
-  },
-  {
-   "also": [
-    "TRAICY（トライシー）"
-   ],
-   "ends": null,
-   "home": false,
-   "image": "https://www.traicy.com/wp-content/uploads/2024/09/DSC_5755.jpeg",
-   "kind": "宿",
-   "nationwide": false,
-   "published": "2026-11-05",
-   "score": 62,
-   "service": "楽天トラベル",
-   "size": "",
-   "source": "TRAICY",
-   "starts": null,
-   "title": "楽天トラベル、「JAL楽パック」で3日間限定セール開催",
-   "url": "https://www.traicy.com/posts/20261105386922/"
-  },
-  {
-   "also": [],
-   "ends": null,
-   "home": false,
-   "image": "https://www.traicy.com/wp-content/uploads/2026/04/Y_JL_earlybook.jpg",
-   "kind": "航空券",
-   "nationwide": false,
-   "published": "2026-11-05",
-   "score": 58,
-   "service": "",
-   "size": "最大5,000円",
-   "source": "TRAICY",
-   "starts": null,
-   "title": "ヤフートラベル、「JAL限定早期予約クーポン」を追加配布 最大5,000円割引",
-   "url": "https://www.traicy.com/posts/20261105386880/"
   },
   {
    "also": [],
@@ -430,6 +443,21 @@
    "starts": null,
    "title": "じゃらんの九州ふっこう応援割、宮崎県11月4日予約開始！クーポン・セール併用割引まとめ",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5oN29TRThYNDA5T05iaHowYklzNHI1cEpTTGNVZ0xhWWNENGZ1NngtcjUxOHRhTEJCTThjNzdEQ3FITFYtbDMzN3hUMFBsdm1zSFlLUFRORjFsT2RLdnRfY0c1RQ?oc=5"
+  },
+  {
+   "also": [],
+   "ends": null,
+   "home": false,
+   "kind": "宿",
+   "nationwide": false,
+   "published": "2026-11-05",
+   "score": 57,
+   "service": "楽天トラベル",
+   "size": "",
+   "source": "TRAICY（トライシー）",
+   "starts": null,
+   "title": "楽天トラベル、「JAL楽パック」で3日間限定セール開催",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4wWWdQVDZiYWpXWEFjNFM1WjBuMFhvNnJhRVAtSTdwMnRXXzR4WTQ1VldkOFZxelhTT09sM0VPUGtPbEZNX1lscFJoOTNmdERPZk9wdHVqaw?oc=5"
   },
   {
    "also": [],
@@ -658,22 +686,6 @@
    "starts": "2026-10-22",
    "title": "新千歳空港、国際線利用者の駐車料金を割引 札幌/千歳～バンクーバー線は無料、10月22日から",
    "url": "https://www.traicy.com/posts/20261105379892/"
-  },
-  {
-   "also": [],
-   "ends": null,
-   "home": false,
-   "image": "https://www.traicy.com/wp-content/uploads/2025/09/GK_A321neo_JA27LR.jpg",
-   "kind": "航空券",
-   "nationwide": false,
-   "published": "2026-11-05",
-   "score": 48,
-   "service": "",
-   "size": "",
-   "source": "TRAICY",
-   "starts": null,
-   "title": "ジェットスター・ジャパン、国内16路線でセール開催 片道3,690円から",
-   "url": "https://www.traicy.com/posts/20261105386920/"
   },
   {
    "also": [],
@@ -2377,10 +2389,7 @@
   "https://airstair.jp/yahoo-travel-timesale/",
   "https://airstair.jp/yahoo-travel/",
   "https://airstair.jp/year-end-new/",
-  "https://www.traicy.com/posts/20261105379892/",
-  "https://www.traicy.com/posts/20261105386880/",
-  "https://www.traicy.com/posts/20261105386920/",
-  "https://www.traicy.com/posts/20261105386922/"
+  "https://www.traicy.com/posts/20261105379892/"
  ],
  "running": [
   {
@@ -2485,11 +2494,11 @@
   }
  ],
  "stats": {
-  "articles": 803,
-  "deals": 147,
+  "articles": 806,
+  "deals": 148,
   "failed": 2,
   "fetched": 19,
-  "images": 30
+  "images": 27
  },
- "updated": "2026-11-07 13:23"
+ "updated": "2026-11-07 21:20"
 }
