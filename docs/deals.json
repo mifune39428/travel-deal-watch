@@ -156,7 +156,6 @@
   {
    "also": [
     "TRAICY（トライシー）",
-    "千葉テレビ放送株式会社",
     "ライブドアニュース"
    ],
    "ends": "2026-11-18",
@@ -172,6 +171,21 @@
    "starts": null,
    "title": "日本旅行、「タイムセール」を開催中 11月18日まで",
    "url": "https://www.traicy.com/posts/20261107387171/"
+  },
+  {
+   "also": [],
+   "ends": null,
+   "home": true,
+   "kind": "宿",
+   "nationwide": false,
+   "published": "2026-10-30",
+   "score": 67,
+   "service": "",
+   "size": "半額級",
+   "source": "トラベラーズナビ",
+   "starts": null,
+   "title": "岩手県の旅行支援「おでんせ！いわて旅割キャンペーン」宿泊最大半額クーポン",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE95ci1WbXUxOU9mM0V0MHktOHozTWdlNDRNVS1yM044WXBPOVRTX2pUN2NZQTlKVUlqbURLRUUxd2lULVBWZ1lTMk5Ya3oyTzhNbUFDQmROd3g4T3c?oc=5"
   },
   {
    "also": [],
@@ -278,21 +292,6 @@
    "starts": null,
    "title": "キャンペーン：年末年始も一部対象の「ジェットスター国内線セール」 国内16路線が片道3,690円から",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA0ZjJBWmlHZ1pnOFVDVFFhNlBIeUkyc1hFTFB3U25OR0huRlZCak1aYWdaRkNlRTUzLVZjM18xQ1NUZVhYZlY4M3RUWmpOTjJoSFJJRkRoWXhVdV9ZODFVblJwTG5Za1QyZEZ0VDZOUQ?oc=5"
-  },
-  {
-   "also": [],
-   "ends": null,
-   "home": false,
-   "kind": "宿",
-   "nationwide": false,
-   "published": "2026-11-05",
-   "score": 62,
-   "service": "",
-   "size": "最大30%OFF",
-   "source": "トラベル Watch",
-   "starts": null,
-   "title": "大江戸温泉物語Premium 山下家、1泊2食が最大30％オフ。豪華カニづくしバイキングと加賀一望の天空露天風呂",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9BWS1aUGczc1Mtc296Wm8yQXV6WEhWMVlXc0ljMVNpY3pjWTZuSlBWV3RlaTBIVzFVWXRUaXEzdkhoRkF0bmFIb2gyLVJMY0VvM3ZueF9XV3dLT2F1QnI2TkN5X3hkRVVv?oc=5"
   },
   {
    "also": [],
@@ -435,6 +434,21 @@
    "ends": null,
    "home": false,
    "kind": "宿",
+   "nationwide": false,
+   "published": "2026-11-08",
+   "score": 57,
+   "service": "楽天トラベル",
+   "size": "",
+   "source": "トラベラーズナビ",
+   "starts": null,
+   "title": "楽天トラベルの九州ふっこう応援割、宮崎県11月9日予約再開！クーポン・セール併用割引まとめ",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9rX05wWTlXZnNvTVFpYTFXZzdyTENUUEFCVnhMQU9lT2V4bWlhWlB6djh5MjNQcGg2VlFESnN4Y2pHRm1IbWVhXzZ0ZmtHUjEzTEQ4NVBUYkpyUFQxSkJTOUtsRllNZw?oc=5"
+  },
+  {
+   "also": [],
+   "ends": null,
+   "home": false,
+   "kind": "宿",
    "nationwide": true,
    "published": "2026-10-20",
    "score": 52,
@@ -529,11 +543,11 @@
    "published": "2026-10-30",
    "score": 52,
    "service": "じゃらん",
-   "size": "最大3万円",
-   "source": "トラベル Watch",
+   "size": "5万円",
+   "source": "トラベラーズナビ",
    "starts": null,
-   "title": "じゃらん、長崎・宮崎の「九州ふっこう応援割」予約再開。宿泊＋航空券が最大3万円引き、セールクーポン併用でさらにお得",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5vaXJXNHZxOU02SHh5Z0FsaEN5aE5aZUtZbkxKN0JIckxNLVBRbHk1blpiUTJDSUVxQ1JJYjBDYW5qWFhsTnYxNXhZNUJYT1NURGZEUW5tcXpCMldiQlBCTlpMWnpvVkFs?oc=5"
+   "title": "じゃらんのお得な10日間、次回11月15日クーポン配布！宿泊最大2.5万円割引やセールプラン併用でお得",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4zWDNFT296OTRxY3VoZ28wS3RVRXpQVC1BN1o0WkNJVmF4RzRNV1dCWjVXT2cxQW9CbVk3cEFUOGJBSVZJZ1E2REtnRFdFWVhqZVc2V2Nubw?oc=5"
   },
   {
    "also": [],
@@ -544,11 +558,11 @@
    "published": "2026-10-30",
    "score": 52,
    "service": "じゃらん",
-   "size": "5万円",
-   "source": "トラベラーズナビ",
+   "size": "最大3万円",
+   "source": "トラベル Watch",
    "starts": null,
-   "title": "じゃらんのお得な10日間、次回11月15日クーポン配布！宿泊最大2.5万円割引やセールプラン併用でお得",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4zWDNFT296OTRxY3VoZ28wS3RVRXpQVC1BN1o0WkNJVmF4RzRNV1dCWjVXT2cxQW9CbVk3cEFUOGJBSVZJZ1E2REtnRFdFWVhqZVc2V2Nubw?oc=5"
+   "title": "じゃらん、長崎・宮崎の「九州ふっこう応援割」予約再開。宿泊＋航空券が最大3万円引き、セールクーポン併用でさらにお得",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5vaXJXNHZxOU02SHh5Z0FsaEN5aE5aZUtZbkxKN0JIckxNLVBRbHk1blpiUTJDSUVxQ1JJYjBDYW5qWFhsTnYxNXhZNUJYT1NURGZEUW5tcXpCMldiQlBCTlpMWnpvVkFs?oc=5"
   },
   {
    "also": [],
@@ -848,6 +862,21 @@
    "also": [],
    "ends": null,
    "home": false,
+   "kind": "宿",
+   "nationwide": false,
+   "published": "2026-10-15",
+   "score": 37,
+   "service": "じゃらん",
+   "size": "1,000円",
+   "source": "トラベラーズナビ",
+   "starts": null,
+   "title": "【とちぎ旅】冬の平日宿泊キャンペーン、JTB・じゃらんで1,000円割引＆最大10万円分が当たる",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5NSlNfX2tUdUZwYWREWUdzU1hwV1dkdTdVcThvdVRvQkhjR0FFMGItVEt0TzlzREQ5YmdPU3VDNEg0N2Y1anZhbFQzUF9TTUpkdnF2ZUJ5S3JtNGN5YXpkbg?oc=5"
+  },
+  {
+   "also": [],
+   "ends": null,
+   "home": false,
    "image": "https://airstair.jp/images/2023/03/macbook-mockup-of-a-woman-working-m25408-r-el2.webp",
    "kind": "宿",
    "nationwide": false,
@@ -938,21 +967,6 @@
    "starts": null,
    "title": "山形県の宿泊割引クーポン・旅行支援情報まとめ｜GoToトラベル、やまがた旅割など観光キャンペーン一覧",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4yYXdjaFNSNFFpVlZxbEhKV0lyTWdwYWFSalVUcjl3NFVoLTRjNE9yWTN3YUZ6Qjh1U0x1Y0FvdEJoQ3k0S3k0SGpYTE8yczBZRXg3TlZ4SjROVzNucTRNakR3b0Y?oc=5"
-  },
-  {
-   "also": [],
-   "ends": null,
-   "home": true,
-   "kind": "宿",
-   "nationwide": false,
-   "published": "2026-09-28",
-   "score": 32,
-   "service": "",
-   "size": "",
-   "source": "PR TIMES",
-   "starts": "2026-10-01",
-   "title": "「まだバレていない秋田県。得旅キャンペーン第2弾」が10月１日よりスタート 休暇村乳頭温泉郷では、「温泉ソムリエが語る 乳頭温泉郷案内付きプラン」をお日にち限定で販売",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBFRHNzSkhsVTRteEF1VUlQdmloYTdRSGdMT053bGkySmN2VjRHU1VTc09JeWUtZGpKN0xiWnlKWmJQcmd2dnN2VDdReVF2YV83a3MySnBZMkZxWWw2RjJWVGg2Yl9IZjNmSlE?oc=5"
   },
   {
    "also": [],
@@ -1681,21 +1695,6 @@
    "home": false,
    "kind": "鉄道・バス",
    "nationwide": false,
-   "published": "2026-08-12",
-   "score": 21,
-   "service": "JR東日本",
-   "size": "50%OFF",
-   "source": "ASCII.jp",
-   "starts": null,
-   "title": "えきねっと改定で何が変わる？ 新幹線50％OFFの新割引と終了するサービスまとめ (1/2)",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBBdGdHNTJfenFiMVdheU9hWHZ2U2UtckkwQ043MC05RTRveVI1VGdmeFVLOS1JNlJZNHVEYV9QamRpd2FFdHBfN1hkMDhZNmw3dk9XTg?oc=5"
-  },
-  {
-   "also": [],
-   "ends": null,
-   "home": false,
-   "kind": "鉄道・バス",
-   "nationwide": false,
    "published": "2026-08-18",
    "score": 21,
    "service": "JR東日本",
@@ -1917,21 +1916,6 @@
    "starts": null,
    "title": "【2026年10月】じゃらんでどんなクーポンが使える？セールやキャンペーンも解説",
    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1yX3EtM3hUMjdMRkc0YV9LYkpZOFlyS0ZaNGl1M1FhTG1DTHRQd1JNSkhUT3N3eE9hQ0VQUjJOTS0xOTk4X3Iw?oc=5"
-  },
-  {
-   "also": [],
-   "ends": null,
-   "home": false,
-   "kind": "宿",
-   "nationwide": false,
-   "published": "2026-09-14",
-   "score": 17,
-   "service": "楽天トラベル",
-   "size": "",
-   "source": "トラベラーズナビ",
-   "starts": null,
-   "title": "楽天トラベルの九州ふっこう応援割、宮崎県11月9日予約再開！クーポン・セール併用割引まとめ",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9rX05wWTlXZnNvTVFpYTFXZzdyTENUUEFCVnhMQU9lT2V4bWlhWlB6djh5MjNQcGg2VlFESnN4Y2pHRm1IbWVhXzZ0ZmtHUjEzTEQ4NVBUYkpyUFQxSkJTOUtsRllNZw?oc=5"
   },
   {
    "also": [],
@@ -2405,11 +2389,11 @@
   }
  ],
  "stats": {
-  "articles": 797,
-  "deals": 142,
+  "articles": 807,
+  "deals": 141,
   "failed": 2,
   "fetched": 19,
   "images": 28
  },
- "updated": "2026-11-08 06:22"
+ "updated": "2026-11-08 13:05"
 }
