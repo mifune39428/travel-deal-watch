@@ -224,21 +224,6 @@
    "home": false,
    "kind": "宿",
    "nationwide": false,
-   "published": "2026-11-04",
-   "score": 67,
-   "service": "日本旅行",
-   "size": "5%OFF",
-   "source": "airstair",
-   "starts": null,
-   "title": "日本旅行「創業121周年！感謝祭」の121時間限定タイムセールの予約は2026年11月4日15:59まででした お1人様あたり5%割引",
-   "url": "https://airstair.jp/nta-anniversary-timesale/"
-  },
-  {
-   "also": [],
-   "ends": null,
-   "home": false,
-   "kind": "宿",
-   "nationwide": false,
    "published": "2026-11-05",
    "score": 67,
    "service": "じゃらん",
@@ -247,6 +232,21 @@
    "starts": "2026-11-05",
    "title": "じゃらんクーポンフェス、11月5日開始！宿泊最大2万円割引、旅行支援やポイント還元と併用可",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5mTThJSXhaY295aGplb2hWUWhWYTVLOW9XTGdVTmpIV0NRdmdVTzRLdHIzS0Y4UTU5NkVQTG9qaWZ2aFRjZWtnOXFwQnRBdzczZjBV?oc=5"
+  },
+  {
+   "also": [],
+   "ends": null,
+   "home": false,
+   "kind": "宿",
+   "nationwide": false,
+   "published": "2026-11-06",
+   "score": 67,
+   "service": "日本旅行",
+   "size": "5%OFF",
+   "source": "airstair",
+   "starts": null,
+   "title": "日本旅行「創業121周年！感謝祭」の121時間限定タイムセールの予約は2026年11月4日15:59まででした お1人様あたり5%割引",
+   "url": "https://airstair.jp/nta-anniversary-timesale/"
   },
   {
    "also": [],
@@ -441,6 +441,21 @@
    "score": 57,
    "service": "楽天トラベル",
    "size": "",
+   "source": "マイベスト",
+   "starts": null,
+   "title": "【2026年11月】楽天トラベルのクーポン・キャンペーン情報まとめ！安い日・お得な日はいつ？",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9rV0hjWXNncW9hQm8xaFAzTGFjX042ZTJvNTJzdThEWFQ4SXVCdDZmUkFTZXMwekRiNkM3Zmw3QUkzR094Vk5PNQ?oc=5"
+  },
+  {
+   "also": [],
+   "ends": null,
+   "home": false,
+   "kind": "宿",
+   "nationwide": false,
+   "published": "2026-11-09",
+   "score": 57,
+   "service": "楽天トラベル",
+   "size": "",
    "source": "トラベラーズナビ",
    "starts": null,
    "title": "楽天トラベルの九州ふっこう応援割、宮崎県11月9日予約再開！クーポン・セール併用割引まとめ",
@@ -452,14 +467,29 @@
    "home": false,
    "kind": "宿",
    "nationwide": false,
-   "published": "2026-11-08",
+   "published": "2026-11-09",
    "score": 57,
-   "service": "楽天トラベル",
+   "service": "じゃらん",
    "size": "",
-   "source": "マイベスト",
+   "source": "PR TIMES",
    "starts": null,
-   "title": "【2026年11月】楽天トラベルのクーポン・キャンペーン情報まとめ！安い日・お得な日はいつ？",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9rV0hjWXNncW9hQm8xaFAzTGFjX042ZTJvNTJzdThEWFQ4SXVCdDZmUkFTZXMwekRiNkM3Zmw3QUkzR094Vk5PNQ?oc=5"
+   "title": "さとふる、「じゃらんふるさと納税クーポン」の寄付受け付け件数が開始約1か月で1万件を突破",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBObjBCX24xaUktdnFhSW1pM01RNTNza1pkSy0wTVN0cEdPUG1SUlB3SldzellmamVfM3BIMG5EREREWFNCb2lla25WS2Vlek9pS1ZIek80Nlc1b19BdExaLVk5dFJDWWl0c1E?oc=5"
+  },
+  {
+   "also": [],
+   "ends": null,
+   "home": false,
+   "kind": "宿",
+   "nationwide": true,
+   "published": "2026-10-20",
+   "score": 52,
+   "service": "JTB",
+   "size": "最大60%OFF",
+   "source": "トラベル Watch",
+   "starts": null,
+   "title": "JTB「九州ふっこう応援割」鹿児県のWeb予約まもなくスタート。国内ツアー（交通＋宿泊）など最大60％オフ",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBSSjJ5eUxLOUlKNC1keWRjTHY1bEtqS2cyM3RxZi1TYU9relJrUjF4b1AwYzdfbVNiMThpWXdzcUJ3ZnNhVUhtUV9WSURhMVl0Rk1ZWlBZZy1jaU05bll5V3pwTEM2RVJ4?oc=5"
   },
   {
    "also": [],
@@ -674,6 +704,21 @@
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBIdmloREd5eWRQNnlHN1dGY1F5TUNmYUNKTlE4NDNqNm43cU1GdjR6b0M0eEpUM0g4bVB1R0U4aUxVajhwb2Y0b3lYbUN1ZmY0UUZTV0dJb19HYVBRNDRMcjl2V3BtZFF4?oc=5"
   },
   {
+   "also": [],
+   "ends": null,
+   "home": true,
+   "kind": "ツアー",
+   "nationwide": false,
+   "published": "2026-08-27",
+   "score": 43,
+   "service": "JR東日本",
+   "size": "最大5000円",
+   "source": "トラベル Watch",
+   "starts": null,
+   "title": "JR東日本、北海道・東北・北陸への旅がお得になる「秋のダイナミックレールパックタイムセール」。最大5000円引きクーポンも",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9qYTlRaHZpXzdlQzQ2Q0hzUnFYNGEzTjVUQ1RBalh0RHY2ZFJKWFZrTVNsbXlRWVZ4M0NrZnRGY3ZMUF9EeUtBdzlMN1dVS0ZRcGNERTNPX3RrVjNoWW5oLUZlRnpBNG4x?oc=5"
+  },
+  {
    "also": [
     "sky-budget スカイバジェット",
     "トラベル Watch"
@@ -736,21 +781,6 @@
    "starts": "2026-11-01",
    "title": "福島県「また来て。」割 第3期は2026年11月1日から12月25日宿泊分、第4期は2027年1月 3,000円割引の条件と予約方法",
    "url": "https://airstair.jp/fukushima-campaign/"
-  },
-  {
-   "also": [],
-   "ends": null,
-   "home": false,
-   "kind": "宿",
-   "nationwide": true,
-   "published": "2026-10-08",
-   "score": 42,
-   "service": "JTB",
-   "size": "最大60%OFF",
-   "source": "トラベル Watch",
-   "starts": null,
-   "title": "JTB「九州ふっこう応援割」熊本県の予約スタート。国内ツアー（交通＋宿泊）など最大60％オフ、福岡県は残りわずか",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Sc1BwOFlBa3VtZS1HZUlQRXNKczZ1S2hiMWMtY00zRWdSNTdVcGU1X2F0X0h5S3VtQkZucXdvTFRJWDd4aDd1YThNRmNNUkgzU2owNWNlMk9GVmxKcVNtNllRaWxfUm1X?oc=5"
   },
   {
    "also": [],
@@ -2345,11 +2375,11 @@
   }
  ],
  "stats": {
-  "articles": 805,
-  "deals": 138,
+  "articles": 814,
+  "deals": 140,
   "failed": 2,
   "fetched": 19,
   "images": 29
  },
- "updated": "2026-11-09 06:37"
+ "updated": "2026-11-09 13:21"
 }
