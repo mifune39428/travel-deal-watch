@@ -140,6 +140,7 @@
   },
   {
    "also": [
+    "千葉テレビ放送株式会社",
     "ライブドアニュース"
    ],
    "ends": "2026-11-18",
@@ -154,22 +155,6 @@
    "starts": null,
    "title": "日本旅行、「タイムセール」を開催中 11月18日まで",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE53eHZ4UEZzbTBQTnhZdGpMVzA1THoyU0VGVzB5TUZFUDNSZ3l0R3JlWlZmNVhKX0NVV3NrLUFwOUo0QUt4QkczWEFMdW9la0wwWTdjVWhxTQ?oc=5"
-  },
-  {
-   "also": [],
-   "ends": "2026-11-15",
-   "home": false,
-   "image": "https://www.traicy.com/wp-content/uploads/2024/09/UO-2.jpg",
-   "kind": "航空券",
-   "nationwide": false,
-   "published": "2026-11-09",
-   "score": 68,
-   "service": "",
-   "size": "最大15%OFF",
-   "source": "TRAICY",
-   "starts": null,
-   "title": "香港エクスプレス、JCBカード決済で香港行き運賃を最大15％割引 11月15日まで",
-   "url": "https://www.traicy.com/posts/20261109387032/"
   },
   {
    "also": [],
@@ -262,6 +247,21 @@
    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5DV2FhN1hGbWpPd2VlNUV6b2pOZm5sbHc5V0VmVkxUUWJJLTAyMm5qUjhhT3FSYmN2NHZfZk85dFRXckxCSFA1cDJEOWhGOGpqbmZUX2o0cWRESDdCcl9n?oc=5"
   },
   {
+   "also": [],
+   "ends": null,
+   "home": false,
+   "kind": "宿",
+   "nationwide": false,
+   "published": "2026-11-10",
+   "score": 67,
+   "service": "楽天トラベル",
+   "size": "最大20,000円",
+   "source": "トラベラーズナビ",
+   "starts": null,
+   "title": "楽天トラベル「楽パック20周年スペシャルオファー」最大20,000円クーポン",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE95RzdLTXZYLTNSQllHbzZxck1iak5RWVNKcjdFMXpjQ09iVzhQNHFPX2dQU3ExOEluaGJmak5KMk5Zd2J0RXRudGFWMkR4ZHlYeEE1b0FETQ?oc=5"
+  },
+  {
    "also": [
     "TRAICY（トライシー）",
     "千葉テレビ放送株式会社"
@@ -310,21 +310,6 @@
    "starts": null,
    "title": "岩手県の宿泊割引クーポン・旅行支援情報まとめ｜GoToトラベル、いわて旅割など観光キャンペーン一覧",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1yZjhWYjFDSU1YSmw3TkJsZXVvZnNlUzJYbGd1T1lPWmVjM2dLZ3YwRkItTEE3M0xUd29LRWZYT09BeGFwSmd1SEN0Vk9ucjBkVHdmTE5rX1phaTNsWk5kNmxB?oc=5"
-  },
-  {
-   "also": [],
-   "ends": null,
-   "home": true,
-   "kind": "宿",
-   "nationwide": false,
-   "published": "2026-10-31",
-   "score": 57,
-   "service": "",
-   "size": "",
-   "source": "トラベラーズナビ",
-   "starts": null,
-   "title": "福島県の宿泊割引クーポン・旅行支援情報まとめ｜GoToトラベルや来て割など観光キャンペーン一覧",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE85YlFObTJOQzkzQlZ1NmYwbHNIeXRyMXhTbVVkX1cyS253QVktXzQ2QXd1eG9Vb3lCZjlOVnNOTDV0YmN2c0IyOG5zTE51MnhrbWJ6dnA2WFdMdw?oc=5"
   },
   {
    "also": [],
@@ -431,22 +416,6 @@
    "starts": null,
    "title": "さとふる、「じゃらんふるさと納税クーポン」の寄付受け付け件数が開始約1か月で1万件を突破",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBObjBCX24xaUktdnFhSW1pM01RNTNza1pkSy0wTVN0cEdPUG1SUlB3SldzellmamVfM3BIMG5EREREWFNCb2lla25WS2Vlek9pS1ZIek80Nlc1b19BdExaLVk5dFJDWWl0c1E?oc=5"
-  },
-  {
-   "also": [],
-   "ends": null,
-   "home": false,
-   "image": "https://www.traicy.com/wp-content/uploads/2026/11/JRQ-VN.jpg",
-   "kind": "鉄道・バス",
-   "nationwide": false,
-   "published": "2026-11-09",
-   "score": 56,
-   "service": "",
-   "size": "5%OFF",
-   "source": "TRAICY",
-   "starts": null,
-   "title": "ベトナム航空とJR九州、ロータスマイル会員向け博多銘品蔵5％オフやレールパス割引を提供中",
-   "url": "https://www.traicy.com/posts/20261109387229/"
   },
   {
    "also": [],
@@ -647,6 +616,22 @@
   {
    "also": [],
    "ends": null,
+   "home": false,
+   "image": "https://www.traicy.com/wp-content/uploads/2026/11/fb94e68e3295814dbdaf2f7ab2ebd50f.jpg",
+   "kind": "ツアー",
+   "nationwide": false,
+   "published": "2026-11-10",
+   "score": 48,
+   "service": "",
+   "size": "",
+   "source": "TRAICY",
+   "starts": null,
+   "title": "名鉄観光、「ブラックフライデー タイムセール」実施 スカイマーク利用のツアーが対象",
+   "url": "https://www.traicy.com/posts/20261110387044/"
+  },
+  {
+   "also": [],
+   "ends": null,
    "home": true,
    "kind": "宿",
    "nationwide": false,
@@ -658,36 +643,6 @@
    "starts": null,
    "title": "秋田県、宿泊最大1万2000円引き「得旅キャンペーン」第2弾は10月1日予約スタート。じゃらん/楽天など4社で受付",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBIdmloREd5eWRQNnlHN1dGY1F5TUNmYUNKTlE4NDNqNm43cU1GdjR6b0M0eEpUM0g4bVB1R0U4aUxVajhwb2Y0b3lYbUN1ZmY0UUZTV0dJb19HYVBRNDRMcjl2V3BtZFF4?oc=5"
-  },
-  {
-   "also": [],
-   "ends": null,
-   "home": false,
-   "kind": "宿",
-   "nationwide": false,
-   "published": "2026-10-31",
-   "score": 47,
-   "service": "",
-   "size": "4,000円",
-   "source": "トラベラーズナビ",
-   "starts": null,
-   "title": "宗像宿泊キャンペーン「ぐるり、むな旅」1セット4,000円分のクーポンが半額、1人4セットまで購入可",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1TMkZKaTZKUXhEVG1JMzYyVEpkZkptQzVuQ0M2dWRoa2U2Zy1zaVRfMy1EWTlTa3RKeUhiSl8ySkZoemtXN2VlclowbWRsNV95bWpv?oc=5"
-  },
-  {
-   "also": [],
-   "ends": null,
-   "home": true,
-   "kind": "ツアー",
-   "nationwide": false,
-   "published": "2026-08-27",
-   "score": 43,
-   "service": "JR東日本",
-   "size": "最大5000円",
-   "source": "トラベル Watch",
-   "starts": null,
-   "title": "JR東日本、北海道・東北・北陸への旅がお得になる「秋のダイナミックレールパックタイムセール」。最大5000円引きクーポンも",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9qYTlRaHZpXzdlQzQ2Q0hzUnFYNGEzTjVUQ1RBalh0RHY2ZFJKWFZrTVNsbXlRWVZ4M0NrZnRGY3ZMUF9EeUtBdzlMN1dVS0ZRcGNERTNPX3RrVjNoWW5oLUZlRnpBNG4x?oc=5"
   },
   {
    "also": [
@@ -1062,6 +1017,21 @@
    "starts": null,
    "title": "JAL、9月の国内線タイムセールまもなくスタート。初日はJMB会員限定、伊丹～旭川/帯広が1万2760円から",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBZcTlXZGpRRERWVEt6NTJOUWtDZkVqM2tHZGo4alRrUF9PY3JBSWQ3TzFVSFJkTjg3NXBWZ3lvN0VkS0RialpZdHl2Ti1QZE9TMUJ2VTFMZHdjNFA4cVRQVm9WV2xUMDc3?oc=5"
+  },
+  {
+   "also": [],
+   "ends": null,
+   "home": false,
+   "kind": "航空券",
+   "nationwide": true,
+   "published": "2026-09-07",
+   "score": 28,
+   "service": "JAL",
+   "size": "",
+   "source": "TRAICY（トライシー）",
+   "starts": null,
+   "title": "JAL、12月の国内線でタイムセール あすからJMB会員先行予約開始",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBkRW81YjZGUXV4TXBFZEZVUWUxOXJDSU5BamFxLVB3MktKamFMUTQ5NUZCU3ptNWJMVkYzendVbmRJUE1QbmczOXM5Q0EwaVJHNkNLazd5VQ?oc=5"
   },
   {
    "also": [],
@@ -1645,21 +1615,6 @@
    "starts": null,
    "title": "新幹線が50％割引！えきねっと『トクだ値スペシャル28』『特急トクだ値スペシャル28』発売！利用10月14日～27日、12月7日～17日の平日。乗車日1ヶ月前発売。",
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBSUzQ5b3RLN05BNGZha3ZlYk4zVkxGaTVieExQWHlxbHp5VGt0UTVKWkRZMFhpZGRRY3NXVVpFdmxwRGcyYUE0TFpKUW1wd1BVMlE?oc=5"
-  },
-  {
-   "also": [],
-   "ends": null,
-   "home": false,
-   "kind": "鉄道・バス",
-   "nationwide": false,
-   "published": "2026-08-09",
-   "score": 21,
-   "service": "JR東日本",
-   "size": "半額級",
-   "source": "DXマガジン",
-   "starts": null,
-   "title": "【JR東日本・JR北海道】新幹線・特急が平日半額に！えきねっと限定「トクだ値スペシャル28」を発売",
-   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB1aktCUlhVaTVib3BHUUdWajBNWHlNRE9WLUlLYXFxaHlCbmtITFBIbGNWenAzNEZDRG9qcGdEWXRpcmExVHZVTXhHZ3k?oc=5"
   },
   {
    "also": [],
@@ -2253,10 +2208,9 @@
   "https://airstair.jp/yahoo-travel-timesale/",
   "https://airstair.jp/yahoo-travel/",
   "https://airstair.jp/year-end-new/",
-  "https://www.traicy.com/posts/20261109387032/",
-  "https://www.traicy.com/posts/20261109387229/",
   "https://www.traicy.com/posts/20261109387299/",
-  "https://www.traicy.com/posts/20261109387533/"
+  "https://www.traicy.com/posts/20261109387533/",
+  "https://www.traicy.com/posts/20261110387044/"
  ],
  "running": [
   {
@@ -2361,11 +2315,11 @@
   }
  ],
  "stats": {
-  "articles": 818,
-  "deals": 139,
+  "articles": 810,
+  "deals": 136,
   "failed": 2,
   "fetched": 19,
-  "images": 29
+  "images": 28
  },
- "updated": "2026-11-10 10:06"
+ "updated": "2026-11-10 23:12"
 }
