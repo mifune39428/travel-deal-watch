@@ -110,6 +110,21 @@
   },
   {
    "also": [],
+   "ends": "2026-11-19",
+   "home": false,
+   "kind": "宿",
+   "nationwide": false,
+   "published": "2026-11-10",
+   "score": 77,
+   "service": "じゃらん",
+   "size": "半額級",
+   "source": "トラベラーズナビ",
+   "starts": null,
+   "title": "じゃらんスペシャルウィーク、11月19日まで開催！宿泊半額プランや高額旅行クーポン・旅行支援併用でお得",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE53akh5UDV5YV9KaWpWdnJ0bVRUM2hOa1ZhMDlZVU9qeExfdHZjMFFRamEzNjQ1NGRPQjMwNWFENF85S0lPSkZaOXlJNTVuQTJBTDBycWRRNVpQN001TGc?oc=5"
+  },
+  {
+   "also": [],
    "ends": null,
    "home": false,
    "kind": "宿",
@@ -237,36 +252,6 @@
    "home": false,
    "kind": "宿",
    "nationwide": false,
-   "published": "2026-11-09",
-   "score": 67,
-   "service": "楽天トラベル",
-   "size": "最大5,000円",
-   "source": "トラベラーズナビ",
-   "starts": null,
-   "title": "島根県「冬旅しまね宿泊キャンペーン2026」じゃらん・楽天トラベルで宿泊最大5,000円割引クーポン",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5DV2FhN1hGbWpPd2VlNUV6b2pOZm5sbHc5V0VmVkxUUWJJLTAyMm5qUjhhT3FSYmN2NHZfZk85dFRXckxCSFA1cDJEOWhGOGpqbmZUX2o0cWRESDdCcl9n?oc=5"
-  },
-  {
-   "also": [],
-   "ends": null,
-   "home": false,
-   "kind": "宿",
-   "nationwide": false,
-   "published": "2026-11-09",
-   "score": 67,
-   "service": "一休.com",
-   "size": "10%OFF",
-   "source": "トラベラーズナビ",
-   "starts": null,
-   "title": "【最新】ヤフートラベルの旅行クーポン・セールまとめ！今ならカード決済で+10%ポイント還元でお得に宿泊予約",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBfSldyRTRxZ3luTW5qbGxjV09ibVk1VDZJVmw3dWFfUDBQWDA5RlpHaWl4YUtPMHprQVZJSUxCMUFubHdjZmlhSjVNQVRSMDU5dXZ1OQ?oc=5"
-  },
-  {
-   "also": [],
-   "ends": null,
-   "home": false,
-   "kind": "宿",
-   "nationwide": false,
    "published": "2026-11-10",
    "score": 67,
    "service": "楽天トラベル",
@@ -275,6 +260,36 @@
    "starts": null,
    "title": "楽天トラベル「楽パック20周年スペシャルオファー」最大20,000円クーポン",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE95RzdLTXZYLTNSQllHbzZxck1iak5RWVNKcjdFMXpjQ09iVzhQNHFPX2dQU3ExOEluaGJmak5KMk5Zd2J0RXRudGFWMkR4ZHlYeEE1b0FETQ?oc=5"
+  },
+  {
+   "also": [],
+   "ends": null,
+   "home": false,
+   "kind": "航空券",
+   "nationwide": true,
+   "published": "2026-11-06",
+   "score": 63,
+   "service": "",
+   "size": "",
+   "source": "デジカメ Watch",
+   "starts": null,
+   "title": "キャンペーン：年末年始も一部対象の「ジェットスター国内線セール」 国内16路線が片道3,690円から",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA0ZjJBWmlHZ1pnOFVDVFFhNlBIeUkyc1hFTFB3U25OR0huRlZCak1aYWdaRkNlRTUzLVZjM18xQ1NUZVhYZlY4M3RUWmpOTjJoSFJJRkRoWXhVdV9ZODFVblJwTG5Za1QyZEZ0VDZOUQ?oc=5"
+  },
+  {
+   "also": [],
+   "ends": null,
+   "home": false,
+   "kind": "宿",
+   "nationwide": false,
+   "published": "2026-11-09",
+   "score": 62,
+   "service": "",
+   "size": "10%OFF",
+   "source": "トラベラーズナビ",
+   "starts": null,
+   "title": "【最新】ヤフートラベルの旅行クーポン・セールまとめ！今ならカード決済で+10%ポイント還元でお得に宿泊予約",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBfSldyRTRxZ3luTW5qbGxjV09ibVk1VDZJVmw3dWFfUDBQWDA5RlpHaWl4YUtPMHprQVZJSUxCMUFubHdjZmlhSjVNQVRSMDU5dXZ1OQ?oc=5"
   },
   {
    "also": [],
@@ -321,6 +336,21 @@
    "starts": null,
    "title": "じゃらんの九州ふっこう応援割、宮崎県11月4日予約開始！クーポン・セール併用割引まとめ",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5oN29TRThYNDA5T05iaHowYklzNHI1cEpTTGNVZ0xhWWNENGZ1NngtcjUxOHRhTEJCTThjNzdEQ3FITFYtbDMzN3hUMFBsdm1zSFlLUFRORjFsT2RLdnRfY0c1RQ?oc=5"
+  },
+  {
+   "also": [],
+   "ends": null,
+   "home": false,
+   "kind": "宿",
+   "nationwide": false,
+   "published": "2026-11-06",
+   "score": 57,
+   "service": "JTB",
+   "size": "",
+   "source": "るるぶWeb",
+   "starts": null,
+   "title": "【2026年11月最新】JTBのクーポンコード一覧！｜初回・2回目以降の割引情報＆使い方をまとめて紹介",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1FME1hOG5xd3pOZmkyUUk3dU5ZNkRUa1NwTi01MzdfM1o4cmh1aUkyLXgyWmZ0WlBFNXBkT282R09GYWtSOW5JUWlNU1BqeUhh?oc=5"
   },
   {
    "also": [],
@@ -1001,6 +1031,41 @@
    "url": "https://airstair.jp/yahoo-travel/"
   },
   {
+   "also": [
+    "民泊専門メディア Airstair"
+   ],
+   "ends": null,
+   "home": false,
+   "image": "https://airstair.jp/images/2023/07/jalan-coupon-fes-1.webp",
+   "kind": "宿",
+   "nationwide": false,
+   "published": "2026-10-19",
+   "score": 32,
+   "service": "じゃらん",
+   "size": "",
+   "source": "airstair",
+   "starts": null,
+   "title": "じゃらんクーポンフェスの2026年9月開催回は2026年10月16日で終了 次回いつ？配布日と攻略法 [PR]",
+   "url": "https://airstair.jp/jalan-fes/"
+  },
+  {
+   "also": [
+    "北海道新聞デジタル"
+   ],
+   "ends": null,
+   "home": false,
+   "kind": "宿",
+   "nationwide": false,
+   "published": "2026-10-19",
+   "score": 32,
+   "service": "ふるさと納税",
+   "size": "",
+   "source": "47NEWS",
+   "starts": null,
+   "title": "室蘭市、ふるさと納税返礼品に宿泊クーポン 交流人口拡大目指す",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1MR3BXT0lDcmRYM1gtUURvMFlSUjNlVmNrS1FId2pXNmpFNGFEUENacDFvTHRXVVBRUGhrMlJaQnZLMlMwT1lkRGQ4OA?oc=5"
+  },
+  {
    "also": [],
    "ends": null,
    "home": false,
@@ -1070,10 +1135,10 @@
    "score": 28,
    "service": "JAL",
    "size": "",
-   "source": "TRAICY（トライシー）",
+   "source": "FlyTeam",
    "starts": null,
-   "title": "JAL、国内線でタイムセール 12月〜1月搭乗分対象、JMB会員先行予約も",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9jd2ZsWXdBNE1MTXNxNExzNk1POHFJQ2RZWGhrWG5XZWJ1MEpqdnB2VVBENFFZOWpodVNyc3hsYjNxU001eDV0T3BjTThWdHVWNlpxZTVpYw?oc=5"
+   "title": "JAL、12〜1月対象 “2日限定”国内線タイムセール開催！ 10月6日スタート",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE44emtRaWROMEdwZ29ZbTkzdmNSZFRIQk9XTm1Ka0Z1aGFFdVJEOUEtX0NsaVZJUEhxVmx2Vk85YVdSRnlTWlJXbmt4TFd2SU0?oc=5"
   },
   {
    "also": [],
@@ -1085,10 +1150,10 @@
    "score": 28,
    "service": "JAL",
    "size": "",
-   "source": "FlyTeam",
+   "source": "TRAICY（トライシー）",
    "starts": null,
-   "title": "JAL、12〜1月対象 “2日限定”国内線タイムセール開催！ 10月6日スタート",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE44emtRaWROMEdwZ29ZbTkzdmNSZFRIQk9XTm1Ka0Z1aGFFdVJEOUEtX0NsaVZJUEhxVmx2Vk85YVdSRnlTWlJXbmt4TFd2SU0?oc=5"
+   "title": "JAL、国内線でタイムセール 12月〜1月搭乗分対象、JMB会員先行予約も",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9jd2ZsWXdBNE1MTXNxNExzNk1POHFJQ2RZWGhrWG5XZWJ1MEpqdnB2VVBENFFZOWpodVNyc3hsYjNxU001eDV0T3BjTThWdHVWNlpxZTVpYw?oc=5"
   },
   {
    "also": [
@@ -1407,37 +1472,6 @@
    "starts": null,
    "title": "一休.com の賢い使い方｜元旅行会社員が教える割引・ポイント・プライム活用術",
    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5VWjJIbTdxMFNFN25CbWk1SXAta1dWYzdoOXRIbTFlemotUkNYWnV4M3hQTmlpeS1BXzJmQXZ6X3BzM2s1aGh2Yw?oc=5"
-  },
-  {
-   "also": [],
-   "ends": null,
-   "home": false,
-   "image": "https://airstair.jp/images/2023/07/jalan-coupon-fes-1.webp",
-   "kind": "宿",
-   "nationwide": false,
-   "published": "2026-10-19",
-   "score": 27,
-   "service": "じゃらん",
-   "size": "",
-   "source": "airstair",
-   "starts": null,
-   "title": "じゃらんクーポンフェスの2026年9月開催回は2026年10月16日で終了 次回いつ？配布日と攻略法 [PR]",
-   "url": "https://airstair.jp/jalan-fes/"
-  },
-  {
-   "also": [],
-   "ends": null,
-   "home": false,
-   "kind": "宿",
-   "nationwide": false,
-   "published": "2026-10-19",
-   "score": 27,
-   "service": "ふるさと納税",
-   "size": "",
-   "source": "47NEWS",
-   "starts": null,
-   "title": "室蘭市、ふるさと納税返礼品に宿泊クーポン 交流人口拡大目指す",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1MR3BXT0lDcmRYM1gtUURvMFlSUjNlVmNrS1FId2pXNmpFNGFEUENacDFvTHRXVVBRUGhrMlJaQnZLMlMwT1lkRGQ4OA?oc=5"
   },
   {
    "also": [],
@@ -1799,14 +1833,14 @@
    "home": false,
    "kind": "宿",
    "nationwide": false,
-   "published": "2026-08-08",
+   "published": "2026-08-07",
    "score": 17,
-   "service": "一休.com",
+   "service": "ふるさと納税",
    "size": "",
-   "source": "民泊専門メディア Airstair",
+   "source": "PR TIMES",
    "starts": null,
-   "title": "一休.comのセールはいつ？ 毎月1日・9日・19日の周期と2026年8月の開催スケジュール",
-   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFB0S0pOOXFsQ1VxTXdjNjJGdGVHYUhSM1JDbnp5SWpQTUprS0dVaExzY0hqbXB5U21oeGxETnlUOHVUVmdZTnBv?oc=5"
+   "title": "＜新登場＞福岡市ふるさと納税！ホテルのみに適用できる旅行クーポンがグットリから出ました！",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1iS0gyVWVod1JKWUYzc01HSzJJZE9qT0p4dzEya1VOdm5reWNkMVR5LUhmMGZwU2piTTMtZGR4aXhRVS0xN2FWRjFqanhpQ3FCSmE1VDdwTHBfeUFwNXpxUVpWNkxwbDhZN0E?oc=5"
   },
   {
    "also": [],
@@ -1934,6 +1968,21 @@
    "also": [],
    "ends": null,
    "home": false,
+   "kind": "宿",
+   "nationwide": false,
+   "published": "2026-09-24",
+   "score": 17,
+   "service": "楽天トラベル",
+   "size": "",
+   "source": "トラベル Watch",
+   "starts": null,
+   "title": "楽天トラベル、宮崎・大分の「九州ふっこう応援割」9月25日予約スタート。佐賀もこのあと12時から受付開始",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB2WE1jcUYyVFo1SjREc1JmaGxlSlFDTnh2S3BIMkY2Q0pPemtqWWUxZnlreTdLRW5paV81VTZfbFRxMl9GLXhiRjR0UklaXzJ1S1NLYlpkZ1N1MV9WQ01DY2J3clhQb0I0?oc=5"
+  },
+  {
+   "also": [],
+   "ends": null,
+   "home": false,
    "image": "https://airstair.jp/images/2024/12/rakuten-shinshun.webp",
    "kind": "宿",
    "nationwide": false,
@@ -1945,21 +1994,6 @@
    "starts": null,
    "title": "楽天トラベル「新春フェア」2026年は1月9日で終了 次回の開催予想と今使えるクーポン",
    "url": "https://airstair.jp/year-end-new/"
-  },
-  {
-   "also": [],
-   "ends": null,
-   "home": false,
-   "kind": "宿",
-   "nationwide": false,
-   "published": "2026-10-01",
-   "score": 17,
-   "service": "じゃらん",
-   "size": "",
-   "source": "愛知県美浜町",
-   "starts": null,
-   "title": "【美浜町ふるさと納税返礼品】じゃらんふるさと納税クーポンが追加されました／愛知県美浜町",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZTlnTXZVUzlBMF95aDZQNUdyYkpDRnhiSF9ZR2plSG9QLTd2OGdEdmthZEhFUVlIQTVydThYYk5OZzNGeXhlUnZfR3dVemFOTVJCalB2MEdwd0NDU2pIMlpxSlpBSFAwZ1BiNjloLXF6WFhMS2t0Y3E2SHc2QWhOdWN1Q28yN0tfN0E?oc=5"
   },
   {
    "also": [],
@@ -1990,6 +2024,21 @@
    "starts": null,
    "title": "日本旅行、「九州ふっこう応援割」を10月6日午後2時販売開始 熊本県対象",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBobUN3ZC1kSGo1Yk9jeXZYNEFsQ1NUM0ZNeTlsR1ZBRm51SHo0UGg4TDJieDlCOWFjU2l6dXZMWWNUclNNOGdtcEpLdHdCSVJwN2ZUSjN5UQ?oc=5"
+  },
+  {
+   "also": [],
+   "ends": null,
+   "home": false,
+   "kind": "宿",
+   "nationwide": false,
+   "published": "2026-10-07",
+   "score": 17,
+   "service": "JTB",
+   "size": "",
+   "source": "TRAICY（トライシー）",
+   "starts": null,
+   "title": "JTB、「九州ふっこう応援割」を10月7日午後1時販売開始 福岡県対象",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAwbWRVckRmTGl0aXdRTWJrcGlrbkI2UDVELXpSaWZEZkI1b1NISC1Ya0pmNHgxYzRmZUpjbC11dmR4ZDcwajZLZlRLejI0aGJjYWs4Ny1kTQ?oc=5"
   },
   {
    "also": [],
@@ -2388,10 +2437,10 @@
  ],
  "stats": {
   "articles": 816,
-  "deals": 141,
+  "deals": 144,
   "failed": 2,
   "fetched": 19,
   "images": 28
  },
- "updated": "2026-11-11 13:26"
+ "updated": "2026-11-11 22:27"
 }
