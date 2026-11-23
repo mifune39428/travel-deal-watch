@@ -109,6 +109,23 @@
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE54eXl6RG9EdUlEZm5jZm1PLXByUTdKMTRfQ1hqU0xCZlBxWkwtLWRFeDRLSXBRQ3EtOEJKUUlKSUFfX0pJaTYtcXM4SE56WDBVZW5KYTR0T0NwR3M?oc=5"
   },
   {
+   "also": [
+    "ライブドアニュース"
+   ],
+   "ends": "2026-11-30",
+   "home": false,
+   "kind": "宿",
+   "nationwide": false,
+   "published": "2026-11-23",
+   "score": 72,
+   "service": "日本旅行",
+   "size": "",
+   "source": "TRAICY（トライシー）",
+   "starts": null,
+   "title": "日本旅行、ブラックフライデーセール開催 11月30日まで",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9wN25hbHVCeFB2SEZHdEZRTGI3TVRybVQ5S3g3T3RSZDcwYlhoc1lMbk8yQlllcHNtX0w1NkV6SHlBT1hBaGV0S2lwb28xeVhtMnZJeHRmdw?oc=5"
+  },
+  {
    "also": [],
    "ends": null,
    "home": false,
@@ -192,12 +209,12 @@
    "nationwide": false,
    "published": "2026-11-19",
    "score": 67,
-   "service": "楽天トラベル",
-   "size": "最大30%OFF",
-   "source": "トラベラーズナビ",
+   "service": "じゃらん",
+   "size": "最大36%OFF",
+   "source": "TRAICY（トライシー）",
    "starts": null,
-   "title": "楽天トラベル ブラックフライデー開催、ホテル最大30％OFFなど高額クーポン情報まとめ",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5WR056anVZQ09YclpNSDRNRl9Hb3pDeHR3akswS29GOFNIMy1XVmdoZXlBTjJiM2lfSTdDN2g1OTBSbzNLeEpXeTBzaFp1bW1wR2h5NEdQcjk?oc=5"
+   "title": "じゃらんnet、「じゃらんのお得な10日間」開催 最大36％お得に",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5sSzBfQkdwYzd2dUxfSk9EYW1mQTliaEJPcGxKQzJBNE40R0daMklOS2pjTTFHZFJfLTluODhiSFMtRWk4Tkx2dFIyNVQ2RGlua2tKSjdzNA?oc=5"
   },
   {
    "also": [],
@@ -243,6 +260,36 @@
    "starts": null,
    "title": "全国自治体の宿泊・旅行割引キャンペーンまとめ",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9YUU02R2hHQWtfaEF5alY0WFZKWEJGbGVxWmkwZ3pSR1JaNVhrT0ZCc0dVeWhsdU50OWczd2tmR3BhRGJHNEtIYjlCV2pvZnFJNlJPYg?oc=5"
+  },
+  {
+   "also": [],
+   "ends": null,
+   "home": false,
+   "kind": "宿",
+   "nationwide": false,
+   "published": "2026-11-23",
+   "score": 67,
+   "service": "楽天トラベル",
+   "size": "最大30%OFF",
+   "source": "トラベラーズナビ",
+   "starts": null,
+   "title": "楽天トラベル ブラックフライデー開催、ホテル最大30％OFFなど高額クーポン情報まとめ",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5WR056anVZQ09YclpNSDRNRl9Hb3pDeHR3akswS29GOFNIMy1XVmdoZXlBTjJiM2lfSTdDN2g1OTBSbzNLeEpXeTBzaFp1bW1wR2h5NEdQcjk?oc=5"
+  },
+  {
+   "also": [],
+   "ends": null,
+   "home": false,
+   "kind": "宿",
+   "nationwide": false,
+   "published": "2026-11-23",
+   "score": 67,
+   "service": "楽天トラベル",
+   "size": "最大7,000円",
+   "source": "トラベラーズナビ",
+   "starts": null,
+   "title": "松江市の宿泊割引「冬旅クーポン」じゃらん・楽天トラベルで最大7,000円割引",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE56bG16NklSOE9hQlRfdWMxOWg2T0RFdXQxUmNWYVVJenNjQmJIOExKSUZMdmlLeklFOXotdjRualdDVWM1dEhRVjdxUm90VWpLd3lJZ0VLeHZVQQ?oc=5"
   },
   {
    "also": [],
@@ -606,22 +653,6 @@
   {
    "also": [],
    "ends": null,
-   "home": false,
-   "image": "https://sky-budget.com/wp-content/uploads/2026/11/main-6-e1795259548317.jpg",
-   "kind": "航空券",
-   "nationwide": false,
-   "published": "2026-11-21",
-   "score": 53,
-   "service": "JAL",
-   "size": "",
-   "source": "sky-budget",
-   "starts": null,
-   "title": "JAL NEOBANK、外貨送金の受取で最大15万マイルを付与するキャンペーンを開始",
-   "url": "https://sky-budget.com/2026/11/21/jal-neobank-news/"
-  },
-  {
-   "also": [],
-   "ends": null,
    "home": true,
    "kind": "宿",
    "nationwide": false,
@@ -755,21 +786,6 @@
    "starts": null,
    "title": "ANA国内線タイムセール11/19まで開催。1～3月搭乗分、羽田～九州1万1,000円～",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE53OWpEMWdpVHkzRmZKZ1FUZmFlUnhhcFpEMkVMNVdmdWpjZ1M0UDhZZG5ZUGhfWFZCTF9rYl9tS3pONDU1ZHh3cTFZNGNZY0ktejlrR2FB?oc=5"
-  },
-  {
-   "also": [],
-   "ends": null,
-   "home": false,
-   "kind": "航空券",
-   "nationwide": true,
-   "published": "2026-11-14",
-   "score": 48,
-   "service": "",
-   "size": "",
-   "source": "タビリス",
-   "starts": null,
-   "title": "JAL国内線タイムセールを11/17開催。ブラックフライデー、1月～2月搭乗分",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBfb3VBeG5oeDVHT2NYdmJWOFBPanJiZ1VQWlhJOC1EdWxfZlAyaUxrTUVrMHZ1cE16UElFeWFkbjJLVlR6dTU3UUVLRXlCQlRIUjNmc2g2bTc?oc=5"
   },
   {
    "also": [],
@@ -1159,6 +1175,24 @@
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE85OHZLWU9LeUdRYWNublhHZTNfaFJNWG9CdjdxVUhXVHRCQ0dPNWdRb1NmVnlHRnhQVEpOT0taNExTVDJvMjA4VG1jTklrMVQzY0FjMVNjSQ?oc=5"
   },
   {
+   "also": [
+    "airstair.jp"
+   ],
+   "ends": null,
+   "home": false,
+   "image": "https://airstair.jp/images/2024/11/rakuten-rentcar-top.webp",
+   "kind": "宿",
+   "nationwide": false,
+   "published": "2026-08-18",
+   "score": 32,
+   "service": "楽天トラベル",
+   "size": "最大10%OFF",
+   "source": "airstair",
+   "starts": null,
+   "title": "【2026年8月】楽天トラベルレンタカークーポン 次回いつ？5と0のつく日から48時間・最大10%OFF",
+   "url": "https://airstair.jp/rakuten-rentcar-coupon/"
+  },
+  {
    "also": [],
    "ends": null,
    "home": true,
@@ -1294,22 +1328,6 @@
    "starts": null,
    "title": "日本旅行「夏旅2026キャンペーン」国内・海外旅行最大4万円割引クーポン配布、旅行支援も開催中",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1Ra0Z4R0wwU2M3MzVPeVN3NmFTNDZETUlSQ3dOSjVmQzNpSzBQTUhTeWxSZXpfLXhzNncxSFcwUEg4Z3pscXF0NF9TckoyRXR5YWlnNXpWNjZDMFRw?oc=5"
-  },
-  {
-   "also": [],
-   "ends": null,
-   "home": false,
-   "image": "https://airstair.jp/images/2024/11/rakuten-rentcar-top.webp",
-   "kind": "宿",
-   "nationwide": false,
-   "published": "2026-08-18",
-   "score": 27,
-   "service": "楽天トラベル",
-   "size": "最大10%OFF",
-   "source": "airstair",
-   "starts": null,
-   "title": "【2026年8月】楽天トラベルレンタカークーポン 次回いつ？5と0のつく日から48時間・最大10%OFF",
-   "url": "https://airstair.jp/rakuten-rentcar-coupon/"
   },
   {
    "also": [],
@@ -1467,21 +1485,6 @@
    "home": false,
    "kind": "宿",
    "nationwide": false,
-   "published": "2026-10-05",
-   "score": 27,
-   "service": "楽天トラベル",
-   "size": "最大1万円",
-   "source": "トラベル Watch",
-   "starts": null,
-   "title": "楽天トラベル、奄美大島の宿泊が最大1万円引き。年末年始も対象、先着順で独自クーポン配布中",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE54cDRPTGJpZFFPTjZDdXp1Zm5mdVJPa2VuODVrSWpFakV3QjF5SGhXMTlWS3BobG9EZUdOSzJvMjlySm5BQXdqNTN4bnkzaHVwZ3otNHZFdDVDSjVJNzZmMUF5dERDOVlm?oc=5"
-  },
-  {
-   "also": [],
-   "ends": null,
-   "home": false,
-   "kind": "宿",
-   "nationwide": false,
    "published": "2026-10-07",
    "score": 27,
    "service": "じゃらん",
@@ -1566,21 +1569,6 @@
    "starts": null,
    "title": "楽天トラベルの月末セールは「月末スペシャルオファー」 次回いつ？クーポンの内訳と「スペシャルクーポンWEEK」との違い",
    "url": "https://airstair.jp/end-of-month-sale/"
-  },
-  {
-   "also": [],
-   "ends": null,
-   "home": false,
-   "kind": "宿",
-   "nationwide": false,
-   "published": "2026-10-30",
-   "score": 27,
-   "service": "じゃらん",
-   "size": "",
-   "source": "TRAICY（トライシー）",
-   "starts": "2026-10-30",
-   "title": "じゃらんnet、「じゃらんスペシャルウィーク」を10月30日開始 特別プランやクーポンも",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1FdmNWTjhMUlEzakI1bUZmVlpnaEFiU1lHUkZlaE4xS05CY3ZSbGVSbURkTnRHcmVuQmlYWDJ5dU9CYVlYeXBaV3NjLU41dm5oYXRuanZsQQ?oc=5"
   },
   {
    "also": [],
@@ -1741,7 +1729,7 @@
   },
   {
    "also": [
-    "北海道新聞デジタル"
+    "47NEWS"
    ],
    "ends": null,
    "home": false,
@@ -1751,10 +1739,10 @@
    "score": 22,
    "service": "ふるさと納税",
    "size": "",
-   "source": "47NEWS",
+   "source": "北海道新聞デジタル",
    "starts": null,
    "title": "室蘭市、ふるさと納税返礼品に宿泊クーポン 交流人口拡大目指す",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1MR3BXT0lDcmRYM1gtUURvMFlSUjNlVmNrS1FId2pXNmpFNGFEUENacDFvTHRXVVBRUGhrMlJaQnZLMlMwT1lkRGQ4OA?oc=5"
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE16UHZOeDcxeEFhR2tRVlJmZ3U0bWJNZWJHU2tkeWhwQnNla2g3amszX0IxU0szSV9aZUJvdzhXemU2eldWeUxkN0wyWEVfSXFjd2ZWNnV3M0hmUQ?oc=5"
   },
   {
    "also": [],
@@ -1998,6 +1986,21 @@
    "starts": null,
    "title": "楽天トラベル、自治体の旅行支援クーポン発行予定が2.2倍、重点支援地方交付金で拡大",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE83ei1xaWZ1d3AybnNkUzJMMTdnTGlpc0JUNUdHeWk5N2JCcjFVcXdlbHBlVXlYUEp1dFlnLXItZkVsZllBRU02QlBzSDFHR2dTWnU3MQ?oc=5"
+  },
+  {
+   "also": [],
+   "ends": null,
+   "home": false,
+   "kind": "宿",
+   "nationwide": false,
+   "published": "2026-09-01",
+   "score": 17,
+   "service": "じゃらん",
+   "size": "",
+   "source": "TRAICY（トライシー）",
+   "starts": "2026-08-31",
+   "title": "じゃらんnet、「じゃらんスペシャルウィーク」を8月31日開始 特別プランやクーポンも",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1IOXVrYkpyTURKRmtoWEVPVzNfdUNjVVdoVUk2TEJsNWFmWUtEWkpPa21fMk54aXl1c0Q3bHRQWUV0LVdaTThiMlk3ekRib01teWZHekZ0bw?oc=5"
   },
   {
    "also": [],
@@ -2409,7 +2412,6 @@
   "https://airstair.jp/yahoo-travel-timesale/",
   "https://airstair.jp/yahoo-travel/",
   "https://airstair.jp/year-end-new/",
-  "https://sky-budget.com/2026/11/21/jal-neobank-news/",
   "https://www.traicy.com/posts/20261121388886/",
   "https://www.traicy.com/posts/20261121389055/",
   "https://www.traicy.com/posts/20261122386450/",
@@ -2521,11 +2523,11 @@
   }
  ],
  "stats": {
-  "articles": 841,
+  "articles": 843,
   "deals": 149,
   "failed": 2,
   "fetched": 19,
-  "images": 33
+  "images": 32
  },
- "updated": "2026-11-23 08:09"
+ "updated": "2026-11-23 14:28"
 }
